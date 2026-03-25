@@ -1,0 +1,23 @@
+{
+  "id": "SWIMMERM_3",
+  "classId": "SWIMMERM",
+  "name": "RANDALL",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "SHELLDER"
+    },
+    {
+      "level": 20,
+      "speciesId": "WARTORTLE"
+    },
+    {
+      "level": 18,
+      "speciesId": "SHELLDER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

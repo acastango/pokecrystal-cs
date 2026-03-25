@@ -1,0 +1,99 @@
+{
+  "id": "CYNDAQUIL",
+  "name": "CYNDAQUIL",
+  "baseHp": 39,
+  "baseAttack": 52,
+  "baseDefense": 43,
+  "baseSpeed": 65,
+  "baseSpAtk": 60,
+  "baseSpDef": 50,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 65,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 6,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 12,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 19,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 27,
+      "moveId": "FLAME_WHEEL"
+    },
+    {
+      "level": 36,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 46,
+      "moveId": "FLAMETHROWER"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "QUILAVA",
+      "param": "14"
+    }
+  ],
+  "eggMoves": [
+    "FURY_SWIPES",
+    "QUICK_ATTACK",
+    "REVERSAL",
+    "THRASH",
+    "FORESIGHT",
+    "SUBMISSION"
+  ],
+  "spriteId": "cyndaquil",
+  "cryId": "cyndaquil"
+}

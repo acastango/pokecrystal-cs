@@ -1,0 +1,41 @@
+{
+  "id": "FISHER_22",
+  "classId": "FISHER",
+  "name": "WILTON",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "SEAKING",
+      "moves": [
+        "SUPERSONIC",
+        "WATERFALL",
+        "FLAIL",
+        "FURY_ATTACK"
+      ]
+    },
+    {
+      "level": 34,
+      "speciesId": "SEAKING",
+      "moves": [
+        "SUPERSONIC",
+        "WATERFALL",
+        "FLAIL",
+        "FURY_ATTACK"
+      ]
+    },
+    {
+      "level": 38,
+      "speciesId": "REMORAID",
+      "moves": [
+        "PSYBEAM",
+        "AURORA_BEAM",
+        "BUBBLEBEAM",
+        "HYPER_BEAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

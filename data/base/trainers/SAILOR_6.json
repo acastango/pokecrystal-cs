@@ -1,0 +1,19 @@
+{
+  "id": "SAILOR_6",
+  "classId": "SAILOR",
+  "name": "JEFF",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "RATICATE"
+    },
+    {
+      "level": 32,
+      "speciesId": "RATICATE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

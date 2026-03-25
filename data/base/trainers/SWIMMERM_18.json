@@ -1,0 +1,23 @@
+{
+  "id": "SWIMMERM_18",
+  "classId": "SWIMMERM",
+  "name": "SETH",
+  "party": [
+    {
+      "level": 29,
+      "speciesId": "QUAGSIRE"
+    },
+    {
+      "level": 29,
+      "speciesId": "OCTILLERY"
+    },
+    {
+      "level": 32,
+      "speciesId": "QUAGSIRE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

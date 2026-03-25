@@ -1,0 +1,92 @@
+{
+  "id": "MAREEP",
+  "name": "MAREEP",
+  "baseHp": 55,
+  "baseAttack": 40,
+  "baseDefense": 40,
+  "baseSpeed": 35,
+  "baseSpAtk": 65,
+  "baseSpDef": 45,
+  "type1Id": "ELECTRIC",
+  "type2Id": "ELECTRIC",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 235,
+  "baseExp": 59,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 9,
+      "moveId": "THUNDERSHOCK"
+    },
+    {
+      "level": 16,
+      "moveId": "THUNDER_WAVE"
+    },
+    {
+      "level": 23,
+      "moveId": "COTTON_SPORE"
+    },
+    {
+      "level": 30,
+      "moveId": "LIGHT_SCREEN"
+    },
+    {
+      "level": 37,
+      "moveId": "THUNDER"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "FLAAFFY",
+      "param": "15"
+    }
+  ],
+  "eggMoves": [
+    "THUNDERBOLT",
+    "TAKE_DOWN",
+    "BODY_SLAM",
+    "SAFEGUARD",
+    "SCREECH",
+    "REFLECT"
+  ],
+  "spriteId": "mareep",
+  "cryId": "mareep"
+}

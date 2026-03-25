@@ -1,0 +1,97 @@
+{
+  "id": "PONYTA",
+  "name": "PONYTA",
+  "baseHp": 50,
+  "baseAttack": 85,
+  "baseDefense": 55,
+  "baseSpeed": 90,
+  "baseSpAtk": 65,
+  "baseSpDef": 65,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 152,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 4,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 8,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 13,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 19,
+      "moveId": "STOMP"
+    },
+    {
+      "level": 26,
+      "moveId": "FIRE_SPIN"
+    },
+    {
+      "level": 34,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 43,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 53,
+      "moveId": "FIRE_BLAST"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "RAPIDASH",
+      "param": "40"
+    }
+  ],
+  "eggMoves": [
+    "FLAME_WHEEL",
+    "THRASH",
+    "DOUBLE_KICK",
+    "HYPNOSIS",
+    "CHARM",
+    "QUICK_ATTACK"
+  ],
+  "spriteId": "ponyta",
+  "cryId": "ponyta"
+}

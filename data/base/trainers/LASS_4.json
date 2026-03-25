@@ -1,0 +1,19 @@
+{
+  "id": "LASS_4",
+  "classId": "LASS",
+  "name": "KRISE",
+  "party": [
+    {
+      "level": 12,
+      "speciesId": "ODDISH"
+    },
+    {
+      "level": 15,
+      "speciesId": "CUBONE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "EXECUTIVEF_1",
+  "classId": "EXECUTIVEF",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "ARBOK",
+      "moves": [
+        "WRAP",
+        "POISON_STING",
+        "BITE",
+        "GLARE"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "VILEPLUME",
+      "moves": [
+        "ABSORB",
+        "SWEET_SCENT",
+        "SLEEP_POWDER",
+        "ACID"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "MURKROW",
+      "moves": [
+        "PECK",
+        "PURSUIT",
+        "HAZE",
+        "NIGHT_SHADE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

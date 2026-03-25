@@ -1,0 +1,115 @@
+{
+  "mapId": "UNION_CAVE_1F",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 6,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 6,
+        "speciesId": "SANDSHREW"
+      },
+      {
+        "level": 5,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 4,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 6,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 6,
+        "speciesId": "ONIX"
+      }
+    ],
+    "day": [
+      {
+        "level": 6,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 6,
+        "speciesId": "SANDSHREW"
+      },
+      {
+        "level": 5,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 4,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 6,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 6,
+        "speciesId": "ONIX"
+      }
+    ],
+    "nite": [
+      {
+        "level": 6,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 6,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 5,
+        "speciesId": "WOOPER"
+      },
+      {
+        "level": 4,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 6,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 6,
+        "speciesId": "ONIX"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "WOOPER"
+      },
+      {
+        "level": 20,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 15,
+        "speciesId": "QUAGSIRE"
+      }
+    ]
+  }
+}

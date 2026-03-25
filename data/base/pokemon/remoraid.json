@@ -1,0 +1,96 @@
+{
+  "id": "REMORAID",
+  "name": "REMORAID",
+  "baseHp": 35,
+  "baseAttack": 65,
+  "baseDefense": 35,
+  "baseSpeed": 65,
+  "baseSpAtk": 65,
+  "baseSpDef": 35,
+  "type1Id": "WATER",
+  "type2Id": "WATER",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_WATER_2"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 78,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "SURF",
+    "WHIRLPOOL",
+    "FLAMETHROWER",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 11,
+      "moveId": "LOCK_ON"
+    },
+    {
+      "level": 22,
+      "moveId": "PSYBEAM"
+    },
+    {
+      "level": 22,
+      "moveId": "AURORA_BEAM"
+    },
+    {
+      "level": 22,
+      "moveId": "BUBBLEBEAM"
+    },
+    {
+      "level": 33,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 44,
+      "moveId": "ICE_BEAM"
+    },
+    {
+      "level": 55,
+      "moveId": "HYPER_BEAM"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "OCTILLERY",
+      "param": "25"
+    }
+  ],
+  "eggMoves": [
+    "AURORA_BEAM",
+    "OCTAZOOKA",
+    "SUPERSONIC",
+    "HAZE",
+    "SCREECH"
+  ],
+  "spriteId": "remoraid",
+  "cryId": "remoraid"
+}

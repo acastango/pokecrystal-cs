@@ -1,0 +1,21 @@
+{
+  "id": "COOLTRAINERM_20",
+  "classId": "COOLTRAINERM",
+  "name": "DARIN",
+  "party": [
+    {
+      "level": 37,
+      "speciesId": "DRAGONAIR",
+      "moves": [
+        "WRAP",
+        "SURF",
+        "DRAGON_RAGE",
+        "SLAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

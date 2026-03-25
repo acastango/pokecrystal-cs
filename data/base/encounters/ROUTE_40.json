@@ -1,0 +1,21 @@
+{
+  "mapId": "ROUTE_40",
+  "grass": null,
+  "water": {
+    "rate": 6,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 15,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 20,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

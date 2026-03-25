@@ -1,0 +1,21 @@
+{
+  "id": "BIRDKEEPER_17",
+  "classId": "BIRDKEEPER",
+  "name": "JOSE",
+  "party": [
+    {
+      "level": 40,
+      "speciesId": "FARFETCH_D",
+      "moves": [
+        "FURY_ATTACK",
+        "DETECT",
+        "FLY",
+        "SLASH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

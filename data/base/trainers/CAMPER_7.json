@@ -1,0 +1,19 @@
+{
+  "id": "CAMPER_7",
+  "classId": "CAMPER",
+  "name": "DEAN",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "GOLDUCK"
+    },
+    {
+      "level": 31,
+      "speciesId": "SANDSLASH"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

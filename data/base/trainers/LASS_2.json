@@ -1,0 +1,23 @@
+{
+  "id": "LASS_2",
+  "classId": "LASS",
+  "name": "BRIDGET",
+  "party": [
+    {
+      "level": 15,
+      "speciesId": "JIGGLYPUFF"
+    },
+    {
+      "level": 15,
+      "speciesId": "JIGGLYPUFF"
+    },
+    {
+      "level": 15,
+      "speciesId": "JIGGLYPUFF"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

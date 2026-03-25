@@ -1,0 +1,15 @@
+{
+  "id": "GRUNTM_23",
+  "classId": "GRUNTM",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "KOFFING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

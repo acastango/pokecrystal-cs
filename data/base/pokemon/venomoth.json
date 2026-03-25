@@ -1,0 +1,104 @@
+{
+  "id": "VENOMOTH",
+  "name": "VENOMOTH",
+  "baseHp": 70,
+  "baseAttack": 65,
+  "baseDefense": 60,
+  "baseSpeed": 90,
+  "baseSpAtk": 90,
+  "baseSpDef": 75,
+  "type1Id": "BUG",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 138,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 1,
+      "moveId": "FORESIGHT"
+    },
+    {
+      "level": 1,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 9,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 17,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 20,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 25,
+      "moveId": "LEECH_LIFE"
+    },
+    {
+      "level": 28,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 31,
+      "moveId": "GUST"
+    },
+    {
+      "level": 36,
+      "moveId": "PSYBEAM"
+    },
+    {
+      "level": 42,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 52,
+      "moveId": "PSYCHIC_M"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "venomoth",
+  "cryId": "venomoth"
+}

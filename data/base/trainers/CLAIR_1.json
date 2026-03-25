@@ -1,0 +1,51 @@
+{
+  "id": "CLAIR_1",
+  "classId": "CLAIR",
+  "name": "CLAIR",
+  "party": [
+    {
+      "level": 37,
+      "speciesId": "DRAGONAIR",
+      "moves": [
+        "THUNDER_WAVE",
+        "SURF",
+        "SLAM",
+        "DRAGONBREATH"
+      ]
+    },
+    {
+      "level": 37,
+      "speciesId": "DRAGONAIR",
+      "moves": [
+        "THUNDER_WAVE",
+        "THUNDERBOLT",
+        "SLAM",
+        "DRAGONBREATH"
+      ]
+    },
+    {
+      "level": 37,
+      "speciesId": "DRAGONAIR",
+      "moves": [
+        "THUNDER_WAVE",
+        "ICE_BEAM",
+        "SLAM",
+        "DRAGONBREATH"
+      ]
+    },
+    {
+      "level": 40,
+      "speciesId": "KINGDRA",
+      "moves": [
+        "SMOKESCREEN",
+        "SURF",
+        "HYPER_BEAM",
+        "DRAGONBREATH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

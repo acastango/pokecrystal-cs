@@ -1,0 +1,91 @@
+{
+  "id": "HERACROSS",
+  "name": "HERACROSS",
+  "baseHp": 80,
+  "baseAttack": 125,
+  "baseDefense": 75,
+  "baseSpeed": 85,
+  "baseSpAtk": 40,
+  "baseSpDef": 95,
+  "type1Id": "BUG",
+  "type2Id": "FIGHTING",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 200,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FURY_CUTTER",
+    "CUT",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 6,
+      "moveId": "HORN_ATTACK"
+    },
+    {
+      "level": 12,
+      "moveId": "ENDURE"
+    },
+    {
+      "level": 19,
+      "moveId": "FURY_ATTACK"
+    },
+    {
+      "level": 27,
+      "moveId": "COUNTER"
+    },
+    {
+      "level": 35,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 44,
+      "moveId": "REVERSAL"
+    },
+    {
+      "level": 54,
+      "moveId": "MEGAHORN"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "HARDEN",
+    "BIDE",
+    "FLAIL"
+  ],
+  "spriteId": "heracross",
+  "cryId": "heracross"
+}

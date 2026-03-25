@@ -1,0 +1,27 @@
+{
+  "id": "FISHER_14",
+  "classId": "FISHER",
+  "name": "STEPHEN",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "MAGIKARP"
+    },
+    {
+      "level": 25,
+      "speciesId": "MAGIKARP"
+    },
+    {
+      "level": 31,
+      "speciesId": "QWILFISH"
+    },
+    {
+      "level": 31,
+      "speciesId": "TENTACRUEL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

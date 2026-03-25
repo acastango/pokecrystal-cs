@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_9",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 15,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 15,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 18,
+        "speciesId": "MAROWAK"
+      },
+      {
+        "level": 18,
+        "speciesId": "MAROWAK"
+      }
+    ],
+    "day": [
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 15,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 15,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 18,
+        "speciesId": "MAROWAK"
+      },
+      {
+        "level": 18,
+        "speciesId": "MAROWAK"
+      }
+    ],
+    "nite": [
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 15,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "VENOMOTH"
+      },
+      {
+        "level": 15,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 18,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 18,
+        "speciesId": "RATICATE"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 10,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 15,
+        "speciesId": "SEAKING"
+      }
+    ]
+  }
+}

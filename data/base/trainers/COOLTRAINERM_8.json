@@ -1,0 +1,31 @@
+{
+  "id": "COOLTRAINERM_8",
+  "classId": "COOLTRAINERM",
+  "name": "RYAN",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "PIDGEOT",
+      "moves": [
+        "SAND_ATTACK",
+        "QUICK_ATTACK",
+        "WHIRLWIND",
+        "WING_ATTACK"
+      ]
+    },
+    {
+      "level": 27,
+      "speciesId": "ELECTABUZZ",
+      "moves": [
+        "THUNDERPUNCH",
+        "LIGHT_SCREEN",
+        "SWIFT",
+        "SCREECH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

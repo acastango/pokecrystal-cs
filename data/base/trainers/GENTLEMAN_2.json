@@ -1,0 +1,15 @@
+{
+  "id": "GENTLEMAN_2",
+  "classId": "GENTLEMAN",
+  "name": "EDWARD",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "PERSIAN"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

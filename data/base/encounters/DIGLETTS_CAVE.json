@@ -1,0 +1,99 @@
+{
+  "mapId": "DIGLETTS_CAVE",
+  "grass": {
+    "mornRate": 4,
+    "dayRate": 2,
+    "niteRate": 8,
+    "morn": [
+      {
+        "level": 3,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 6,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 12,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 24,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 24,
+        "speciesId": "DUGTRIO"
+      },
+      {
+        "level": 24,
+        "speciesId": "DUGTRIO"
+      },
+      {
+        "level": 24,
+        "speciesId": "DUGTRIO"
+      }
+    ],
+    "day": [
+      {
+        "level": 2,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 4,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 8,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 16,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 16,
+        "speciesId": "DUGTRIO"
+      },
+      {
+        "level": 16,
+        "speciesId": "DUGTRIO"
+      },
+      {
+        "level": 16,
+        "speciesId": "DUGTRIO"
+      }
+    ],
+    "nite": [
+      {
+        "level": 4,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 8,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 16,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 32,
+        "speciesId": "DIGLETT"
+      },
+      {
+        "level": 32,
+        "speciesId": "DUGTRIO"
+      },
+      {
+        "level": 32,
+        "speciesId": "DUGTRIO"
+      },
+      {
+        "level": 32,
+        "speciesId": "DUGTRIO"
+      }
+    ]
+  },
+  "water": null
+}

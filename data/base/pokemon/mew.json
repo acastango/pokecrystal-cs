@@ -1,0 +1,113 @@
+{
+  "id": "MEW",
+  "name": "MEW",
+  "baseHp": 100,
+  "baseAttack": 100,
+  "baseDefense": 100,
+  "baseSpeed": 100,
+  "baseSpAtk": 100,
+  "baseSpDef": 100,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 45,
+  "baseExp": 64,
+  "hatchCycles": 120,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "THUNDER",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STEEL_WING",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "NIGHTMARE",
+    "CUT",
+    "FLY",
+    "SURF",
+    "STRENGTH",
+    "FLASH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POUND"
+    },
+    {
+      "level": 10,
+      "moveId": "TRANSFORM"
+    },
+    {
+      "level": 20,
+      "moveId": "MEGA_PUNCH"
+    },
+    {
+      "level": 30,
+      "moveId": "METRONOME"
+    },
+    {
+      "level": 40,
+      "moveId": "PSYCHIC_M"
+    },
+    {
+      "level": 50,
+      "moveId": "ANCIENTPOWER"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "mew",
+  "cryId": "mew"
+}

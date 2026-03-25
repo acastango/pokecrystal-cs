@@ -1,0 +1,99 @@
+{
+  "mapId": "ROCK_TUNNEL_1F",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 10,
+        "speciesId": "CUBONE"
+      },
+      {
+        "level": 11,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 12,
+        "speciesId": "MACHOP"
+      },
+      {
+        "level": 12,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "MACHOKE"
+      },
+      {
+        "level": 12,
+        "speciesId": "MAROWAK"
+      },
+      {
+        "level": 12,
+        "speciesId": "MAROWAK"
+      }
+    ],
+    "day": [
+      {
+        "level": 10,
+        "speciesId": "CUBONE"
+      },
+      {
+        "level": 11,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 12,
+        "speciesId": "MACHOP"
+      },
+      {
+        "level": 12,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "MACHOKE"
+      },
+      {
+        "level": 12,
+        "speciesId": "MAROWAK"
+      },
+      {
+        "level": 12,
+        "speciesId": "MAROWAK"
+      }
+    ],
+    "nite": [
+      {
+        "level": 12,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 11,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 12,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 17,
+        "speciesId": "HAUNTER"
+      },
+      {
+        "level": 15,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "ZUBAT"
+      }
+    ]
+  },
+  "water": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "RED_1",
+  "classId": "RED",
+  "name": "RED",
+  "party": [
+    {
+      "level": 81,
+      "speciesId": "PIKACHU",
+      "moves": [
+        "CHARM",
+        "QUICK_ATTACK",
+        "THUNDERBOLT",
+        "THUNDER"
+      ]
+    },
+    {
+      "level": 73,
+      "speciesId": "ESPEON",
+      "moves": [
+        "MUD_SLAP",
+        "REFLECT",
+        "SWIFT",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 75,
+      "speciesId": "SNORLAX",
+      "moves": [
+        "AMNESIA",
+        "SNORE",
+        "REST",
+        "BODY_SLAM"
+      ]
+    },
+    {
+      "level": 77,
+      "speciesId": "VENUSAUR",
+      "moves": [
+        "SUNNY_DAY",
+        "GIGA_DRAIN",
+        "SYNTHESIS",
+        "SOLARBEAM"
+      ]
+    },
+    {
+      "level": 77,
+      "speciesId": "CHARIZARD",
+      "moves": [
+        "FLAMETHROWER",
+        "WING_ATTACK",
+        "SLASH",
+        "FIRE_SPIN"
+      ]
+    },
+    {
+      "level": 77,
+      "speciesId": "BLASTOISE",
+      "moves": [
+        "RAIN_DANCE",
+        "SURF",
+        "BLIZZARD",
+        "WHIRLPOOL"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

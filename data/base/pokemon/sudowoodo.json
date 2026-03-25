@@ -1,0 +1,88 @@
+{
+  "id": "SUDOWOODO",
+  "name": "SUDOWOODO",
+  "baseHp": 70,
+  "baseAttack": 100,
+  "baseDefense": 115,
+  "baseSpeed": 30,
+  "baseSpAtk": 30,
+  "baseSpDef": 65,
+  "type1Id": "ROCK",
+  "type2Id": "ROCK",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_MINERAL",
+    "EGG_MINERAL"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 65,
+  "baseExp": 135,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "ROCK_THROW"
+    },
+    {
+      "level": 1,
+      "moveId": "MIMIC"
+    },
+    {
+      "level": 10,
+      "moveId": "FLAIL"
+    },
+    {
+      "level": 19,
+      "moveId": "LOW_KICK"
+    },
+    {
+      "level": 28,
+      "moveId": "ROCK_SLIDE"
+    },
+    {
+      "level": 37,
+      "moveId": "FAINT_ATTACK"
+    },
+    {
+      "level": 46,
+      "moveId": "SLAM"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "SELFDESTRUCT"
+  ],
+  "spriteId": "sudowoodo",
+  "cryId": "sudowoodo"
+}

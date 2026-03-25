@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>PokeCrystal.Rendering</RootNamespace>
+    <AssemblyName>PokeCrystal.Rendering</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PokeCrystal.Schema\PokeCrystal.Schema.csproj" />
+    <ProjectReference Include="..\PokeCrystal.Data\PokeCrystal.Data.csproj" />
+    <ProjectReference Include="..\PokeCrystal.World\PokeCrystal.World.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.0" />
+    <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303" />
+  </ItemGroup>
+
+</Project>

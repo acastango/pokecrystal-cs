@@ -1,0 +1,19 @@
+{
+  "id": "GRUNTM_6",
+  "classId": "GRUNTM",
+  "name": "GRUNT",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "ZUBAT"
+    },
+    {
+      "level": 26,
+      "speciesId": "ZUBAT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

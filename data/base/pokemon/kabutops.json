@@ -1,0 +1,97 @@
+{
+  "id": "KABUTOPS",
+  "name": "KABUTOPS",
+  "baseHp": 60,
+  "baseAttack": 115,
+  "baseDefense": 105,
+  "baseSpeed": 80,
+  "baseSpAtk": 65,
+  "baseSpDef": 70,
+  "type1Id": "ROCK",
+  "type2Id": "WATER",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_WATER_3"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 201,
+  "hatchCycles": 30,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FURY_CUTTER",
+    "CUT",
+    "SURF",
+    "WHIRLPOOL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 1,
+      "moveId": "ABSORB"
+    },
+    {
+      "level": 10,
+      "moveId": "ABSORB"
+    },
+    {
+      "level": 19,
+      "moveId": "LEER"
+    },
+    {
+      "level": 28,
+      "moveId": "SAND_ATTACK"
+    },
+    {
+      "level": 37,
+      "moveId": "ENDURE"
+    },
+    {
+      "level": 40,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 51,
+      "moveId": "MEGA_DRAIN"
+    },
+    {
+      "level": 65,
+      "moveId": "ANCIENTPOWER"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "kabutops",
+  "cryId": "kabutops"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "METAPOD",
+  "name": "METAPOD",
+  "baseHp": 50,
+  "baseAttack": 20,
+  "baseDefense": 55,
+  "baseSpeed": 30,
+  "baseSpAtk": 25,
+  "baseSpDef": 25,
+  "type1Id": "BUG",
+  "type2Id": "BUG",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 120,
+  "baseExp": 72,
+  "hatchCycles": 15,
+  "tmHmMoves": [],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 7,
+      "moveId": "HARDEN"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "BUTTERFREE",
+      "param": "10"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "metapod",
+  "cryId": "metapod"
+}

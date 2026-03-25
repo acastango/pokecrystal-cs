@@ -1,0 +1,23 @@
+{
+  "id": "KIMONOGIRL_1",
+  "classId": "KIMONOGIRL",
+  "name": "NAOKO",
+  "party": [
+    {
+      "level": 20,
+      "speciesId": "SKIPLOOM"
+    },
+    {
+      "level": 20,
+      "speciesId": "VULPIX"
+    },
+    {
+      "level": 18,
+      "speciesId": "SKIPLOOM"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

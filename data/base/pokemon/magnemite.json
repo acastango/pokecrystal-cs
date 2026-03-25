@@ -1,0 +1,90 @@
+{
+  "id": "MAGNEMITE",
+  "name": "MAGNEMITE",
+  "baseHp": 25,
+  "baseAttack": 35,
+  "baseDefense": 70,
+  "baseSpeed": 45,
+  "baseSpAtk": 95,
+  "baseSpDef": 55,
+  "type1Id": "ELECTRIC",
+  "type2Id": "STEEL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_MINERAL",
+    "EGG_MINERAL"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 190,
+  "baseExp": 89,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "REST",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 6,
+      "moveId": "THUNDERSHOCK"
+    },
+    {
+      "level": 11,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 16,
+      "moveId": "SONICBOOM"
+    },
+    {
+      "level": 21,
+      "moveId": "THUNDER_WAVE"
+    },
+    {
+      "level": 27,
+      "moveId": "LOCK_ON"
+    },
+    {
+      "level": 33,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 39,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 45,
+      "moveId": "ZAP_CANNON"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "MAGNETON",
+      "param": "30"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "magnemite",
+  "cryId": "magnemite"
+}

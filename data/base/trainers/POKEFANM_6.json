@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANM_6",
+  "classId": "POKEFANM",
+  "name": "TREVOR",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "PSYDUCK",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

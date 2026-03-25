@@ -1,0 +1,19 @@
+{
+  "id": "POKEMANIAC_4",
+  "classId": "POKEMANIAC",
+  "name": "SHANE",
+  "party": [
+    {
+      "level": 16,
+      "speciesId": "NIDORINA"
+    },
+    {
+      "level": 16,
+      "speciesId": "NIDORINO"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

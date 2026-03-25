@@ -1,0 +1,19 @@
+{
+  "id": "BOARDER_2",
+  "classId": "BOARDER",
+  "name": "BRAD",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "SWINUB"
+    },
+    {
+      "level": 26,
+      "speciesId": "SWINUB"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

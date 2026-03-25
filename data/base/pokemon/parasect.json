@@ -1,0 +1,94 @@
+{
+  "id": "PARASECT",
+  "name": "PARASECT",
+  "baseHp": 60,
+  "baseAttack": 95,
+  "baseDefense": 80,
+  "baseSpeed": 30,
+  "baseSpAtk": 60,
+  "baseSpDef": 80,
+  "type1Id": "BUG",
+  "type2Id": "GRASS",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 128,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DIG",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FURY_CUTTER",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 1,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 7,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 13,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 19,
+      "moveId": "LEECH_LIFE"
+    },
+    {
+      "level": 28,
+      "moveId": "SPORE"
+    },
+    {
+      "level": 37,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 46,
+      "moveId": "GROWTH"
+    },
+    {
+      "level": 55,
+      "moveId": "GIGA_DRAIN"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "parasect",
+  "cryId": "parasect"
+}

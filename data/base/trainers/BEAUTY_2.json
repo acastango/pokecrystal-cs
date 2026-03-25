@@ -1,0 +1,31 @@
+{
+  "id": "BEAUTY_2",
+  "classId": "BEAUTY",
+  "name": "SAMANTHA",
+  "party": [
+    {
+      "level": 16,
+      "speciesId": "MEOWTH",
+      "moves": [
+        "SCRATCH",
+        "GROWL",
+        "BITE",
+        "PAY_DAY"
+      ]
+    },
+    {
+      "level": 16,
+      "speciesId": "MEOWTH",
+      "moves": [
+        "SCRATCH",
+        "GROWL",
+        "BITE",
+        "SLASH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

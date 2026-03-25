@@ -1,0 +1,92 @@
+{
+  "id": "DODUO",
+  "name": "DODUO",
+  "baseHp": 35,
+  "baseAttack": 85,
+  "baseDefense": 45,
+  "baseSpeed": 75,
+  "baseSpAtk": 35,
+  "baseSpDef": 35,
+  "type1Id": "NORMAL",
+  "type2Id": "FLYING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_FLYING",
+    "EGG_FLYING"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 96,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STEEL_WING",
+    "FLY"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "PECK"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 9,
+      "moveId": "PURSUIT"
+    },
+    {
+      "level": 13,
+      "moveId": "FURY_ATTACK"
+    },
+    {
+      "level": 21,
+      "moveId": "TRI_ATTACK"
+    },
+    {
+      "level": 25,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 33,
+      "moveId": "DRILL_PECK"
+    },
+    {
+      "level": 37,
+      "moveId": "AGILITY"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "DODRIO",
+      "param": "31"
+    }
+  ],
+  "eggMoves": [
+    "QUICK_ATTACK",
+    "SUPERSONIC",
+    "HAZE",
+    "FAINT_ATTACK",
+    "FLAIL"
+  ],
+  "spriteId": "doduo",
+  "cryId": "doduo"
+}

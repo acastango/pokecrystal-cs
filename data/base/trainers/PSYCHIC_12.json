@@ -1,0 +1,19 @@
+{
+  "id": "PSYCHIC_12",
+  "classId": "PSYCHIC",
+  "name": "RODNEY",
+  "party": [
+    {
+      "level": 29,
+      "speciesId": "DROWZEE"
+    },
+    {
+      "level": 33,
+      "speciesId": "HYPNO"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

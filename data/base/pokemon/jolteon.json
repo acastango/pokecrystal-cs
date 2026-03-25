@@ -1,0 +1,96 @@
+{
+  "id": "JOLTEON",
+  "name": "JOLTEON",
+  "baseHp": 65,
+  "baseAttack": 65,
+  "baseDefense": 60,
+  "baseSpeed": 130,
+  "baseSpAtk": 110,
+  "baseSpDef": 95,
+  "type1Id": "ELECTRIC",
+  "type2Id": "ELECTRIC",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 197,
+  "hatchCycles": 35,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 8,
+      "moveId": "SAND_ATTACK"
+    },
+    {
+      "level": 16,
+      "moveId": "THUNDERSHOCK"
+    },
+    {
+      "level": 23,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 30,
+      "moveId": "DOUBLE_KICK"
+    },
+    {
+      "level": 36,
+      "moveId": "PIN_MISSILE"
+    },
+    {
+      "level": 42,
+      "moveId": "THUNDER_WAVE"
+    },
+    {
+      "level": 47,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 52,
+      "moveId": "THUNDER"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "jolteon",
+  "cryId": "jolteon"
+}

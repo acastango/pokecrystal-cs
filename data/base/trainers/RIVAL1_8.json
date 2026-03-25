@@ -1,0 +1,51 @@
+{
+  "id": "RIVAL1_8",
+  "classId": "RIVAL1",
+  "name": "?",
+  "party": [
+    {
+      "level": 20,
+      "speciesId": "HAUNTER",
+      "moves": [
+        "LICK",
+        "SPITE",
+        "MEAN_LOOK",
+        "CURSE"
+      ]
+    },
+    {
+      "level": 18,
+      "speciesId": "MAGNEMITE",
+      "moves": [
+        "TACKLE",
+        "THUNDERSHOCK",
+        "SUPERSONIC",
+        "SONICBOOM"
+      ]
+    },
+    {
+      "level": 20,
+      "speciesId": "ZUBAT",
+      "moves": [
+        "LEECH_LIFE",
+        "SUPERSONIC",
+        "BITE",
+        "CONFUSE_RAY"
+      ]
+    },
+    {
+      "level": 22,
+      "speciesId": "QUILAVA",
+      "moves": [
+        "LEER",
+        "SMOKESCREEN",
+        "EMBER",
+        "QUICK_ATTACK"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

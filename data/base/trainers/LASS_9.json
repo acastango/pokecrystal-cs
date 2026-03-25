@@ -1,0 +1,23 @@
+{
+  "id": "LASS_9",
+  "classId": "LASS",
+  "name": "MICHELLE",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "SKIPLOOM"
+    },
+    {
+      "level": 33,
+      "speciesId": "HOPPIP"
+    },
+    {
+      "level": 34,
+      "speciesId": "JUMPLUFF"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,32 @@
+{
+  "id": "UNOWN",
+  "name": "UNOWN",
+  "baseHp": 48,
+  "baseAttack": 72,
+  "baseDefense": 48,
+  "baseSpeed": 48,
+  "baseSpAtk": 72,
+  "baseSpDef": 48,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 225,
+  "baseExp": 61,
+  "hatchCycles": 40,
+  "tmHmMoves": [],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "HIDDEN_POWER"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "unown",
+  "cryId": "unown"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "COOLTRAINERF_8",
+  "classId": "COOLTRAINERF",
+  "name": "JOYCE",
+  "party": [
+    {
+      "level": 36,
+      "speciesId": "PIKACHU",
+      "moves": [
+        "QUICK_ATTACK",
+        "DOUBLE_TEAM",
+        "THUNDERBOLT",
+        "THUNDER"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "BLASTOISE",
+      "moves": [
+        "BITE",
+        "CURSE",
+        "SURF",
+        "RAIN_DANCE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

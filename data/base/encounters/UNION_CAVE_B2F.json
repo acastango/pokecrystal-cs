@@ -1,0 +1,115 @@
+{
+  "mapId": "UNION_CAVE_B2F",
+  "grass": {
+    "mornRate": 4,
+    "dayRate": 4,
+    "niteRate": 4,
+    "morn": [
+      {
+        "level": 22,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 21,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 20,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 23,
+        "speciesId": "ONIX"
+      }
+    ],
+    "day": [
+      {
+        "level": 22,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 21,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 20,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 23,
+        "speciesId": "ONIX"
+      }
+    ],
+    "nite": [
+      {
+        "level": 22,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 21,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 20,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 23,
+        "speciesId": "ONIX"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 20,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 20,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

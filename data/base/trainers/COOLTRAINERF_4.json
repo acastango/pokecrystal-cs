@@ -1,0 +1,19 @@
+{
+  "id": "COOLTRAINERF_4",
+  "classId": "COOLTRAINERF",
+  "name": "LOLA",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "DRATINI"
+    },
+    {
+      "level": 36,
+      "speciesId": "DRAGONAIR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

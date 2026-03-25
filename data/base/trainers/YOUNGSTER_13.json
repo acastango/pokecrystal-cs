@@ -1,0 +1,21 @@
+{
+  "id": "YOUNGSTER_13",
+  "classId": "YOUNGSTER",
+  "name": "JOEY",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "RATICATE",
+      "moves": [
+        "TAIL_WHIP",
+        "QUICK_ATTACK",
+        "HYPER_FANG",
+        "PURSUIT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

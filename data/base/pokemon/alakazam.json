@@ -1,0 +1,99 @@
+{
+  "id": "ALAKAZAM",
+  "name": "ALAKAZAM",
+  "baseHp": 55,
+  "baseAttack": 50,
+  "baseDefense": 45,
+  "baseSpeed": 120,
+  "baseSpAtk": 135,
+  "baseSpDef": 85,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 0.25,
+  "catchRate": 50,
+  "baseExp": 186,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "DIG",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "THUNDERPUNCH",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "NIGHTMARE",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TELEPORT"
+    },
+    {
+      "level": 1,
+      "moveId": "KINESIS"
+    },
+    {
+      "level": 1,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 16,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 18,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 21,
+      "moveId": "PSYBEAM"
+    },
+    {
+      "level": 26,
+      "moveId": "RECOVER"
+    },
+    {
+      "level": 31,
+      "moveId": "FUTURE_SIGHT"
+    },
+    {
+      "level": 38,
+      "moveId": "PSYCHIC_M"
+    },
+    {
+      "level": 45,
+      "moveId": "REFLECT"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "alakazam",
+  "cryId": "alakazam"
+}

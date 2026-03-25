@@ -1,0 +1,19 @@
+{
+  "id": "GRUNTM_15",
+  "classId": "GRUNTM",
+  "name": "GRUNT",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "GRIMER"
+    },
+    {
+      "level": 23,
+      "speciesId": "WEEZING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

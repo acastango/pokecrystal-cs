@@ -1,0 +1,15 @@
+{
+  "id": "GRUNTF_2",
+  "classId": "GRUNTF",
+  "name": "GRUNT",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "ARBOK"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

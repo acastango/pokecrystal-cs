@@ -1,0 +1,71 @@
+{
+  "id": "RIVAL2_3",
+  "classId": "RIVAL2",
+  "name": "?",
+  "party": [
+    {
+      "level": 41,
+      "speciesId": "SNEASEL",
+      "moves": [
+        "QUICK_ATTACK",
+        "SCREECH",
+        "FAINT_ATTACK",
+        "FURY_CUTTER"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "GOLBAT",
+      "moves": [
+        "LEECH_LIFE",
+        "BITE",
+        "CONFUSE_RAY",
+        "WING_ATTACK"
+      ]
+    },
+    {
+      "level": 41,
+      "speciesId": "MAGNETON",
+      "moves": [
+        "THUNDERSHOCK",
+        "SONICBOOM",
+        "THUNDER_WAVE",
+        "SWIFT"
+      ]
+    },
+    {
+      "level": 43,
+      "speciesId": "GENGAR",
+      "moves": [
+        "MEAN_LOOK",
+        "CURSE",
+        "SHADOW_BALL",
+        "CONFUSE_RAY"
+      ]
+    },
+    {
+      "level": 43,
+      "speciesId": "ALAKAZAM",
+      "moves": [
+        "DISABLE",
+        "RECOVER",
+        "FUTURE_SIGHT",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 45,
+      "speciesId": "FERALIGATR",
+      "moves": [
+        "RAGE",
+        "WATER_GUN",
+        "SCARY_FACE",
+        "SLASH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

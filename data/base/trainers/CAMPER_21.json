@@ -1,0 +1,51 @@
+{
+  "id": "CAMPER_21",
+  "classId": "CAMPER",
+  "name": "TODD",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "GRAVELER",
+      "moves": [
+        "SELFDESTRUCT",
+        "ROCK_THROW",
+        "HARDEN",
+        "MAGNITUDE"
+      ]
+    },
+    {
+      "level": 33,
+      "speciesId": "GRAVELER",
+      "moves": [
+        "SELFDESTRUCT",
+        "ROCK_THROW",
+        "HARDEN",
+        "MAGNITUDE"
+      ]
+    },
+    {
+      "level": 36,
+      "speciesId": "MAGCARGO",
+      "moves": [
+        "ROCK_THROW",
+        "HARDEN",
+        "AMNESIA",
+        "FLAMETHROWER"
+      ]
+    },
+    {
+      "level": 34,
+      "speciesId": "GOLDUCK",
+      "moves": [
+        "DISABLE",
+        "PSYCHIC_M",
+        "SURF",
+        "PSYCH_UP"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

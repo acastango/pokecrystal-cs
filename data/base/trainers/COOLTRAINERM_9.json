@@ -1,0 +1,31 @@
+{
+  "id": "COOLTRAINERM_9",
+  "classId": "COOLTRAINERM",
+  "name": "JAKE",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "PARASECT",
+      "moves": [
+        "LEECH_LIFE",
+        "SPORE",
+        "SLASH",
+        "SWORDS_DANCE"
+      ]
+    },
+    {
+      "level": 35,
+      "speciesId": "GOLDUCK",
+      "moves": [
+        "CONFUSION",
+        "SCREECH",
+        "PSYCH_UP",
+        "FURY_SWIPES"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

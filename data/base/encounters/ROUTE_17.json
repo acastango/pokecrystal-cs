@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_17",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 30,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 29,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 31,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 32,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 33,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 33,
+        "speciesId": "MUK"
+      },
+      {
+        "level": 33,
+        "speciesId": "MUK"
+      }
+    ],
+    "day": [
+      {
+        "level": 30,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 29,
+        "speciesId": "SLUGMA"
+      },
+      {
+        "level": 29,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 32,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 32,
+        "speciesId": "SLUGMA"
+      },
+      {
+        "level": 33,
+        "speciesId": "MUK"
+      },
+      {
+        "level": 33,
+        "speciesId": "MUK"
+      }
+    ],
+    "nite": [
+      {
+        "level": 30,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 29,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 31,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 32,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 33,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 33,
+        "speciesId": "MUK"
+      },
+      {
+        "level": 33,
+        "speciesId": "MUK"
+      }
+    ]
+  },
+  "water": null
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "SILVER_CAVE_OUTSIDE",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 41,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 42,
+        "speciesId": "PONYTA"
+      },
+      {
+        "level": 42,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 44,
+        "speciesId": "RAPIDASH"
+      },
+      {
+        "level": 41,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 43,
+        "speciesId": "DODRIO"
+      },
+      {
+        "level": 43,
+        "speciesId": "DODRIO"
+      }
+    ],
+    "day": [
+      {
+        "level": 41,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 42,
+        "speciesId": "PONYTA"
+      },
+      {
+        "level": 42,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 44,
+        "speciesId": "RAPIDASH"
+      },
+      {
+        "level": 41,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 43,
+        "speciesId": "DODRIO"
+      },
+      {
+        "level": 43,
+        "speciesId": "DODRIO"
+      }
+    ],
+    "nite": [
+      {
+        "level": 41,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 42,
+        "speciesId": "POLIWHIRL"
+      },
+      {
+        "level": 42,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 44,
+        "speciesId": "POLIWHIRL"
+      },
+      {
+        "level": 40,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 44,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 44,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 35,
+        "speciesId": "POLIWHIRL"
+      },
+      {
+        "level": 40,
+        "speciesId": "POLIWHIRL"
+      },
+      {
+        "level": 35,
+        "speciesId": "POLIWAG"
+      }
+    ]
+  }
+}

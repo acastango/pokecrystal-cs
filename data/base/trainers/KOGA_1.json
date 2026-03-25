@@ -1,0 +1,61 @@
+{
+  "id": "KOGA_1",
+  "classId": "KOGA",
+  "name": "KOGA",
+  "party": [
+    {
+      "level": 40,
+      "speciesId": "ARIADOS",
+      "moves": [
+        "DOUBLE_TEAM",
+        "SPIDER_WEB",
+        "BATON_PASS",
+        "GIGA_DRAIN"
+      ]
+    },
+    {
+      "level": 41,
+      "speciesId": "VENOMOTH",
+      "moves": [
+        "SUPERSONIC",
+        "GUST",
+        "PSYCHIC_M",
+        "TOXIC"
+      ]
+    },
+    {
+      "level": 43,
+      "speciesId": "FORRETRESS",
+      "moves": [
+        "PROTECT",
+        "SWIFT",
+        "EXPLOSION",
+        "SPIKES"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "MUK",
+      "moves": [
+        "MINIMIZE",
+        "ACID_ARMOR",
+        "SLUDGE_BOMB",
+        "TOXIC"
+      ]
+    },
+    {
+      "level": 44,
+      "speciesId": "CROBAT",
+      "moves": [
+        "DOUBLE_TEAM",
+        "QUICK_ATTACK",
+        "WING_ATTACK",
+        "TOXIC"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

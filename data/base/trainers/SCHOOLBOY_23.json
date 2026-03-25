@@ -1,0 +1,19 @@
+{
+  "id": "SCHOOLBOY_23",
+  "classId": "SCHOOLBOY",
+  "name": "CHAD",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "MR__MIME"
+    },
+    {
+      "level": 34,
+      "speciesId": "MAGNETON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

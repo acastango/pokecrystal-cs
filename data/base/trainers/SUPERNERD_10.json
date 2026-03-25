@@ -1,0 +1,27 @@
+{
+  "id": "SUPERNERD_10",
+  "classId": "SUPERNERD",
+  "name": "TERU",
+  "party": [
+    {
+      "level": 7,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 11,
+      "speciesId": "VOLTORB"
+    },
+    {
+      "level": 7,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 9,
+      "speciesId": "MAGNEMITE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

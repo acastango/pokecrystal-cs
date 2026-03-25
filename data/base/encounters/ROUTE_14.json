@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_14",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 26,
+        "speciesId": "NIDORINO"
+      },
+      {
+        "level": 26,
+        "speciesId": "NIDORINA"
+      },
+      {
+        "level": 28,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 28,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 30,
+        "speciesId": "SKIPLOOM"
+      },
+      {
+        "level": 30,
+        "speciesId": "SKIPLOOM"
+      },
+      {
+        "level": 28,
+        "speciesId": "CHANSEY"
+      }
+    ],
+    "day": [
+      {
+        "level": 26,
+        "speciesId": "NIDORINO"
+      },
+      {
+        "level": 26,
+        "speciesId": "NIDORINA"
+      },
+      {
+        "level": 28,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 28,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 30,
+        "speciesId": "SKIPLOOM"
+      },
+      {
+        "level": 30,
+        "speciesId": "SKIPLOOM"
+      },
+      {
+        "level": 28,
+        "speciesId": "CHANSEY"
+      }
+    ],
+    "nite": [
+      {
+        "level": 26,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 26,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 28,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 28,
+        "speciesId": "VENOMOTH"
+      },
+      {
+        "level": 28,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 28,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 28,
+        "speciesId": "CHANSEY"
+      }
+    ]
+  },
+  "water": null
+}

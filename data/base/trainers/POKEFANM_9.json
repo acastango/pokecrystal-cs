@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANM_9",
+  "classId": "POKEFANM",
+  "name": "COLIN",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "DELIBIRD",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

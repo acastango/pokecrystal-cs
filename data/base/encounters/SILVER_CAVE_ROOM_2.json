@@ -1,0 +1,115 @@
+{
+  "mapId": "SILVER_CAVE_ROOM_2",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 48,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 48,
+        "speciesId": "MACHOKE"
+      },
+      {
+        "level": 47,
+        "speciesId": "URSARING"
+      },
+      {
+        "level": 46,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 48,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 15,
+        "speciesId": "LARVITAR"
+      },
+      {
+        "level": 20,
+        "speciesId": "LARVITAR"
+      }
+    ],
+    "day": [
+      {
+        "level": 48,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 48,
+        "speciesId": "MACHOKE"
+      },
+      {
+        "level": 47,
+        "speciesId": "URSARING"
+      },
+      {
+        "level": 46,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 48,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 15,
+        "speciesId": "LARVITAR"
+      },
+      {
+        "level": 20,
+        "speciesId": "LARVITAR"
+      }
+    ],
+    "nite": [
+      {
+        "level": 48,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 48,
+        "speciesId": "GOLDUCK"
+      },
+      {
+        "level": 46,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 46,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 48,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 45,
+        "speciesId": "MISDREAVUS"
+      },
+      {
+        "level": 45,
+        "speciesId": "MISDREAVUS"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 35,
+        "speciesId": "SEAKING"
+      },
+      {
+        "level": 35,
+        "speciesId": "GOLDUCK"
+      },
+      {
+        "level": 35,
+        "speciesId": "GOLDEEN"
+      }
+    ]
+  }
+}

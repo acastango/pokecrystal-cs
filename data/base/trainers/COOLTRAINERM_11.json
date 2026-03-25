@@ -1,0 +1,41 @@
+{
+  "id": "COOLTRAINERM_11",
+  "classId": "COOLTRAINERM",
+  "name": "BLAKE",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "MAGNETON",
+      "moves": [
+        "THUNDERBOLT",
+        "SUPERSONIC",
+        "SWIFT",
+        "SCREECH"
+      ]
+    },
+    {
+      "level": 31,
+      "speciesId": "QUAGSIRE",
+      "moves": [
+        "WATER_GUN",
+        "SLAM",
+        "AMNESIA",
+        "EARTHQUAKE"
+      ]
+    },
+    {
+      "level": 31,
+      "speciesId": "EXEGGCUTE",
+      "moves": [
+        "LEECH_SEED",
+        "CONFUSION",
+        "SLEEP_POWDER",
+        "SOLARBEAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

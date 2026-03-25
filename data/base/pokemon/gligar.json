@@ -1,0 +1,91 @@
+{
+  "id": "GLIGAR",
+  "name": "GLIGAR",
+  "baseHp": 65,
+  "baseAttack": 75,
+  "baseDefense": 105,
+  "baseSpeed": 85,
+  "baseSpAtk": 35,
+  "baseSpDef": 65,
+  "type1Id": "GROUND",
+  "type2Id": "FLYING",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 60,
+  "baseExp": 108,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "SANDSTORM",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FURY_CUTTER",
+    "CUT",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POISON_STING"
+    },
+    {
+      "level": 6,
+      "moveId": "SAND_ATTACK"
+    },
+    {
+      "level": 13,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 20,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 28,
+      "moveId": "FAINT_ATTACK"
+    },
+    {
+      "level": 36,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 44,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 52,
+      "moveId": "GUILLOTINE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "METAL_CLAW",
+    "WING_ATTACK",
+    "RAZOR_WIND",
+    "COUNTER"
+  ],
+  "spriteId": "gligar",
+  "cryId": "gligar"
+}

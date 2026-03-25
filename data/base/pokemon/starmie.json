@@ -1,0 +1,79 @@
+{
+  "id": "STARMIE",
+  "name": "STARMIE",
+  "baseHp": 60,
+  "baseAttack": 75,
+  "baseDefense": 85,
+  "baseSpeed": 115,
+  "baseSpAtk": 100,
+  "baseSpDef": 85,
+  "type1Id": "WATER",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_WATER_3",
+    "EGG_WATER_3"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 60,
+  "baseExp": 207,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "NIGHTMARE",
+    "SURF",
+    "FLASH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "RAPID_SPIN"
+    },
+    {
+      "level": 1,
+      "moveId": "RECOVER"
+    },
+    {
+      "level": 1,
+      "moveId": "BUBBLEBEAM"
+    },
+    {
+      "level": 37,
+      "moveId": "CONFUSE_RAY"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "starmie",
+  "cryId": "starmie"
+}

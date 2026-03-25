@@ -1,0 +1,27 @@
+{
+  "id": "COOLTRAINERF_1",
+  "classId": "COOLTRAINERF",
+  "name": "GWEN",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "EEVEE"
+    },
+    {
+      "level": 22,
+      "speciesId": "FLAREON"
+    },
+    {
+      "level": 22,
+      "speciesId": "VAPOREON"
+    },
+    {
+      "level": 22,
+      "speciesId": "JOLTEON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

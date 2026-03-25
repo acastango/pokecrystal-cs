@@ -1,0 +1,110 @@
+{
+  "id": "JIGGLYPUFF",
+  "name": "JIGGLYPUFF",
+  "baseHp": 115,
+  "baseAttack": 45,
+  "baseDefense": 20,
+  "baseSpeed": 20,
+  "baseSpAtk": 45,
+  "baseSpDef": 25,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_FAIRY",
+    "EGG_FAIRY"
+  ],
+  "genderRatio": 0.75,
+  "catchRate": 170,
+  "baseExp": 76,
+  "hatchCycles": 10,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "NIGHTMARE",
+    "STRENGTH",
+    "FLASH",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SING"
+    },
+    {
+      "level": 4,
+      "moveId": "DEFENSE_CURL"
+    },
+    {
+      "level": 9,
+      "moveId": "POUND"
+    },
+    {
+      "level": 14,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 19,
+      "moveId": "ROLLOUT"
+    },
+    {
+      "level": 24,
+      "moveId": "DOUBLESLAP"
+    },
+    {
+      "level": 29,
+      "moveId": "REST"
+    },
+    {
+      "level": 34,
+      "moveId": "BODY_SLAM"
+    },
+    {
+      "level": 39,
+      "moveId": "DOUBLE_EDGE"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "WIGGLYTUFF",
+      "param": "MOON_STONE"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "jigglypuff",
+  "cryId": "jigglypuff"
+}

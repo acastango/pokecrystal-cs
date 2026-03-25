@@ -1,0 +1,15 @@
+{
+  "id": "BUGCATCHER_13",
+  "classId": "BUGCATCHER",
+  "name": "ARNIE",
+  "party": [
+    {
+      "level": 19,
+      "speciesId": "VENONAT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

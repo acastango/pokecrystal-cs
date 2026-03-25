@@ -1,0 +1,100 @@
+{
+  "id": "HAUNTER",
+  "name": "HAUNTER",
+  "baseHp": 45,
+  "baseAttack": 50,
+  "baseDefense": 45,
+  "baseSpeed": 95,
+  "baseSpAtk": 115,
+  "baseSpDef": 55,
+  "type1Id": "GHOST",
+  "type2Id": "POISON",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 90,
+  "baseExp": 126,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 1,
+      "moveId": "LICK"
+    },
+    {
+      "level": 1,
+      "moveId": "SPITE"
+    },
+    {
+      "level": 8,
+      "moveId": "SPITE"
+    },
+    {
+      "level": 13,
+      "moveId": "MEAN_LOOK"
+    },
+    {
+      "level": 16,
+      "moveId": "CURSE"
+    },
+    {
+      "level": 21,
+      "moveId": "NIGHT_SHADE"
+    },
+    {
+      "level": 31,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 39,
+      "moveId": "DREAM_EATER"
+    },
+    {
+      "level": 48,
+      "moveId": "DESTINY_BOND"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Trade",
+      "targetSpeciesId": "GENGAR",
+      "param": ""
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "haunter",
+  "cryId": "haunter"
+}

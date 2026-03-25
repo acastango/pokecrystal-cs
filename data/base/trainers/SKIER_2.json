@@ -1,0 +1,15 @@
+{
+  "id": "SKIER_2",
+  "classId": "SKIER",
+  "name": "CLARISSA",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "DEWGONG"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

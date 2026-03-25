@@ -1,0 +1,15 @@
+{
+  "id": "MEDIUM_5",
+  "classId": "MEDIUM",
+  "name": "ETHEL",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "HAUNTER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

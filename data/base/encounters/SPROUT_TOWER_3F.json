@@ -1,0 +1,99 @@
+{
+  "mapId": "SPROUT_TOWER_3F",
+  "grass": {
+    "mornRate": 2,
+    "dayRate": 2,
+    "niteRate": 2,
+    "morn": [
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 4,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 6,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      }
+    ],
+    "day": [
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 4,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 6,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      }
+    ],
+    "nite": [
+      {
+        "level": 3,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 4,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 5,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 6,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      }
+    ]
+  },
+  "water": null
+}

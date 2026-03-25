@@ -1,0 +1,90 @@
+{
+  "id": "NIDOKING",
+  "name": "NIDOKING",
+  "baseHp": 81,
+  "baseAttack": 92,
+  "baseDefense": 77,
+  "baseSpeed": 85,
+  "baseSpAtk": 85,
+  "baseSpDef": 75,
+  "type1Id": "POISON",
+  "type2Id": "GROUND",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.0,
+  "catchRate": 45,
+  "baseExp": 195,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "EARTHQUAKE",
+    "RETURN",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "SURF",
+    "STRENGTH",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "HORN_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "DOUBLE_KICK"
+    },
+    {
+      "level": 1,
+      "moveId": "POISON_STING"
+    },
+    {
+      "level": 23,
+      "moveId": "THRASH"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "nidoking",
+  "cryId": "nidoking"
+}

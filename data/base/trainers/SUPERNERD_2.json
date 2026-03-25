@@ -1,0 +1,19 @@
+{
+  "id": "SUPERNERD_2",
+  "classId": "SUPERNERD",
+  "name": "ERIC",
+  "party": [
+    {
+      "level": 11,
+      "speciesId": "GRIMER"
+    },
+    {
+      "level": 11,
+      "speciesId": "GRIMER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

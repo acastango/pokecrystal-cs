@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>PokeCrystal.Data</RootNamespace>
+    <AssemblyName>PokeCrystal.Data</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PokeCrystal.Schema\PokeCrystal.Schema.csproj" />
+  </ItemGroup>
+
+</Project>

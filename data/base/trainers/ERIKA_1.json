@@ -1,0 +1,51 @@
+{
+  "id": "ERIKA_1",
+  "classId": "ERIKA",
+  "name": "ERIKA",
+  "party": [
+    {
+      "level": 42,
+      "speciesId": "TANGELA",
+      "moves": [
+        "VINE_WHIP",
+        "BIND",
+        "GIGA_DRAIN",
+        "SLEEP_POWDER"
+      ]
+    },
+    {
+      "level": 41,
+      "speciesId": "JUMPLUFF",
+      "moves": [
+        "MEGA_DRAIN",
+        "LEECH_SEED",
+        "COTTON_SPORE",
+        "GIGA_DRAIN"
+      ]
+    },
+    {
+      "level": 46,
+      "speciesId": "VICTREEBEL",
+      "moves": [
+        "SUNNY_DAY",
+        "SYNTHESIS",
+        "ACID",
+        "RAZOR_LEAF"
+      ]
+    },
+    {
+      "level": 46,
+      "speciesId": "BELLOSSOM",
+      "moves": [
+        "SUNNY_DAY",
+        "SYNTHESIS",
+        "PETAL_DANCE",
+        "SOLARBEAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "SCIENTIST_1",
+  "classId": "SCIENTIST",
+  "name": "ROSS",
+  "party": [
+    {
+      "level": 22,
+      "speciesId": "KOFFING"
+    },
+    {
+      "level": 22,
+      "speciesId": "KOFFING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

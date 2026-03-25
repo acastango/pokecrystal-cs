@@ -1,0 +1,79 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="using:PokeCrystal.Editor.ViewModels"
+             x:Class="PokeCrystal.Editor.Views.EncounterEditorView"
+             x:DataType="vm:EncounterEditorViewModel">
+
+    <Grid ColumnDefinitions="200,*">
+
+        <!-- Map list -->
+        <DockPanel Grid.Column="0" Margin="4">
+            <StackPanel DockPanel.Dock="Top" Spacing="4" Margin="0,0,0,8">
+                <TextBlock Text="Maps" FontWeight="Bold" />
+                <Button Content="Load Selected"
+                        Command="{Binding LoadMapCommand}"
+                        CommandParameter="{Binding SelectedMapId}" />
+            </StackPanel>
+            <ListBox ItemsSource="{Binding AvailableMapIds}"
+                     SelectedItem="{Binding SelectedMapId}" />
+        </DockPanel>
+
+        <!-- Encounter tables -->
+        <ScrollViewer Grid.Column="1">
+            <StackPanel Margin="8" Spacing="16">
+
+                <!-- Grass rates -->
+                <StackPanel Spacing="4">
+                    <TextBlock Text="Grass Encounter Rates" FontWeight="Bold" />
+                    <Grid ColumnDefinitions="80,60,80,60,80,60">
+                        <TextBlock Grid.Column="0" Text="Morning" VerticalAlignment="Center"/>
+                        <NumericUpDown Grid.Column="1" Value="{Binding MornRate}" Minimum="0" Maximum="255" />
+                        <TextBlock Grid.Column="2" Text="Day" VerticalAlignment="Center"/>
+                        <NumericUpDown Grid.Column="3" Value="{Binding DayRate}" Minimum="0" Maximum="255" />
+                        <TextBlock Grid.Column="4" Text="Night" VerticalAlignment="Center"/>
+                        <NumericUpDown Grid.Column="5" Value="{Binding NiteRate}" Minimum="0" Maximum="255" />
+                    </Grid>
+                </StackPanel>
+
+                <!-- Morning slots -->
+                <StackPanel Spacing="4">
+                    <TextBlock Text="Morning Grass Slots" FontWeight="Bold" />
+                    <Button Content="Add Slot"
+                            Command="{Binding AddGrassSlotCommand}"
+                            CommandParameter="morn" />
+                    <ItemsControl ItemsSource="{Binding GrassSlotsMorn}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate x:DataType="vm:WildSlotRow">
+                                <Grid ColumnDefinitions="60,*" Margin="0,2">
+                                    <NumericUpDown Grid.Column="0" Value="{Binding Level}" Minimum="1" Maximum="100" />
+                                    <TextBox Grid.Column="1" Text="{Binding SpeciesId}" Margin="4,0,0,0" />
+                                </Grid>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+
+                <!-- Water rate + slots -->
+                <StackPanel Spacing="4">
+                    <TextBlock Text="Water Encounter Rate" FontWeight="Bold" />
+                    <NumericUpDown Value="{Binding WaterRate}" Minimum="0" Maximum="255" Width="80" HorizontalAlignment="Left" />
+                    <TextBlock Text="Water Slots" FontWeight="Bold" />
+                    <ItemsControl ItemsSource="{Binding WaterSlots}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate x:DataType="vm:WildSlotRow">
+                                <Grid ColumnDefinitions="60,*" Margin="0,2">
+                                    <NumericUpDown Grid.Column="0" Value="{Binding Level}" Minimum="1" Maximum="100" />
+                                    <TextBox Grid.Column="1" Text="{Binding SpeciesId}" Margin="4,0,0,0" />
+                                </Grid>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+
+                <Button Content="Save Encounters" Command="{Binding SaveEncountersCommand}" />
+
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</UserControl>

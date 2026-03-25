@@ -1,0 +1,23 @@
+{
+  "id": "PSYCHIC_10",
+  "classId": "PSYCHIC",
+  "name": "GILBERT",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "STARMIE"
+    },
+    {
+      "level": 30,
+      "speciesId": "EXEGGCUTE"
+    },
+    {
+      "level": 34,
+      "speciesId": "GIRAFARIG"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

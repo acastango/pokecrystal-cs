@@ -1,0 +1,23 @@
+{
+  "id": "COOLTRAINERM_3",
+  "classId": "COOLTRAINERM",
+  "name": "PAUL",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "DRATINI"
+    },
+    {
+      "level": 34,
+      "speciesId": "DRATINI"
+    },
+    {
+      "level": 34,
+      "speciesId": "DRATINI"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

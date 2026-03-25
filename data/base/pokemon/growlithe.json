@@ -1,0 +1,96 @@
+{
+  "id": "GROWLITHE",
+  "name": "GROWLITHE",
+  "baseHp": 55,
+  "baseAttack": 70,
+  "baseDefense": 45,
+  "baseSpeed": 60,
+  "baseSpAtk": 70,
+  "baseSpDef": 50,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.25,
+  "catchRate": 190,
+  "baseExp": 91,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "RETURN",
+    "DIG",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BITE"
+    },
+    {
+      "level": 1,
+      "moveId": "ROAR"
+    },
+    {
+      "level": 9,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 18,
+      "moveId": "LEER"
+    },
+    {
+      "level": 26,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 34,
+      "moveId": "FLAME_WHEEL"
+    },
+    {
+      "level": 42,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 50,
+      "moveId": "FLAMETHROWER"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "ARCANINE",
+      "param": "FIRE_STONE"
+    }
+  ],
+  "eggMoves": [
+    "BODY_SLAM",
+    "SAFEGUARD",
+    "CRUNCH",
+    "THRASH",
+    "FIRE_SPIN"
+  ],
+  "spriteId": "growlithe",
+  "cryId": "growlithe"
+}

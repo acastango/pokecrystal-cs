@@ -1,0 +1,23 @@
+{
+  "id": "BEAUTY_1",
+  "classId": "BEAUTY",
+  "name": "VICTORIA",
+  "party": [
+    {
+      "level": 9,
+      "speciesId": "SENTRET"
+    },
+    {
+      "level": 13,
+      "speciesId": "SENTRET"
+    },
+    {
+      "level": 17,
+      "speciesId": "SENTRET"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

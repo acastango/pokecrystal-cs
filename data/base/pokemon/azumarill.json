@@ -1,0 +1,104 @@
+{
+  "id": "AZUMARILL",
+  "name": "AZUMARILL",
+  "baseHp": 100,
+  "baseAttack": 50,
+  "baseDefense": 80,
+  "baseSpeed": 50,
+  "baseSpAtk": 50,
+  "baseSpDef": 80,
+  "type1Id": "WATER",
+  "type2Id": "WATER",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_FAIRY"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 153,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "STRENGTH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "DEFENSE_CURL"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 3,
+      "moveId": "DEFENSE_CURL"
+    },
+    {
+      "level": 6,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 10,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 15,
+      "moveId": "ROLLOUT"
+    },
+    {
+      "level": 25,
+      "moveId": "BUBBLEBEAM"
+    },
+    {
+      "level": 36,
+      "moveId": "DOUBLE_EDGE"
+    },
+    {
+      "level": 48,
+      "moveId": "RAIN_DANCE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "azumarill",
+  "cryId": "azumarill"
+}

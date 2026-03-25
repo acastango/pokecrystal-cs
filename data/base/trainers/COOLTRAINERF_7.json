@@ -1,0 +1,23 @@
+{
+  "id": "COOLTRAINERF_7",
+  "classId": "COOLTRAINERF",
+  "name": "KELLY",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "MARILL"
+    },
+    {
+      "level": 24,
+      "speciesId": "WARTORTLE"
+    },
+    {
+      "level": 24,
+      "speciesId": "WARTORTLE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

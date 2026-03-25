@@ -1,0 +1,15 @@
+{
+  "id": "BLACKBELT_8",
+  "classId": "BLACKBELT",
+  "name": "KENJI",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "MACHOKE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

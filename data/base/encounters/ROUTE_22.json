@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_22",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 5,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 4,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 6,
+        "speciesId": "PONYTA"
+      },
+      {
+        "level": 7,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 7,
+        "speciesId": "FEAROW"
+      }
+    ],
+    "day": [
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 5,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 4,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 6,
+        "speciesId": "PONYTA"
+      },
+      {
+        "level": 7,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 7,
+        "speciesId": "FEAROW"
+      }
+    ],
+    "nite": [
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 4,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 6,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "RATTATA"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 10,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 5,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 10,
+        "speciesId": "POLIWHIRL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "CAMPER_4",
+  "classId": "CAMPER",
+  "name": "ELLIOT",
+  "party": [
+    {
+      "level": 13,
+      "speciesId": "SANDSHREW"
+    },
+    {
+      "level": 15,
+      "speciesId": "MARILL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

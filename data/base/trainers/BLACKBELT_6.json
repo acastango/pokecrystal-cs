@@ -1,0 +1,19 @@
+{
+  "id": "BLACKBELT_6",
+  "classId": "BLACKBELT",
+  "name": "KIYO",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "HITMONLEE"
+    },
+    {
+      "level": 34,
+      "speciesId": "HITMONCHAN"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

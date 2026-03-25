@@ -1,0 +1,26 @@
+{
+  "id": "POKEFANM_5",
+  "classId": "POKEFANM",
+  "name": "CARTER",
+  "party": [
+    {
+      "level": 29,
+      "speciesId": "BULBASAUR",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 29,
+      "speciesId": "CHARMANDER",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 29,
+      "speciesId": "SQUIRTLE",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

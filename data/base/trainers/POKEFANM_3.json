@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANM_3",
+  "classId": "POKEFANM",
+  "name": "ROBERT",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "QUAGSIRE",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

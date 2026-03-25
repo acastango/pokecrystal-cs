@@ -1,0 +1,66 @@
+{
+  "id": "VICTREEBEL",
+  "name": "VICTREEBEL",
+  "baseHp": 80,
+  "baseAttack": 105,
+  "baseDefense": 65,
+  "baseSpeed": 70,
+  "baseSpAtk": 100,
+  "baseSpDef": 60,
+  "type1Id": "GRASS",
+  "type2Id": "POISON",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 191,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "VINE_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 1,
+      "moveId": "SWEET_SCENT"
+    },
+    {
+      "level": 1,
+      "moveId": "RAZOR_LEAF"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "victreebel",
+  "cryId": "victreebel"
+}

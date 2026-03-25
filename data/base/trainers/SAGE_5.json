@@ -1,0 +1,15 @@
+{
+  "id": "SAGE_5",
+  "classId": "SAGE",
+  "name": "JEFFREY",
+  "party": [
+    {
+      "level": 22,
+      "speciesId": "HAUNTER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

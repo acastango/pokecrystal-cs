@@ -1,0 +1,30 @@
+{
+  "id": "PSYCHIC_6",
+  "classId": "PSYCHIC",
+  "name": "NORMAN",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "SLOWPOKE",
+      "moves": [
+        "TACKLE",
+        "GROWL",
+        "WATER_GUN"
+      ]
+    },
+    {
+      "level": 20,
+      "speciesId": "SLOWPOKE",
+      "moves": [
+        "CURSE",
+        "BODY_SLAM",
+        "WATER_GUN",
+        "CONFUSION"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

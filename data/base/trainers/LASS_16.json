@@ -1,0 +1,31 @@
+{
+  "id": "LASS_16",
+  "classId": "LASS",
+  "name": "DANA",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "PSYDUCK",
+      "moves": [
+        "SCRATCH",
+        "DISABLE",
+        "CONFUSION",
+        "SCREECH"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "AMPHAROS",
+      "moves": [
+        "TACKLE",
+        "THUNDERPUNCH",
+        "THUNDER_WAVE",
+        "COTTON_SPORE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

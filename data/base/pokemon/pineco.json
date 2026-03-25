@@ -1,0 +1,98 @@
+{
+  "id": "PINECO",
+  "name": "PINECO",
+  "baseHp": 50,
+  "baseAttack": 65,
+  "baseDefense": 90,
+  "baseSpeed": 15,
+  "baseSpAtk": 35,
+  "baseSpDef": 35,
+  "type1Id": "BUG",
+  "type2Id": "BUG",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 60,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "PROTECT"
+    },
+    {
+      "level": 8,
+      "moveId": "SELFDESTRUCT"
+    },
+    {
+      "level": 15,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 22,
+      "moveId": "RAPID_SPIN"
+    },
+    {
+      "level": 29,
+      "moveId": "BIDE"
+    },
+    {
+      "level": 36,
+      "moveId": "EXPLOSION"
+    },
+    {
+      "level": 43,
+      "moveId": "SPIKES"
+    },
+    {
+      "level": 50,
+      "moveId": "DOUBLE_EDGE"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "FORRETRESS",
+      "param": "31"
+    }
+  ],
+  "eggMoves": [
+    "REFLECT",
+    "PIN_MISSILE",
+    "FLAIL",
+    "SWIFT"
+  ],
+  "spriteId": "pineco",
+  "cryId": "pineco"
+}

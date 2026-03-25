@@ -1,0 +1,19 @@
+{
+  "id": "HIKER_14",
+  "classId": "HIKER",
+  "name": "NOLAND",
+  "party": [
+    {
+      "level": 31,
+      "speciesId": "SANDSLASH"
+    },
+    {
+      "level": 33,
+      "speciesId": "GOLEM"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

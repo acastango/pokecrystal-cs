@@ -1,0 +1,19 @@
+{
+  "id": "TEACHER_2",
+  "classId": "TEACHER",
+  "name": "HILLARY",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "AIPOM"
+    },
+    {
+      "level": 36,
+      "speciesId": "CUBONE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

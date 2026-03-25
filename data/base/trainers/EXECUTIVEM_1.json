@@ -1,0 +1,41 @@
+{
+  "id": "EXECUTIVEM_1",
+  "classId": "EXECUTIVEM",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "HOUNDOUR",
+      "moves": [
+        "EMBER",
+        "ROAR",
+        "BITE",
+        "FAINT_ATTACK"
+      ]
+    },
+    {
+      "level": 33,
+      "speciesId": "KOFFING",
+      "moves": [
+        "TACKLE",
+        "SLUDGE",
+        "SMOKESCREEN",
+        "HAZE"
+      ]
+    },
+    {
+      "level": 35,
+      "speciesId": "HOUNDOOM",
+      "moves": [
+        "EMBER",
+        "SMOG",
+        "BITE",
+        "FAINT_ATTACK"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

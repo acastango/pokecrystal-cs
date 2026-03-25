@@ -1,0 +1,23 @@
+{
+  "id": "FIREBREATHER_1",
+  "classId": "FIREBREATHER",
+  "name": "OTIS",
+  "party": [
+    {
+      "level": 29,
+      "speciesId": "MAGMAR"
+    },
+    {
+      "level": 32,
+      "speciesId": "WEEZING"
+    },
+    {
+      "level": 29,
+      "speciesId": "MAGMAR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

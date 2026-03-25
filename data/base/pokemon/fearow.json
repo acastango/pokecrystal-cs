@@ -1,0 +1,90 @@
+{
+  "id": "FEAROW",
+  "name": "FEAROW",
+  "baseHp": 65,
+  "baseAttack": 90,
+  "baseDefense": 65,
+  "baseSpeed": 100,
+  "baseSpAtk": 61,
+  "baseSpDef": 61,
+  "type1Id": "NORMAL",
+  "type2Id": "FLYING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_FLYING",
+    "EGG_FLYING"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 90,
+  "baseExp": 162,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STEEL_WING",
+    "FLY"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "PECK"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "FURY_ATTACK"
+    },
+    {
+      "level": 7,
+      "moveId": "LEER"
+    },
+    {
+      "level": 13,
+      "moveId": "FURY_ATTACK"
+    },
+    {
+      "level": 26,
+      "moveId": "PURSUIT"
+    },
+    {
+      "level": 32,
+      "moveId": "MIRROR_MOVE"
+    },
+    {
+      "level": 40,
+      "moveId": "DRILL_PECK"
+    },
+    {
+      "level": 47,
+      "moveId": "AGILITY"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "fearow",
+  "cryId": "fearow"
+}

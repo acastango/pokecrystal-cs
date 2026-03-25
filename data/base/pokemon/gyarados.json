@@ -1,0 +1,93 @@
+{
+  "id": "GYARADOS",
+  "name": "GYARADOS",
+  "baseHp": 95,
+  "baseAttack": 125,
+  "baseDefense": 79,
+  "baseSpeed": 81,
+  "baseSpAtk": 60,
+  "baseSpDef": 100,
+  "type1Id": "WATER",
+  "type2Id": "FLYING",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_WATER_2",
+    "EGG_DRAGON"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 214,
+  "hatchCycles": 5,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "DRAGONBREATH",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "STRENGTH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "THRASH"
+    },
+    {
+      "level": 20,
+      "moveId": "BITE"
+    },
+    {
+      "level": 25,
+      "moveId": "DRAGON_RAGE"
+    },
+    {
+      "level": 30,
+      "moveId": "LEER"
+    },
+    {
+      "level": 35,
+      "moveId": "TWISTER"
+    },
+    {
+      "level": 40,
+      "moveId": "HYDRO_PUMP"
+    },
+    {
+      "level": 45,
+      "moveId": "RAIN_DANCE"
+    },
+    {
+      "level": 50,
+      "moveId": "HYPER_BEAM"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "gyarados",
+  "cryId": "gyarados"
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_13",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 23,
+        "speciesId": "NIDORINO"
+      },
+      {
+        "level": 23,
+        "speciesId": "NIDORINA"
+      },
+      {
+        "level": 25,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 25,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 27,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 27,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 25,
+        "speciesId": "CHANSEY"
+      }
+    ],
+    "day": [
+      {
+        "level": 23,
+        "speciesId": "NIDORINO"
+      },
+      {
+        "level": 23,
+        "speciesId": "NIDORINA"
+      },
+      {
+        "level": 25,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 25,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 27,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 27,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 25,
+        "speciesId": "CHANSEY"
+      }
+    ],
+    "nite": [
+      {
+        "level": 23,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 25,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 25,
+        "speciesId": "VENOMOTH"
+      },
+      {
+        "level": 25,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 25,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 25,
+        "speciesId": "CHANSEY"
+      }
+    ]
+  },
+  "water": {
+    "rate": 6,
+    "slots": [
+      {
+        "level": 25,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 25,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 25,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

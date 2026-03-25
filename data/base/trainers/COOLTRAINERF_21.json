@@ -1,0 +1,41 @@
+{
+  "id": "COOLTRAINERF_21",
+  "classId": "COOLTRAINERF",
+  "name": "CARA",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "HORSEA",
+      "moves": [
+        "SMOKESCREEN",
+        "LEER",
+        "WHIRLPOOL",
+        "TWISTER"
+      ]
+    },
+    {
+      "level": 33,
+      "speciesId": "HORSEA",
+      "moves": [
+        "SMOKESCREEN",
+        "LEER",
+        "WHIRLPOOL",
+        "TWISTER"
+      ]
+    },
+    {
+      "level": 35,
+      "speciesId": "SEADRA",
+      "moves": [
+        "SWIFT",
+        "LEER",
+        "WATERFALL",
+        "TWISTER"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

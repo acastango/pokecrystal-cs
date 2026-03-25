@@ -1,0 +1,27 @@
+{
+  "id": "FISHER_6",
+  "classId": "FISHER",
+  "name": "MARVIN",
+  "party": [
+    {
+      "level": 10,
+      "speciesId": "MAGIKARP"
+    },
+    {
+      "level": 10,
+      "speciesId": "GYARADOS"
+    },
+    {
+      "level": 15,
+      "speciesId": "MAGIKARP"
+    },
+    {
+      "level": 15,
+      "speciesId": "GYARADOS"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

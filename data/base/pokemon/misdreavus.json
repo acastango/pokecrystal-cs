@@ -1,0 +1,92 @@
+{
+  "id": "MISDREAVUS",
+  "name": "MISDREAVUS",
+  "baseHp": 60,
+  "baseAttack": 60,
+  "baseDefense": 60,
+  "baseSpeed": 85,
+  "baseSpAtk": 85,
+  "baseSpDef": 85,
+  "type1Id": "GHOST",
+  "type2Id": "GHOST",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 147,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "PSYWAVE"
+    },
+    {
+      "level": 6,
+      "moveId": "SPITE"
+    },
+    {
+      "level": 12,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 19,
+      "moveId": "MEAN_LOOK"
+    },
+    {
+      "level": 27,
+      "moveId": "PSYBEAM"
+    },
+    {
+      "level": 36,
+      "moveId": "PAIN_SPLIT"
+    },
+    {
+      "level": 46,
+      "moveId": "PERISH_SONG"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "SCREECH",
+    "DESTINY_BOND"
+  ],
+  "spriteId": "misdreavus",
+  "cryId": "misdreavus"
+}

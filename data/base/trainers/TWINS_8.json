@@ -1,0 +1,19 @@
+{
+  "id": "TWINS_8",
+  "classId": "TWINS",
+  "name": "MEG & PEG",
+  "party": [
+    {
+      "level": 31,
+      "speciesId": "PHANPY"
+    },
+    {
+      "level": 31,
+      "speciesId": "TEDDIURSA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

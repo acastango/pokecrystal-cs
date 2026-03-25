@@ -1,0 +1,98 @@
+{
+  "id": "GRANBULL",
+  "name": "GRANBULL",
+  "baseHp": 90,
+  "baseAttack": 120,
+  "baseDefense": 75,
+  "baseSpeed": 45,
+  "baseSpAtk": 60,
+  "baseSpDef": 60,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_FAIRY"
+  ],
+  "genderRatio": 0.75,
+  "catchRate": 75,
+  "baseExp": 178,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 4,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 8,
+      "moveId": "CHARM"
+    },
+    {
+      "level": 13,
+      "moveId": "BITE"
+    },
+    {
+      "level": 19,
+      "moveId": "LICK"
+    },
+    {
+      "level": 28,
+      "moveId": "ROAR"
+    },
+    {
+      "level": 38,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 51,
+      "moveId": "TAKE_DOWN"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "granbull",
+  "cryId": "granbull"
+}

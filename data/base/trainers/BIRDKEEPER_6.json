@@ -1,0 +1,23 @@
+{
+  "id": "BIRDKEEPER_6",
+  "classId": "BIRDKEEPER",
+  "name": "DENIS",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "SPEAROW"
+    },
+    {
+      "level": 20,
+      "speciesId": "FEAROW"
+    },
+    {
+      "level": 18,
+      "speciesId": "SPEAROW"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

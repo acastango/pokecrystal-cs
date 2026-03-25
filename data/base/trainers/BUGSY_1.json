@@ -1,0 +1,38 @@
+{
+  "id": "BUGSY_1",
+  "classId": "BUGSY",
+  "name": "BUGSY",
+  "party": [
+    {
+      "level": 14,
+      "speciesId": "METAPOD",
+      "moves": [
+        "TACKLE",
+        "STRING_SHOT",
+        "HARDEN"
+      ]
+    },
+    {
+      "level": 14,
+      "speciesId": "KAKUNA",
+      "moves": [
+        "POISON_STING",
+        "STRING_SHOT",
+        "HARDEN"
+      ]
+    },
+    {
+      "level": 16,
+      "speciesId": "SCYTHER",
+      "moves": [
+        "QUICK_ATTACK",
+        "LEER",
+        "FURY_CUTTER"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,15 @@
+{
+  "id": "FISHER_16",
+  "classId": "FISHER",
+  "name": "RALPH",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "GOLDEEN"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

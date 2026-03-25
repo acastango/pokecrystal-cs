@@ -1,0 +1,105 @@
+{
+  "id": "MEGANIUM",
+  "name": "MEGANIUM",
+  "baseHp": 80,
+  "baseAttack": 82,
+  "baseDefense": 100,
+  "baseSpeed": 80,
+  "baseSpAtk": 83,
+  "baseSpDef": 100,
+  "type1Id": "GRASS",
+  "type2Id": "GRASS",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 208,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "IRON_TAIL",
+    "EARTHQUAKE",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "FURY_CUTTER",
+    "CUT",
+    "STRENGTH",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "RAZOR_LEAF"
+    },
+    {
+      "level": 1,
+      "moveId": "REFLECT"
+    },
+    {
+      "level": 8,
+      "moveId": "RAZOR_LEAF"
+    },
+    {
+      "level": 12,
+      "moveId": "REFLECT"
+    },
+    {
+      "level": 15,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 23,
+      "moveId": "SYNTHESIS"
+    },
+    {
+      "level": 31,
+      "moveId": "BODY_SLAM"
+    },
+    {
+      "level": 41,
+      "moveId": "LIGHT_SCREEN"
+    },
+    {
+      "level": 51,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 61,
+      "moveId": "SOLARBEAM"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "meganium",
+  "cryId": "meganium"
+}

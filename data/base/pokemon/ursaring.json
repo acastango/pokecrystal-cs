@@ -1,0 +1,106 @@
+{
+  "id": "URSARING",
+  "name": "URSARING",
+  "baseHp": 90,
+  "baseAttack": 130,
+  "baseDefense": 75,
+  "baseSpeed": 55,
+  "baseSpAtk": 75,
+  "baseSpDef": 75,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 60,
+  "baseExp": 189,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "CUT",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "LICK"
+    },
+    {
+      "level": 1,
+      "moveId": "FURY_SWIPES"
+    },
+    {
+      "level": 8,
+      "moveId": "LICK"
+    },
+    {
+      "level": 15,
+      "moveId": "FURY_SWIPES"
+    },
+    {
+      "level": 22,
+      "moveId": "FAINT_ATTACK"
+    },
+    {
+      "level": 29,
+      "moveId": "REST"
+    },
+    {
+      "level": 39,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 49,
+      "moveId": "SNORE"
+    },
+    {
+      "level": 59,
+      "moveId": "THRASH"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "ursaring",
+  "cryId": "ursaring"
+}

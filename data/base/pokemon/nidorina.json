@@ -1,0 +1,94 @@
+{
+  "id": "NIDORINA",
+  "name": "NIDORINA",
+  "baseHp": 70,
+  "baseAttack": 62,
+  "baseDefense": 67,
+  "baseSpeed": 56,
+  "baseSpAtk": 55,
+  "baseSpDef": 55,
+  "type1Id": "POISON",
+  "type2Id": "POISON",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": 1.0,
+  "catchRate": 120,
+  "baseExp": 117,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STRENGTH",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 8,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 12,
+      "moveId": "DOUBLE_KICK"
+    },
+    {
+      "level": 19,
+      "moveId": "POISON_STING"
+    },
+    {
+      "level": 27,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 36,
+      "moveId": "BITE"
+    },
+    {
+      "level": 46,
+      "moveId": "FURY_SWIPES"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "NIDOQUEEN",
+      "param": "MOON_STONE"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "nidorina",
+  "cryId": "nidorina"
+}

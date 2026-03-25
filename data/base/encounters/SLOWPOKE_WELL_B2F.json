@@ -1,0 +1,115 @@
+{
+  "mapId": "SLOWPOKE_WELL_B2F",
+  "grass": {
+    "mornRate": 2,
+    "dayRate": 2,
+    "niteRate": 2,
+    "morn": [
+      {
+        "level": 21,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 19,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 21,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      }
+    ],
+    "day": [
+      {
+        "level": 21,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 19,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 21,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      }
+    ],
+    "nite": [
+      {
+        "level": 21,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 19,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 21,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 20,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 20,
+        "speciesId": "SLOWBRO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_36",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 4,
+        "speciesId": "LEDYBA"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 5,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 5,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 5,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 6,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 6,
+        "speciesId": "PIDGEY"
+      }
+    ],
+    "day": [
+      {
+        "level": 4,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 5,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 5,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 5,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 6,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 6,
+        "speciesId": "PIDGEY"
+      }
+    ],
+    "nite": [
+      {
+        "level": 4,
+        "speciesId": "SPINARAK"
+      },
+      {
+        "level": 4,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 5,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 5,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 5,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 5,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 5,
+        "speciesId": "GASTLY"
+      }
+    ]
+  },
+  "water": null
+}

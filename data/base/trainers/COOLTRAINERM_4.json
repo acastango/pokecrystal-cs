@@ -1,0 +1,19 @@
+{
+  "id": "COOLTRAINERM_4",
+  "classId": "COOLTRAINERM",
+  "name": "CODY",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "HORSEA"
+    },
+    {
+      "level": 36,
+      "speciesId": "SEADRA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

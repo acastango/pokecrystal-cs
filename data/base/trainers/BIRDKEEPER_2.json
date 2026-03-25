@@ -1,0 +1,15 @@
+{
+  "id": "BIRDKEEPER_2",
+  "classId": "BIRDKEEPER",
+  "name": "ABE",
+  "party": [
+    {
+      "level": 9,
+      "speciesId": "SPEAROW"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

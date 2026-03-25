@@ -1,0 +1,41 @@
+{
+  "id": "SABRINA_1",
+  "classId": "SABRINA",
+  "name": "SABRINA",
+  "party": [
+    {
+      "level": 46,
+      "speciesId": "ESPEON",
+      "moves": [
+        "SAND_ATTACK",
+        "QUICK_ATTACK",
+        "SWIFT",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 46,
+      "speciesId": "MR__MIME",
+      "moves": [
+        "BARRIER",
+        "REFLECT",
+        "BATON_PASS",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 48,
+      "speciesId": "ALAKAZAM",
+      "moves": [
+        "RECOVER",
+        "FUTURE_SIGHT",
+        "PSYCHIC_M",
+        "REFLECT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ARIADOS",
+  "name": "ARIADOS",
+  "baseHp": 70,
+  "baseAttack": 90,
+  "baseDefense": 70,
+  "baseSpeed": 40,
+  "baseSpAtk": 60,
+  "baseSpDef": 60,
+  "type1Id": "BUG",
+  "type2Id": "POISON",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 90,
+  "baseExp": 134,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DIG",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POISON_STING"
+    },
+    {
+      "level": 1,
+      "moveId": "STRING_SHOT"
+    },
+    {
+      "level": 1,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 1,
+      "moveId": "CONSTRICT"
+    },
+    {
+      "level": 6,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 11,
+      "moveId": "CONSTRICT"
+    },
+    {
+      "level": 17,
+      "moveId": "NIGHT_SHADE"
+    },
+    {
+      "level": 25,
+      "moveId": "LEECH_LIFE"
+    },
+    {
+      "level": 34,
+      "moveId": "FURY_SWIPES"
+    },
+    {
+      "level": 43,
+      "moveId": "SPIDER_WEB"
+    },
+    {
+      "level": 53,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 63,
+      "moveId": "PSYCHIC_M"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "ariados",
+  "cryId": "ariados"
+}

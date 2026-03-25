@@ -1,0 +1,95 @@
+{
+  "id": "PILOSWINE",
+  "name": "PILOSWINE",
+  "baseHp": 100,
+  "baseAttack": 100,
+  "baseDefense": 80,
+  "baseSpeed": 50,
+  "baseSpAtk": 60,
+  "baseSpDef": 60,
+  "type1Id": "ICE",
+  "type2Id": "GROUND",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 160,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "STRENGTH",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "HORN_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "POWDER_SNOW"
+    },
+    {
+      "level": 1,
+      "moveId": "ENDURE"
+    },
+    {
+      "level": 10,
+      "moveId": "POWDER_SNOW"
+    },
+    {
+      "level": 19,
+      "moveId": "ENDURE"
+    },
+    {
+      "level": 28,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 33,
+      "moveId": "FURY_ATTACK"
+    },
+    {
+      "level": 42,
+      "moveId": "MIST"
+    },
+    {
+      "level": 56,
+      "moveId": "BLIZZARD"
+    },
+    {
+      "level": 70,
+      "moveId": "AMNESIA"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "piloswine",
+  "cryId": "piloswine"
+}

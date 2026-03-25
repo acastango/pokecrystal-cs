@@ -1,0 +1,111 @@
+{
+  "id": "CHARMANDER",
+  "name": "CHARMANDER",
+  "baseHp": 39,
+  "baseAttack": 52,
+  "baseDefense": 43,
+  "baseSpeed": 65,
+  "baseSpAtk": 60,
+  "baseSpDef": 50,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_DRAGON"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 65,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "CUT",
+    "STRENGTH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 7,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 13,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 19,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 25,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 31,
+      "moveId": "FLAMETHROWER"
+    },
+    {
+      "level": 37,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 43,
+      "moveId": "DRAGON_RAGE"
+    },
+    {
+      "level": 49,
+      "moveId": "FIRE_SPIN"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "CHARMELEON",
+      "param": "16"
+    }
+  ],
+  "eggMoves": [
+    "BELLY_DRUM",
+    "ANCIENTPOWER",
+    "ROCK_SLIDE",
+    "BITE",
+    "OUTRAGE",
+    "BEAT_UP"
+  ],
+  "spriteId": "charmander",
+  "cryId": "charmander"
+}

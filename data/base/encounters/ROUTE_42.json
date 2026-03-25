@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_42",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 13,
+        "speciesId": "EKANS"
+      },
+      {
+        "level": 14,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 16,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 16,
+        "speciesId": "FEAROW"
+      }
+    ],
+    "day": [
+      {
+        "level": 13,
+        "speciesId": "EKANS"
+      },
+      {
+        "level": 14,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 16,
+        "speciesId": "FEAROW"
+      },
+      {
+        "level": 16,
+        "speciesId": "FEAROW"
+      }
+    ],
+    "nite": [
+      {
+        "level": 13,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 14,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 16,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "MARILL"
+      },
+      {
+        "level": 16,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 16,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 15,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 20,
+        "speciesId": "SEAKING"
+      }
+    ]
+  }
+}

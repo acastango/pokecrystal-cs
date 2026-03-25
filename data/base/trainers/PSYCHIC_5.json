@@ -1,0 +1,20 @@
+{
+  "id": "PSYCHIC_5",
+  "classId": "PSYCHIC",
+  "name": "GREG",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "DROWZEE",
+      "moves": [
+        "HYPNOSIS",
+        "DISABLE",
+        "DREAM_EATER"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

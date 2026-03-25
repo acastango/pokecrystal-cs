@@ -1,0 +1,27 @@
+{
+  "id": "GRUNTF_4",
+  "classId": "GRUNTF",
+  "name": "GRUNT",
+  "party": [
+    {
+      "level": 21,
+      "speciesId": "EKANS"
+    },
+    {
+      "level": 23,
+      "speciesId": "ODDISH"
+    },
+    {
+      "level": 21,
+      "speciesId": "EKANS"
+    },
+    {
+      "level": 24,
+      "speciesId": "GLOOM"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

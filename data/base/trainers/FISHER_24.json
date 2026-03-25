@@ -1,0 +1,31 @@
+{
+  "id": "FISHER_24",
+  "classId": "FISHER",
+  "name": "RALPH",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "QWILFISH",
+      "moves": [
+        "TOXIC",
+        "MINIMIZE",
+        "SURF",
+        "PIN_MISSILE"
+      ]
+    },
+    {
+      "level": 39,
+      "speciesId": "SEAKING",
+      "moves": [
+        "ENDURE",
+        "FLAIL",
+        "FURY_ATTACK",
+        "WATERFALL"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

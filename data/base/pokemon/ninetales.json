@@ -1,0 +1,71 @@
+{
+  "id": "NINETALES",
+  "name": "NINETALES",
+  "baseHp": 73,
+  "baseAttack": 76,
+  "baseDefense": 75,
+  "baseSpeed": 100,
+  "baseSpAtk": 81,
+  "baseSpDef": 100,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.75,
+  "catchRate": 75,
+  "baseExp": 178,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "DIG",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 1,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 1,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 43,
+      "moveId": "FIRE_SPIN"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "ninetales",
+  "cryId": "ninetales"
+}

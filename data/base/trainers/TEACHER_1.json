@@ -1,0 +1,15 @@
+{
+  "id": "TEACHER_1",
+  "classId": "TEACHER",
+  "name": "COLETTE",
+  "party": [
+    {
+      "level": 36,
+      "speciesId": "CLEFAIRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

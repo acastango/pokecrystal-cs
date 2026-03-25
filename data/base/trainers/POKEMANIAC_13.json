@@ -1,0 +1,15 @@
+{
+  "id": "POKEMANIAC_13",
+  "classId": "POKEMANIAC",
+  "name": "ZACH",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "RHYHORN"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

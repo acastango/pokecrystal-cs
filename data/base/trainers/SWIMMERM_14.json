@@ -1,0 +1,27 @@
+{
+  "id": "SWIMMERM_14",
+  "classId": "SWIMMERM",
+  "name": "JEROME",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "SEADRA"
+    },
+    {
+      "level": 28,
+      "speciesId": "TENTACOOL"
+    },
+    {
+      "level": 30,
+      "speciesId": "TENTACRUEL"
+    },
+    {
+      "level": 28,
+      "speciesId": "GOLDEEN"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

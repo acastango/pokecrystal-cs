@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANM_14",
+  "classId": "POKEFANM",
+  "name": "ALLAN",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "TEDDIURSA",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

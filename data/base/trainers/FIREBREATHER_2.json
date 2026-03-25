@@ -1,0 +1,15 @@
+{
+  "id": "FIREBREATHER_2",
+  "classId": "FIREBREATHER",
+  "name": "DICK",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "CHARMELEON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

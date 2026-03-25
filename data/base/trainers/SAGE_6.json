@@ -1,0 +1,31 @@
+{
+  "id": "SAGE_6",
+  "classId": "SAGE",
+  "name": "PING",
+  "party": [
+    {
+      "level": 16,
+      "speciesId": "GASTLY"
+    },
+    {
+      "level": 16,
+      "speciesId": "GASTLY"
+    },
+    {
+      "level": 16,
+      "speciesId": "GASTLY"
+    },
+    {
+      "level": 16,
+      "speciesId": "GASTLY"
+    },
+    {
+      "level": 16,
+      "speciesId": "GASTLY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

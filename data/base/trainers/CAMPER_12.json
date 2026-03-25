@@ -1,0 +1,23 @@
+{
+  "id": "CAMPER_12",
+  "classId": "CAMPER",
+  "name": "TODD",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "GEODUDE"
+    },
+    {
+      "level": 17,
+      "speciesId": "GEODUDE"
+    },
+    {
+      "level": 23,
+      "speciesId": "PSYDUCK"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

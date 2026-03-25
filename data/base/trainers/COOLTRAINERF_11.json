@@ -1,0 +1,41 @@
+{
+  "id": "COOLTRAINERF_11",
+  "classId": "COOLTRAINERF",
+  "name": "MEGAN",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "BULBASAUR",
+      "moves": [
+        "GROWL",
+        "LEECH_SEED",
+        "POISONPOWDER",
+        "RAZOR_LEAF"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "IVYSAUR",
+      "moves": [
+        "GROWL",
+        "LEECH_SEED",
+        "POISONPOWDER",
+        "RAZOR_LEAF"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "VENUSAUR",
+      "moves": [
+        "BODY_SLAM",
+        "SLEEP_POWDER",
+        "RAZOR_LEAF",
+        "SWEET_SCENT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

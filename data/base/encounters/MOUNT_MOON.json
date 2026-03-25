@@ -1,0 +1,99 @@
+{
+  "mapId": "MOUNT_MOON",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 6,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 8,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 8,
+        "speciesId": "SANDSHREW"
+      },
+      {
+        "level": 12,
+        "speciesId": "PARAS"
+      },
+      {
+        "level": 10,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 8,
+        "speciesId": "CLEFAIRY"
+      },
+      {
+        "level": 8,
+        "speciesId": "CLEFAIRY"
+      }
+    ],
+    "day": [
+      {
+        "level": 6,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 8,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 8,
+        "speciesId": "SANDSHREW"
+      },
+      {
+        "level": 12,
+        "speciesId": "PARAS"
+      },
+      {
+        "level": 10,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 8,
+        "speciesId": "CLEFAIRY"
+      },
+      {
+        "level": 8,
+        "speciesId": "CLEFAIRY"
+      }
+    ],
+    "nite": [
+      {
+        "level": 6,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 8,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 8,
+        "speciesId": "CLEFAIRY"
+      },
+      {
+        "level": 12,
+        "speciesId": "PARAS"
+      },
+      {
+        "level": 10,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 12,
+        "speciesId": "CLEFAIRY"
+      },
+      {
+        "level": 12,
+        "speciesId": "CLEFAIRY"
+      }
+    ]
+  },
+  "water": null
+}

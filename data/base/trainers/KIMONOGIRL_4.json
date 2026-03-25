@@ -1,0 +1,15 @@
+{
+  "id": "KIMONOGIRL_4",
+  "classId": "KIMONOGIRL",
+  "name": "ZUKI",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "UMBREON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

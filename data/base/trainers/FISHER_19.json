@@ -1,0 +1,23 @@
+{
+  "id": "FISHER_19",
+  "classId": "FISHER",
+  "name": "TULLY",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "GOLDEEN"
+    },
+    {
+      "level": 32,
+      "speciesId": "GOLDEEN"
+    },
+    {
+      "level": 32,
+      "speciesId": "QWILFISH"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

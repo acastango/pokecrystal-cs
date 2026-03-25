@@ -1,0 +1,115 @@
+{
+  "mapId": "DARK_CAVE_VIOLET_ENTRANCE",
+  "grass": {
+    "mornRate": 4,
+    "dayRate": 4,
+    "niteRate": 4,
+    "morn": [
+      {
+        "level": 3,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 2,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 2,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 4,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 2,
+        "speciesId": "TEDDIURSA"
+      },
+      {
+        "level": 4,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 4,
+        "speciesId": "DUNSPARCE"
+      }
+    ],
+    "day": [
+      {
+        "level": 3,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 2,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 2,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 4,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 2,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 4,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 4,
+        "speciesId": "DUNSPARCE"
+      }
+    ],
+    "nite": [
+      {
+        "level": 3,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 2,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 2,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 4,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 2,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 4,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 4,
+        "speciesId": "DUNSPARCE"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 10,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 5,
+        "speciesId": "MAGIKARP"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "HIKER_22",
+  "classId": "HIKER",
+  "name": "ANTHONY",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "GRAVELER",
+      "moves": [
+        "MAGNITUDE",
+        "SELFDESTRUCT",
+        "DEFENSE_CURL",
+        "ROLLOUT"
+      ]
+    },
+    {
+      "level": 36,
+      "speciesId": "GOLEM",
+      "moves": [
+        "MAGNITUDE",
+        "SELFDESTRUCT",
+        "DEFENSE_CURL",
+        "ROLLOUT"
+      ]
+    },
+    {
+      "level": 34,
+      "speciesId": "MACHOKE",
+      "moves": [
+        "KARATE_CHOP",
+        "VITAL_THROW",
+        "HEADBUTT",
+        "DIG"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "LASS_7",
+  "classId": "LASS",
+  "name": "LAURA",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "GLOOM"
+    },
+    {
+      "level": 31,
+      "speciesId": "PIDGEOTTO"
+    },
+    {
+      "level": 31,
+      "speciesId": "BELLOSSOM"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

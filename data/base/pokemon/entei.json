@@ -1,0 +1,96 @@
+{
+  "id": "ENTEI",
+  "name": "ENTEI",
+  "baseHp": 115,
+  "baseAttack": 115,
+  "baseDefense": 85,
+  "baseSpeed": 100,
+  "baseSpAtk": 90,
+  "baseSpDef": 75,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 3,
+  "baseExp": 217,
+  "hatchCycles": 80,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "IRON_TAIL",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "CUT",
+    "STRENGTH",
+    "FLASH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BITE"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 11,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 21,
+      "moveId": "ROAR"
+    },
+    {
+      "level": 31,
+      "moveId": "FIRE_SPIN"
+    },
+    {
+      "level": 41,
+      "moveId": "STOMP"
+    },
+    {
+      "level": 51,
+      "moveId": "FLAMETHROWER"
+    },
+    {
+      "level": 61,
+      "moveId": "SWAGGER"
+    },
+    {
+      "level": 71,
+      "moveId": "FIRE_BLAST"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "entei",
+  "cryId": "entei"
+}

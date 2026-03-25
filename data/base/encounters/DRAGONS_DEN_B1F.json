@@ -1,0 +1,21 @@
+{
+  "mapId": "DRAGONS_DEN_B1F",
+  "grass": null,
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 10,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 10,
+        "speciesId": "DRATINI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "SCHOOLBOY_24",
+  "classId": "SCHOOLBOY",
+  "name": "CHAD",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "MR__MIME",
+      "moves": [
+        "PSYCHIC_M",
+        "LIGHT_SCREEN",
+        "REFLECT",
+        "ENCORE"
+      ]
+    },
+    {
+      "level": 38,
+      "speciesId": "MAGNETON",
+      "moves": [
+        "ZAP_CANNON",
+        "THUNDER_WAVE",
+        "LOCK_ON",
+        "SWIFT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

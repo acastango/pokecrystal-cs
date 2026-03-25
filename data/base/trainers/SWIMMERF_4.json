@@ -1,0 +1,31 @@
+{
+  "id": "SWIMMERF_4",
+  "classId": "SWIMMERF",
+  "name": "SUSIE",
+  "party": [
+    {
+      "level": 20,
+      "speciesId": "PSYDUCK",
+      "moves": [
+        "SCRATCH",
+        "TAIL_WHIP",
+        "DISABLE",
+        "CONFUSION"
+      ]
+    },
+    {
+      "level": 22,
+      "speciesId": "GOLDEEN",
+      "moves": [
+        "PECK",
+        "TAIL_WHIP",
+        "SUPERSONIC",
+        "HORN_ATTACK"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

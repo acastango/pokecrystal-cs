@@ -1,0 +1,36 @@
+{
+  "id": "POKEFANF_5",
+  "classId": "POKEFANF",
+  "name": "GEORGIA",
+  "party": [
+    {
+      "level": 23,
+      "speciesId": "SENTRET",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 23,
+      "speciesId": "SENTRET",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 23,
+      "speciesId": "SENTRET",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 28,
+      "speciesId": "FURRET",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 23,
+      "speciesId": "SENTRET",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "COOLTRAINERF_16",
+  "classId": "COOLTRAINERF",
+  "name": "CYBIL",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "BUTTERFREE",
+      "moves": [
+        "CONFUSION",
+        "SLEEP_POWDER",
+        "WHIRLWIND",
+        "GUST"
+      ]
+    },
+    {
+      "level": 25,
+      "speciesId": "BELLOSSOM",
+      "moves": [
+        "ABSORB",
+        "STUN_SPORE",
+        "ACID",
+        "SOLARBEAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,100 @@
+{
+  "id": "LEDIAN",
+  "name": "LEDIAN",
+  "baseHp": 55,
+  "baseAttack": 35,
+  "baseDefense": 50,
+  "baseSpeed": 85,
+  "baseSpAtk": 55,
+  "baseSpDef": 110,
+  "type1Id": "BUG",
+  "type2Id": "FLYING",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 90,
+  "baseExp": 134,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DIG",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 8,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 15,
+      "moveId": "COMET_PUNCH"
+    },
+    {
+      "level": 24,
+      "moveId": "LIGHT_SCREEN"
+    },
+    {
+      "level": 24,
+      "moveId": "REFLECT"
+    },
+    {
+      "level": 24,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 33,
+      "moveId": "BATON_PASS"
+    },
+    {
+      "level": 42,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 51,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 60,
+      "moveId": "DOUBLE_EDGE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "ledian",
+  "cryId": "ledian"
+}

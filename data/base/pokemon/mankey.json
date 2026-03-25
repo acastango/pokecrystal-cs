@@ -1,0 +1,113 @@
+{
+  "id": "MANKEY",
+  "name": "MANKEY",
+  "baseHp": 40,
+  "baseAttack": 80,
+  "baseDefense": 35,
+  "baseSpeed": 70,
+  "baseSpAtk": 35,
+  "baseSpDef": 45,
+  "type1Id": "FIGHTING",
+  "type2Id": "FIGHTING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 74,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 9,
+      "moveId": "LOW_KICK"
+    },
+    {
+      "level": 15,
+      "moveId": "KARATE_CHOP"
+    },
+    {
+      "level": 21,
+      "moveId": "FURY_SWIPES"
+    },
+    {
+      "level": 27,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 33,
+      "moveId": "SEISMIC_TOSS"
+    },
+    {
+      "level": 39,
+      "moveId": "CROSS_CHOP"
+    },
+    {
+      "level": 45,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 51,
+      "moveId": "THRASH"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "PRIMEAPE",
+      "param": "28"
+    }
+  ],
+  "eggMoves": [
+    "ROCK_SLIDE",
+    "FORESIGHT",
+    "MEDITATE",
+    "COUNTER",
+    "REVERSAL",
+    "BEAT_UP"
+  ],
+  "spriteId": "mankey",
+  "cryId": "mankey"
+}

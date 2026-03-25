@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANF_6",
+  "classId": "POKEFANF",
+  "name": "JAIME",
+  "party": [
+    {
+      "level": 16,
+      "speciesId": "MEOWTH",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

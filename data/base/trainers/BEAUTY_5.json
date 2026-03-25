@@ -1,0 +1,15 @@
+{
+  "id": "BEAUTY_5",
+  "classId": "BEAUTY",
+  "name": "BRENDA",
+  "party": [
+    {
+      "level": 16,
+      "speciesId": "FURRET"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

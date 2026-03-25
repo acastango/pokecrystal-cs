@@ -1,0 +1,23 @@
+{
+  "id": "CAMPER_3",
+  "classId": "CAMPER",
+  "name": "IVAN",
+  "party": [
+    {
+      "level": 10,
+      "speciesId": "DIGLETT"
+    },
+    {
+      "level": 10,
+      "speciesId": "ZUBAT"
+    },
+    {
+      "level": 14,
+      "speciesId": "DIGLETT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "BLAINE_1",
+  "classId": "BLAINE",
+  "name": "BLAINE",
+  "party": [
+    {
+      "level": 45,
+      "speciesId": "MAGCARGO",
+      "moves": [
+        "CURSE",
+        "SMOG",
+        "FLAMETHROWER",
+        "ROCK_SLIDE"
+      ]
+    },
+    {
+      "level": 45,
+      "speciesId": "MAGMAR",
+      "moves": [
+        "THUNDERPUNCH",
+        "FIRE_PUNCH",
+        "SUNNY_DAY",
+        "CONFUSE_RAY"
+      ]
+    },
+    {
+      "level": 50,
+      "speciesId": "RAPIDASH",
+      "moves": [
+        "QUICK_ATTACK",
+        "FIRE_SPIN",
+        "FURY_ATTACK",
+        "FIRE_BLAST"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

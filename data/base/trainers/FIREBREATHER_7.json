@@ -1,0 +1,15 @@
+{
+  "id": "FIREBREATHER_7",
+  "classId": "FIREBREATHER",
+  "name": "RAY",
+  "party": [
+    {
+      "level": 9,
+      "speciesId": "VULPIX"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

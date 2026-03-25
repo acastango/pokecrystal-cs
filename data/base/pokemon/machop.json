@@ -1,0 +1,108 @@
+{
+  "id": "MACHOP",
+  "name": "MACHOP",
+  "baseHp": 70,
+  "baseAttack": 80,
+  "baseDefense": 50,
+  "baseSpeed": 35,
+  "baseSpAtk": 35,
+  "baseSpDef": 35,
+  "type1Id": "FIGHTING",
+  "type2Id": "FIGHTING",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 0.25,
+  "catchRate": 180,
+  "baseExp": 88,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "LOW_KICK"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 7,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 13,
+      "moveId": "KARATE_CHOP"
+    },
+    {
+      "level": 19,
+      "moveId": "SEISMIC_TOSS"
+    },
+    {
+      "level": 25,
+      "moveId": "FORESIGHT"
+    },
+    {
+      "level": 31,
+      "moveId": "VITAL_THROW"
+    },
+    {
+      "level": 37,
+      "moveId": "CROSS_CHOP"
+    },
+    {
+      "level": 43,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 49,
+      "moveId": "SUBMISSION"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "MACHOKE",
+      "param": "28"
+    }
+  ],
+  "eggMoves": [
+    "LIGHT_SCREEN",
+    "MEDITATE",
+    "ROLLING_KICK",
+    "ENCORE"
+  ],
+  "spriteId": "machop",
+  "cryId": "machop"
+}

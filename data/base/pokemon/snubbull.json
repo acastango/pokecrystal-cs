@@ -1,0 +1,112 @@
+{
+  "id": "SNUBBULL",
+  "name": "SNUBBULL",
+  "baseHp": 60,
+  "baseAttack": 80,
+  "baseDefense": 50,
+  "baseSpeed": 30,
+  "baseSpAtk": 40,
+  "baseSpDef": 40,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_FAIRY"
+  ],
+  "genderRatio": 0.75,
+  "catchRate": 190,
+  "baseExp": 63,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 4,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 8,
+      "moveId": "CHARM"
+    },
+    {
+      "level": 13,
+      "moveId": "BITE"
+    },
+    {
+      "level": 19,
+      "moveId": "LICK"
+    },
+    {
+      "level": 26,
+      "moveId": "ROAR"
+    },
+    {
+      "level": 34,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 43,
+      "moveId": "TAKE_DOWN"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "GRANBULL",
+      "param": "23"
+    }
+  ],
+  "eggMoves": [
+    "METRONOME",
+    "FAINT_ATTACK",
+    "REFLECT",
+    "PRESENT",
+    "CRUNCH",
+    "HEAL_BELL",
+    "LICK",
+    "LEER"
+  ],
+  "spriteId": "snubbull",
+  "cryId": "snubbull"
+}

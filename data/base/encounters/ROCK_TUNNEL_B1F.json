@@ -1,0 +1,99 @@
+{
+  "mapId": "ROCK_TUNNEL_B1F",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 12,
+        "speciesId": "CUBONE"
+      },
+      {
+        "level": 14,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 16,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 12,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "MAROWAK"
+      },
+      {
+        "level": 15,
+        "speciesId": "KANGASKHAN"
+      },
+      {
+        "level": 15,
+        "speciesId": "KANGASKHAN"
+      }
+    ],
+    "day": [
+      {
+        "level": 12,
+        "speciesId": "CUBONE"
+      },
+      {
+        "level": 14,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 16,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 12,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "MAROWAK"
+      },
+      {
+        "level": 15,
+        "speciesId": "KANGASKHAN"
+      },
+      {
+        "level": 15,
+        "speciesId": "KANGASKHAN"
+      }
+    ],
+    "nite": [
+      {
+        "level": 12,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 14,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 16,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 15,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "HAUNTER"
+      },
+      {
+        "level": 15,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": null
+}

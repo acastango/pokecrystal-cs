@@ -1,0 +1,21 @@
+{
+  "mapId": "CELADON_CITY",
+  "grass": null,
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 15,
+        "speciesId": "GRIMER"
+      },
+      {
+        "level": 15,
+        "speciesId": "MUK"
+      }
+    ]
+  }
+}

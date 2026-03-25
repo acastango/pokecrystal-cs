@@ -1,0 +1,15 @@
+{
+  "id": "HIKER_17",
+  "classId": "HIKER",
+  "name": "JIM",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "MACHAMP"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

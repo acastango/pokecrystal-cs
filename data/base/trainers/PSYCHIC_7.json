@@ -1,0 +1,36 @@
+{
+  "id": "PSYCHIC_7",
+  "classId": "PSYCHIC",
+  "name": "MARK",
+  "party": [
+    {
+      "level": 13,
+      "speciesId": "ABRA",
+      "moves": [
+        "TELEPORT",
+        "FLASH"
+      ]
+    },
+    {
+      "level": 13,
+      "speciesId": "ABRA",
+      "moves": [
+        "TELEPORT",
+        "FLASH"
+      ]
+    },
+    {
+      "level": 15,
+      "speciesId": "KADABRA",
+      "moves": [
+        "TELEPORT",
+        "KINESIS",
+        "CONFUSION"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

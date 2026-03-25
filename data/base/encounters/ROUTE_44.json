@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_44",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 23,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 22,
+        "speciesId": "LICKITUNG"
+      },
+      {
+        "level": 22,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 24,
+        "speciesId": "WEEPINBELL"
+      },
+      {
+        "level": 24,
+        "speciesId": "LICKITUNG"
+      },
+      {
+        "level": 26,
+        "speciesId": "LICKITUNG"
+      },
+      {
+        "level": 26,
+        "speciesId": "LICKITUNG"
+      }
+    ],
+    "day": [
+      {
+        "level": 23,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 22,
+        "speciesId": "LICKITUNG"
+      },
+      {
+        "level": 22,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 24,
+        "speciesId": "WEEPINBELL"
+      },
+      {
+        "level": 24,
+        "speciesId": "LICKITUNG"
+      },
+      {
+        "level": 26,
+        "speciesId": "LICKITUNG"
+      },
+      {
+        "level": 26,
+        "speciesId": "LICKITUNG"
+      }
+    ],
+    "nite": [
+      {
+        "level": 23,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 22,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 22,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 24,
+        "speciesId": "WEEPINBELL"
+      },
+      {
+        "level": 24,
+        "speciesId": "POLIWHIRL"
+      },
+      {
+        "level": 26,
+        "speciesId": "POLIWHIRL"
+      },
+      {
+        "level": 26,
+        "speciesId": "POLIWHIRL"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 25,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 20,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 25,
+        "speciesId": "POLIWHIRL"
+      }
+    ]
+  }
+}

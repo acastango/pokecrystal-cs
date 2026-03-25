@@ -1,0 +1,31 @@
+{
+  "id": "FISHER_11",
+  "classId": "FISHER",
+  "name": "EDGAR",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "REMORAID",
+      "moves": [
+        "LOCK_ON",
+        "PSYBEAM",
+        "AURORA_BEAM",
+        "BUBBLEBEAM"
+      ]
+    },
+    {
+      "level": 25,
+      "speciesId": "REMORAID",
+      "moves": [
+        "LOCK_ON",
+        "PSYBEAM",
+        "AURORA_BEAM",
+        "BUBBLEBEAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

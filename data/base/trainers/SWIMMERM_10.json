@@ -1,0 +1,19 @@
+{
+  "id": "SWIMMERM_10",
+  "classId": "SWIMMERM",
+  "name": "PATON",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "PILOSWINE"
+    },
+    {
+      "level": 26,
+      "speciesId": "PILOSWINE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

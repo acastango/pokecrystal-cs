@@ -1,0 +1,99 @@
+{
+  "mapId": "TIN_TOWER_8F",
+  "grass": {
+    "mornRate": 2,
+    "dayRate": 2,
+    "niteRate": 2,
+    "morn": [
+      {
+        "level": 20,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 21,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 22,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 22,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 23,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 24,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 24,
+        "speciesId": "RATTATA"
+      }
+    ],
+    "day": [
+      {
+        "level": 20,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 21,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 22,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 22,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 23,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 24,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 24,
+        "speciesId": "RATTATA"
+      }
+    ],
+    "nite": [
+      {
+        "level": 20,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 21,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 22,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 22,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 23,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 24,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 24,
+        "speciesId": "RATTATA"
+      }
+    ]
+  },
+  "water": null
+}

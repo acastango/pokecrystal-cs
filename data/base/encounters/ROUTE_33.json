@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_33",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 6,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 6,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 6,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 6,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 7,
+        "speciesId": "EKANS"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOPPIP"
+      }
+    ],
+    "day": [
+      {
+        "level": 6,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 6,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 6,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 6,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 7,
+        "speciesId": "EKANS"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOPPIP"
+      }
+    ],
+    "nite": [
+      {
+        "level": 6,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 6,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 6,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 6,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 7,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "RATTATA"
+      }
+    ]
+  },
+  "water": null
+}

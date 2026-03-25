@@ -1,0 +1,21 @@
+{
+  "mapId": "VIOLET_CITY",
+  "grass": null,
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 15,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 20,
+        "speciesId": "POLIWHIRL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_6",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 13,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 13,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 14,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 15,
+        "speciesId": "GRANBULL"
+      },
+      {
+        "level": 15,
+        "speciesId": "GRANBULL"
+      }
+    ],
+    "day": [
+      {
+        "level": 13,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 13,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 14,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 15,
+        "speciesId": "GRANBULL"
+      },
+      {
+        "level": 15,
+        "speciesId": "GRANBULL"
+      }
+    ],
+    "nite": [
+      {
+        "level": 13,
+        "speciesId": "MEOWTH"
+      },
+      {
+        "level": 13,
+        "speciesId": "DROWZEE"
+      },
+      {
+        "level": 14,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 15,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 10,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 5,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 10,
+        "speciesId": "GOLDUCK"
+      }
+    ]
+  }
+}

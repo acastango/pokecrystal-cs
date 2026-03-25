@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_43",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 15,
+        "speciesId": "SENTRET"
+      },
+      {
+        "level": 16,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 16,
+        "speciesId": "FARFETCH_D"
+      },
+      {
+        "level": 15,
+        "speciesId": "FURRET"
+      },
+      {
+        "level": 17,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 17,
+        "speciesId": "FURRET"
+      },
+      {
+        "level": 17,
+        "speciesId": "FURRET"
+      }
+    ],
+    "day": [
+      {
+        "level": 15,
+        "speciesId": "SENTRET"
+      },
+      {
+        "level": 16,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 16,
+        "speciesId": "FARFETCH_D"
+      },
+      {
+        "level": 15,
+        "speciesId": "FURRET"
+      },
+      {
+        "level": 17,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 17,
+        "speciesId": "FURRET"
+      },
+      {
+        "level": 17,
+        "speciesId": "FURRET"
+      }
+    ],
+    "nite": [
+      {
+        "level": 15,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 16,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 17,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 17,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 17,
+        "speciesId": "VENOMOTH"
+      },
+      {
+        "level": 17,
+        "speciesId": "VENOMOTH"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 15,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 10,
+        "speciesId": "MAGIKARP"
+      }
+    ]
+  }
+}

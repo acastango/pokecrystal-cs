@@ -1,0 +1,15 @@
+{
+  "id": "SAGE_3",
+  "classId": "SAGE",
+  "name": "JIN",
+  "party": [
+    {
+      "level": 6,
+      "speciesId": "BELLSPROUT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

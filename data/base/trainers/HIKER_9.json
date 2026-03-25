@@ -1,0 +1,19 @@
+{
+  "id": "HIKER_9",
+  "classId": "HIKER",
+  "name": "PARRY",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "ONIX"
+    },
+    {
+      "level": 33,
+      "speciesId": "SWINUB"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

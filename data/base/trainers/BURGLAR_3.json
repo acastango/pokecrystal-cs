@@ -1,0 +1,27 @@
+{
+  "id": "BURGLAR_3",
+  "classId": "BURGLAR",
+  "name": "COREY",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "KOFFING"
+    },
+    {
+      "level": 28,
+      "speciesId": "MAGMAR"
+    },
+    {
+      "level": 25,
+      "speciesId": "KOFFING"
+    },
+    {
+      "level": 30,
+      "speciesId": "KOFFING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

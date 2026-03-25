@@ -1,0 +1,23 @@
+{
+  "id": "PSYCHIC_3",
+  "classId": "PSYCHIC",
+  "name": "HERMAN",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "EXEGGCUTE"
+    },
+    {
+      "level": 30,
+      "speciesId": "EXEGGCUTE"
+    },
+    {
+      "level": 30,
+      "speciesId": "EXEGGUTOR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

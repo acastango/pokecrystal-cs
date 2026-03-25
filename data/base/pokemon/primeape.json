@@ -1,0 +1,113 @@
+{
+  "id": "PRIMEAPE",
+  "name": "PRIMEAPE",
+  "baseHp": 65,
+  "baseAttack": 105,
+  "baseDefense": 60,
+  "baseSpeed": 95,
+  "baseSpAtk": 60,
+  "baseSpDef": 70,
+  "type1Id": "FIGHTING",
+  "type2Id": "FIGHTING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 149,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "LOW_KICK"
+    },
+    {
+      "level": 1,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 9,
+      "moveId": "LOW_KICK"
+    },
+    {
+      "level": 15,
+      "moveId": "KARATE_CHOP"
+    },
+    {
+      "level": 21,
+      "moveId": "FURY_SWIPES"
+    },
+    {
+      "level": 27,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 28,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 36,
+      "moveId": "SEISMIC_TOSS"
+    },
+    {
+      "level": 45,
+      "moveId": "CROSS_CHOP"
+    },
+    {
+      "level": 54,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 63,
+      "moveId": "THRASH"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "primeape",
+  "cryId": "primeape"
+}

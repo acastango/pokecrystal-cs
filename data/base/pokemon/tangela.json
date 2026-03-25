@@ -1,0 +1,99 @@
+{
+  "id": "TANGELA",
+  "name": "TANGELA",
+  "baseHp": 65,
+  "baseAttack": 55,
+  "baseDefense": 115,
+  "baseSpeed": 60,
+  "baseSpAtk": 100,
+  "baseSpDef": 40,
+  "type1Id": "GRASS",
+  "type2Id": "GRASS",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 166,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "CONSTRICT"
+    },
+    {
+      "level": 4,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 10,
+      "moveId": "ABSORB"
+    },
+    {
+      "level": 13,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 19,
+      "moveId": "VINE_WHIP"
+    },
+    {
+      "level": 25,
+      "moveId": "BIND"
+    },
+    {
+      "level": 31,
+      "moveId": "MEGA_DRAIN"
+    },
+    {
+      "level": 34,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 40,
+      "moveId": "SLAM"
+    },
+    {
+      "level": 46,
+      "moveId": "GROWTH"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "FLAIL",
+    "CONFUSION",
+    "MEGA_DRAIN",
+    "REFLECT",
+    "AMNESIA"
+  ],
+  "spriteId": "tangela",
+  "cryId": "tangela"
+}

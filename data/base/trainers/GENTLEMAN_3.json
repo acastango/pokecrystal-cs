@@ -1,0 +1,19 @@
+{
+  "id": "GENTLEMAN_3",
+  "classId": "GENTLEMAN",
+  "name": "GREGORY",
+  "party": [
+    {
+      "level": 37,
+      "speciesId": "PIKACHU"
+    },
+    {
+      "level": 33,
+      "speciesId": "FLAAFFY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

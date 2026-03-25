@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_8",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 17,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 19,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 17,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 16,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 18,
+        "speciesId": "KADABRA"
+      },
+      {
+        "level": 18,
+        "speciesId": "KADABRA"
+      }
+    ],
+    "day": [
+      {
+        "level": 17,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 19,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 17,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 16,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 18,
+        "speciesId": "KADABRA"
+      },
+      {
+        "level": 18,
+        "speciesId": "KADABRA"
+      }
+    ],
+    "nite": [
+      {
+        "level": 17,
+        "speciesId": "MEOWTH"
+      },
+      {
+        "level": 20,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 17,
+        "speciesId": "HAUNTER"
+      },
+      {
+        "level": 16,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 18,
+        "speciesId": "KADABRA"
+      },
+      {
+        "level": 18,
+        "speciesId": "KADABRA"
+      }
+    ]
+  },
+  "water": null
+}

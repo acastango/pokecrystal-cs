@@ -1,0 +1,108 @@
+{
+  "id": "CHARMELEON",
+  "name": "CHARMELEON",
+  "baseHp": 58,
+  "baseAttack": 64,
+  "baseDefense": 58,
+  "baseSpeed": 80,
+  "baseSpAtk": 80,
+  "baseSpDef": 65,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_DRAGON"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 142,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "CUT",
+    "STRENGTH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 7,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 13,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 20,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 27,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 34,
+      "moveId": "FLAMETHROWER"
+    },
+    {
+      "level": 41,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 48,
+      "moveId": "DRAGON_RAGE"
+    },
+    {
+      "level": 55,
+      "moveId": "FIRE_SPIN"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "CHARIZARD",
+      "param": "36"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "charmeleon",
+  "cryId": "charmeleon"
+}

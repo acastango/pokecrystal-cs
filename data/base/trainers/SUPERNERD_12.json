@@ -1,0 +1,21 @@
+{
+  "id": "SUPERNERD_12",
+  "classId": "SUPERNERD",
+  "name": "NORTON",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "PORYGON",
+      "moves": [
+        "CONVERSION",
+        "CONVERSION2",
+        "RECOVER",
+        "TRI_ATTACK"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

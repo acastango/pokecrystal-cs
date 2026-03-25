@@ -1,0 +1,44 @@
+{
+  "id": "COOLTRAINERF_20",
+  "classId": "COOLTRAINERF",
+  "name": "REENA",
+  "party": [
+    {
+      "level": 38,
+      "speciesId": "STARMIE",
+      "heldItemId": null,
+      "moves": [
+        "DOUBLE_TEAM",
+        "PSYCHIC_M",
+        "WATERFALL",
+        "CONFUSE_RAY"
+      ]
+    },
+    {
+      "level": 40,
+      "speciesId": "NIDOQUEEN",
+      "heldItemId": "PINK_BOW",
+      "moves": [
+        "EARTHQUAKE",
+        "DOUBLE_KICK",
+        "TOXIC",
+        "BODY_SLAM"
+      ]
+    },
+    {
+      "level": 38,
+      "speciesId": "STARMIE",
+      "heldItemId": null,
+      "moves": [
+        "BLIZZARD",
+        "PSYCHIC_M",
+        "WATERFALL",
+        "RECOVER"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

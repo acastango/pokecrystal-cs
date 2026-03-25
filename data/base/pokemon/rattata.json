@@ -1,0 +1,96 @@
+{
+  "id": "RATTATA",
+  "name": "RATTATA",
+  "baseHp": 30,
+  "baseAttack": 56,
+  "baseDefense": 35,
+  "baseSpeed": 72,
+  "baseSpAtk": 25,
+  "baseSpDef": 35,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 255,
+  "baseExp": 57,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "ICY_WIND",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "DIG",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "THIEF"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 7,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 13,
+      "moveId": "HYPER_FANG"
+    },
+    {
+      "level": 20,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 27,
+      "moveId": "PURSUIT"
+    },
+    {
+      "level": 34,
+      "moveId": "SUPER_FANG"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "RATICATE",
+      "param": "20"
+    }
+  ],
+  "eggMoves": [
+    "SCREECH",
+    "FLAME_WHEEL",
+    "FURY_SWIPES",
+    "BITE",
+    "COUNTER",
+    "REVERSAL"
+  ],
+  "spriteId": "rattata",
+  "cryId": "rattata"
+}

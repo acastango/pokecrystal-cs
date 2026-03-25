@@ -1,0 +1,44 @@
+{
+  "id": "WOBBUFFET",
+  "name": "WOBBUFFET",
+  "baseHp": 190,
+  "baseAttack": 33,
+  "baseDefense": 58,
+  "baseSpeed": 33,
+  "baseSpAtk": 33,
+  "baseSpDef": 58,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 177,
+  "hatchCycles": 20,
+  "tmHmMoves": [],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "COUNTER"
+    },
+    {
+      "level": 1,
+      "moveId": "MIRROR_COAT"
+    },
+    {
+      "level": 1,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 1,
+      "moveId": "DESTINY_BOND"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "wobbuffet",
+  "cryId": "wobbuffet"
+}

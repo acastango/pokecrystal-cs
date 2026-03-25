@@ -1,0 +1,41 @@
+{
+  "id": "COOLTRAINERM_10",
+  "classId": "COOLTRAINERM",
+  "name": "GAVEN",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "VICTREEBEL",
+      "moves": [
+        "WRAP",
+        "TOXIC",
+        "ACID",
+        "RAZOR_LEAF"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "KINGLER",
+      "moves": [
+        "BUBBLEBEAM",
+        "STOMP",
+        "GUILLOTINE",
+        "PROTECT"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "FLAREON",
+      "moves": [
+        "SAND_ATTACK",
+        "QUICK_ATTACK",
+        "BITE",
+        "FIRE_SPIN"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

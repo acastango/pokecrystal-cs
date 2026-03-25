@@ -1,0 +1,44 @@
+{
+  "id": "COOLTRAINERM_7",
+  "classId": "COOLTRAINERM",
+  "name": "GAVEN",
+  "party": [
+    {
+      "level": 39,
+      "speciesId": "VICTREEBEL",
+      "heldItemId": null,
+      "moves": [
+        "GIGA_DRAIN",
+        "TOXIC",
+        "SLUDGE_BOMB",
+        "RAZOR_LEAF"
+      ]
+    },
+    {
+      "level": 39,
+      "speciesId": "KINGLER",
+      "heldItemId": "KINGS_ROCK",
+      "moves": [
+        "SURF",
+        "STOMP",
+        "GUILLOTINE",
+        "BLIZZARD"
+      ]
+    },
+    {
+      "level": 39,
+      "speciesId": "FLAREON",
+      "heldItemId": null,
+      "moves": [
+        "FLAMETHROWER",
+        "QUICK_ATTACK",
+        "BITE",
+        "FIRE_SPIN"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

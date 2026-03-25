@@ -1,0 +1,107 @@
+{
+  "id": "LAPRAS",
+  "name": "LAPRAS",
+  "baseHp": 130,
+  "baseAttack": 85,
+  "baseDefense": 80,
+  "baseSpeed": 60,
+  "baseSpAtk": 85,
+  "baseSpDef": 95,
+  "type1Id": "WATER",
+  "type2Id": "ICE",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_WATER_1"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 219,
+  "hatchCycles": 40,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "NIGHTMARE",
+    "SURF",
+    "STRENGTH",
+    "WHIRLPOOL",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "SING"
+    },
+    {
+      "level": 8,
+      "moveId": "MIST"
+    },
+    {
+      "level": 15,
+      "moveId": "BODY_SLAM"
+    },
+    {
+      "level": 22,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 29,
+      "moveId": "PERISH_SONG"
+    },
+    {
+      "level": 36,
+      "moveId": "ICE_BEAM"
+    },
+    {
+      "level": 43,
+      "moveId": "RAIN_DANCE"
+    },
+    {
+      "level": 50,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 57,
+      "moveId": "HYDRO_PUMP"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "AURORA_BEAM",
+    "FORESIGHT"
+  ],
+  "spriteId": "lapras",
+  "cryId": "lapras"
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "TOHJO_FALLS",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 22,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 24,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 21,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 20,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      }
+    ],
+    "day": [
+      {
+        "level": 22,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 24,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 21,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 20,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      }
+    ],
+    "nite": [
+      {
+        "level": 22,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 24,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 21,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 20,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 23,
+        "speciesId": "SLOWPOKE"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 20,
+        "speciesId": "SLOWPOKE"
+      },
+      {
+        "level": 20,
+        "speciesId": "SEAKING"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "BLUE_1",
+  "classId": "BLUE",
+  "name": "BLUE",
+  "party": [
+    {
+      "level": 56,
+      "speciesId": "PIDGEOT",
+      "moves": [
+        "QUICK_ATTACK",
+        "WHIRLWIND",
+        "WING_ATTACK",
+        "MIRROR_MOVE"
+      ]
+    },
+    {
+      "level": 54,
+      "speciesId": "ALAKAZAM",
+      "moves": [
+        "DISABLE",
+        "RECOVER",
+        "PSYCHIC_M",
+        "REFLECT"
+      ]
+    },
+    {
+      "level": 56,
+      "speciesId": "RHYDON",
+      "moves": [
+        "FURY_ATTACK",
+        "SANDSTORM",
+        "ROCK_SLIDE",
+        "EARTHQUAKE"
+      ]
+    },
+    {
+      "level": 58,
+      "speciesId": "GYARADOS",
+      "moves": [
+        "TWISTER",
+        "HYDRO_PUMP",
+        "RAIN_DANCE",
+        "HYPER_BEAM"
+      ]
+    },
+    {
+      "level": 58,
+      "speciesId": "EXEGGUTOR",
+      "moves": [
+        "SUNNY_DAY",
+        "LEECH_SEED",
+        "EGG_BOMB",
+        "SOLARBEAM"
+      ]
+    },
+    {
+      "level": 58,
+      "speciesId": "ARCANINE",
+      "moves": [
+        "ROAR",
+        "SWIFT",
+        "FLAMETHROWER",
+        "EXTREMESPEED"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

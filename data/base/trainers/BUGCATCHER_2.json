@@ -1,0 +1,19 @@
+{
+  "id": "BUGCATCHER_2",
+  "classId": "BUGCATCHER",
+  "name": "ROB",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "BEEDRILL"
+    },
+    {
+      "level": 32,
+      "speciesId": "BUTTERFREE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

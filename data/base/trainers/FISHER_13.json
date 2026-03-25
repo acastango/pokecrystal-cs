@@ -1,0 +1,19 @@
+{
+  "id": "FISHER_13",
+  "classId": "FISHER",
+  "name": "MARTIN",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "REMORAID"
+    },
+    {
+      "level": 32,
+      "speciesId": "REMORAID"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

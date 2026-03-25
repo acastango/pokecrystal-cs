@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mnemo__memory_recall"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "LTSURGE_1",
+  "classId": "LTSURGE",
+  "name": "LT.SURGE",
+  "party": [
+    {
+      "level": 44,
+      "speciesId": "RAICHU",
+      "moves": [
+        "THUNDER_WAVE",
+        "QUICK_ATTACK",
+        "THUNDERBOLT",
+        "THUNDER"
+      ]
+    },
+    {
+      "level": 40,
+      "speciesId": "ELECTRODE",
+      "moves": [
+        "SCREECH",
+        "DOUBLE_TEAM",
+        "SWIFT",
+        "EXPLOSION"
+      ]
+    },
+    {
+      "level": 40,
+      "speciesId": "MAGNETON",
+      "moves": [
+        "LOCK_ON",
+        "DOUBLE_TEAM",
+        "SWIFT",
+        "ZAP_CANNON"
+      ]
+    },
+    {
+      "level": 40,
+      "speciesId": "ELECTRODE",
+      "moves": [
+        "SCREECH",
+        "DOUBLE_TEAM",
+        "SWIFT",
+        "EXPLOSION"
+      ]
+    },
+    {
+      "level": 46,
+      "speciesId": "ELECTABUZZ",
+      "moves": [
+        "QUICK_ATTACK",
+        "THUNDERPUNCH",
+        "LIGHT_SCREEN",
+        "THUNDER"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

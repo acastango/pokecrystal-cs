@@ -1,0 +1,69 @@
+{
+  "id": "BELLOSSOM",
+  "name": "BELLOSSOM",
+  "baseHp": 75,
+  "baseAttack": 80,
+  "baseDefense": 85,
+  "baseSpeed": 50,
+  "baseSpAtk": 90,
+  "baseSpDef": 100,
+  "type1Id": "GRASS",
+  "type2Id": "GRASS",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 184,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "ABSORB"
+    },
+    {
+      "level": 1,
+      "moveId": "SWEET_SCENT"
+    },
+    {
+      "level": 1,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 1,
+      "moveId": "PETAL_DANCE"
+    },
+    {
+      "level": 55,
+      "moveId": "SOLARBEAM"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "bellossom",
+  "cryId": "bellossom"
+}

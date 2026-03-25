@@ -1,0 +1,104 @@
+{
+  "id": "PORYGON",
+  "name": "PORYGON",
+  "baseHp": 65,
+  "baseAttack": 60,
+  "baseDefense": 70,
+  "baseSpeed": 40,
+  "baseSpAtk": 85,
+  "baseSpDef": 75,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_MINERAL",
+    "EGG_MINERAL"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 45,
+  "baseExp": 130,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DREAM_EATER",
+    "REST",
+    "THIEF",
+    "NIGHTMARE",
+    "FLASH",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "CONVERSION2"
+    },
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "CONVERSION"
+    },
+    {
+      "level": 9,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 12,
+      "moveId": "PSYBEAM"
+    },
+    {
+      "level": 20,
+      "moveId": "RECOVER"
+    },
+    {
+      "level": 24,
+      "moveId": "SHARPEN"
+    },
+    {
+      "level": 32,
+      "moveId": "LOCK_ON"
+    },
+    {
+      "level": 36,
+      "moveId": "TRI_ATTACK"
+    },
+    {
+      "level": 44,
+      "moveId": "ZAP_CANNON"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Trade",
+      "targetSpeciesId": "PORYGON2",
+      "param": "UP_GRADE"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "porygon",
+  "cryId": "porygon"
+}

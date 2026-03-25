@@ -1,0 +1,15 @@
+{
+  "id": "SUPERNERD_8",
+  "classId": "SUPERNERD",
+  "name": "PAT",
+  "party": [
+    {
+      "level": 36,
+      "speciesId": "PORYGON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

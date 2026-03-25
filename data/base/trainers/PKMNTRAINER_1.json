@@ -1,0 +1,23 @@
+{
+  "id": "PKMNTRAINER_1",
+  "classId": "PKMNTRAINER",
+  "name": "CAL",
+  "party": [
+    {
+      "level": 10,
+      "speciesId": "CHIKORITA"
+    },
+    {
+      "level": 10,
+      "speciesId": "CYNDAQUIL"
+    },
+    {
+      "level": 10,
+      "speciesId": "TOTODILE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

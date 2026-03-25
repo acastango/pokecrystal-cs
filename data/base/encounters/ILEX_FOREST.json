@@ -1,0 +1,115 @@
+{
+  "mapId": "ILEX_FOREST",
+  "grass": {
+    "mornRate": 4,
+    "dayRate": 4,
+    "niteRate": 4,
+    "morn": [
+      {
+        "level": 5,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 5,
+        "speciesId": "WEEDLE"
+      },
+      {
+        "level": 7,
+        "speciesId": "METAPOD"
+      },
+      {
+        "level": 7,
+        "speciesId": "KAKUNA"
+      },
+      {
+        "level": 7,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 6,
+        "speciesId": "PARAS"
+      },
+      {
+        "level": 6,
+        "speciesId": "PARAS"
+      }
+    ],
+    "day": [
+      {
+        "level": 5,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 5,
+        "speciesId": "WEEDLE"
+      },
+      {
+        "level": 7,
+        "speciesId": "METAPOD"
+      },
+      {
+        "level": 7,
+        "speciesId": "KAKUNA"
+      },
+      {
+        "level": 7,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 6,
+        "speciesId": "PARAS"
+      },
+      {
+        "level": 6,
+        "speciesId": "PARAS"
+      }
+    ],
+    "nite": [
+      {
+        "level": 5,
+        "speciesId": "ODDISH"
+      },
+      {
+        "level": 5,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 7,
+        "speciesId": "ODDISH"
+      },
+      {
+        "level": 7,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 6,
+        "speciesId": "PARAS"
+      },
+      {
+        "level": 6,
+        "speciesId": "PARAS"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 10,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 15,
+        "speciesId": "GOLDUCK"
+      }
+    ]
+  }
+}

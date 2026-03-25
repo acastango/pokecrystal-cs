@@ -1,0 +1,27 @@
+{
+  "id": "FISHER_12",
+  "classId": "FISHER",
+  "name": "JONAH",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "SHELLDER"
+    },
+    {
+      "level": 29,
+      "speciesId": "OCTILLERY"
+    },
+    {
+      "level": 25,
+      "speciesId": "REMORAID"
+    },
+    {
+      "level": 29,
+      "speciesId": "CLOYSTER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

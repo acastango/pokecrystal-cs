@@ -1,0 +1,15 @@
+{
+  "id": "GRUNTM_27",
+  "classId": "GRUNTM",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 22,
+      "speciesId": "ZUBAT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

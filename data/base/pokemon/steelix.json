@@ -1,0 +1,93 @@
+{
+  "id": "STEELIX",
+  "name": "STEELIX",
+  "baseHp": 75,
+  "baseAttack": 85,
+  "baseDefense": 200,
+  "baseSpeed": 30,
+  "baseSpAtk": 55,
+  "baseSpDef": 65,
+  "type1Id": "STEEL",
+  "type2Id": "GROUND",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_MINERAL",
+    "EGG_MINERAL"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 25,
+  "baseExp": 196,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 10,
+      "moveId": "BIND"
+    },
+    {
+      "level": 14,
+      "moveId": "ROCK_THROW"
+    },
+    {
+      "level": 23,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 27,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 36,
+      "moveId": "SANDSTORM"
+    },
+    {
+      "level": 40,
+      "moveId": "SLAM"
+    },
+    {
+      "level": 49,
+      "moveId": "CRUNCH"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "steelix",
+  "cryId": "steelix"
+}

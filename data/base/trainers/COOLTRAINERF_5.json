@@ -1,0 +1,19 @@
+{
+  "id": "COOLTRAINERF_5",
+  "classId": "COOLTRAINERF",
+  "name": "KATE",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "SHELLDER"
+    },
+    {
+      "level": 28,
+      "speciesId": "CLOYSTER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

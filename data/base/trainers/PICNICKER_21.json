@@ -1,0 +1,41 @@
+{
+  "id": "PICNICKER_21",
+  "classId": "PICNICKER",
+  "name": "ERIN",
+  "party": [
+    {
+      "level": 36,
+      "speciesId": "PONYTA",
+      "moves": [
+        "DOUBLE_TEAM",
+        "STOMP",
+        "FIRE_SPIN",
+        "SUNNY_DAY"
+      ]
+    },
+    {
+      "level": 34,
+      "speciesId": "RAICHU",
+      "moves": [
+        "SWIFT",
+        "MUD_SLAP",
+        "QUICK_ATTACK",
+        "THUNDERBOLT"
+      ]
+    },
+    {
+      "level": 36,
+      "speciesId": "PONYTA",
+      "moves": [
+        "DOUBLE_TEAM",
+        "STOMP",
+        "FIRE_SPIN",
+        "SUNNY_DAY"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

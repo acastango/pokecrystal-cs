@@ -1,0 +1,23 @@
+{
+  "id": "BLACKBELT_9",
+  "classId": "BLACKBELT",
+  "name": "WAI",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "MACHOKE"
+    },
+    {
+      "level": 32,
+      "speciesId": "MACHOKE"
+    },
+    {
+      "level": 34,
+      "speciesId": "MACHOKE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

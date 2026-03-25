@@ -1,0 +1,27 @@
+{
+  "id": "CAMPER_20",
+  "classId": "CAMPER",
+  "name": "TODD",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "GRAVELER"
+    },
+    {
+      "level": 30,
+      "speciesId": "GRAVELER"
+    },
+    {
+      "level": 30,
+      "speciesId": "SLUGMA"
+    },
+    {
+      "level": 32,
+      "speciesId": "PSYDUCK"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_25",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 10,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 10,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 12,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 12,
+        "speciesId": "METAPOD"
+      },
+      {
+        "level": 10,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 14,
+        "speciesId": "BUTTERFREE"
+      },
+      {
+        "level": 14,
+        "speciesId": "BUTTERFREE"
+      }
+    ],
+    "day": [
+      {
+        "level": 10,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 10,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 12,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 12,
+        "speciesId": "METAPOD"
+      },
+      {
+        "level": 10,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 14,
+        "speciesId": "BUTTERFREE"
+      },
+      {
+        "level": 14,
+        "speciesId": "BUTTERFREE"
+      }
+    ],
+    "nite": [
+      {
+        "level": 10,
+        "speciesId": "ODDISH"
+      },
+      {
+        "level": 10,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 10,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 12,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 10,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 14,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 14,
+        "speciesId": "NOCTOWL"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 10,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 5,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 10,
+        "speciesId": "SEAKING"
+      }
+    ]
+  }
+}

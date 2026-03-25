@@ -1,0 +1,23 @@
+{
+  "id": "CAMPER_22",
+  "classId": "CAMPER",
+  "name": "QUENTIN",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "FEAROW"
+    },
+    {
+      "level": 30,
+      "speciesId": "PRIMEAPE"
+    },
+    {
+      "level": 30,
+      "speciesId": "TAUROS"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

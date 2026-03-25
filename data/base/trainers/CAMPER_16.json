@@ -1,0 +1,27 @@
+{
+  "id": "CAMPER_16",
+  "classId": "CAMPER",
+  "name": "DAVID",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "GRAVELER"
+    },
+    {
+      "level": 36,
+      "speciesId": "GRAVELER"
+    },
+    {
+      "level": 40,
+      "speciesId": "GOLBAT"
+    },
+    {
+      "level": 42,
+      "speciesId": "GOLDUCK"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

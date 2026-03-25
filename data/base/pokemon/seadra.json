@@ -1,0 +1,99 @@
+{
+  "id": "SEADRA",
+  "name": "SEADRA",
+  "baseHp": 55,
+  "baseAttack": 65,
+  "baseDefense": 95,
+  "baseSpeed": 85,
+  "baseSpAtk": 95,
+  "baseSpDef": 45,
+  "type1Id": "WATER",
+  "type2Id": "WATER",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_DRAGON"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 155,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "DRAGONBREATH",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BUBBLE"
+    },
+    {
+      "level": 1,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 8,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 15,
+      "moveId": "LEER"
+    },
+    {
+      "level": 22,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 29,
+      "moveId": "TWISTER"
+    },
+    {
+      "level": 40,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 51,
+      "moveId": "HYDRO_PUMP"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Trade",
+      "targetSpeciesId": "KINGDRA",
+      "param": "DRAGON_SCALE"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "seadra",
+  "cryId": "seadra"
+}

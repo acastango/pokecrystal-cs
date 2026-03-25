@@ -1,0 +1,99 @@
+{
+  "mapId": "SILVER_CAVE_ROOM_3",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 51,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 48,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 48,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 50,
+        "speciesId": "URSARING"
+      },
+      {
+        "level": 20,
+        "speciesId": "LARVITAR"
+      },
+      {
+        "level": 15,
+        "speciesId": "LARVITAR"
+      },
+      {
+        "level": 20,
+        "speciesId": "PUPITAR"
+      }
+    ],
+    "day": [
+      {
+        "level": 51,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 48,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 48,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 50,
+        "speciesId": "URSARING"
+      },
+      {
+        "level": 20,
+        "speciesId": "LARVITAR"
+      },
+      {
+        "level": 15,
+        "speciesId": "LARVITAR"
+      },
+      {
+        "level": 20,
+        "speciesId": "PUPITAR"
+      }
+    ],
+    "nite": [
+      {
+        "level": 51,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 48,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 48,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 49,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 45,
+        "speciesId": "GOLDUCK"
+      },
+      {
+        "level": 53,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 53,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": null
+}

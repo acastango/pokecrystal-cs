@@ -1,0 +1,101 @@
+{
+  "id": "HOOTHOOT",
+  "name": "HOOTHOOT",
+  "baseHp": 60,
+  "baseAttack": 30,
+  "baseDefense": 30,
+  "baseSpeed": 50,
+  "baseSpAtk": 36,
+  "baseSpDef": 56,
+  "type1Id": "NORMAL",
+  "type2Id": "FLYING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_FLYING",
+    "EGG_FLYING"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 255,
+  "baseExp": 58,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STEEL_WING",
+    "NIGHTMARE",
+    "FLY",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 6,
+      "moveId": "FORESIGHT"
+    },
+    {
+      "level": 11,
+      "moveId": "PECK"
+    },
+    {
+      "level": 16,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 22,
+      "moveId": "REFLECT"
+    },
+    {
+      "level": 28,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 34,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 48,
+      "moveId": "DREAM_EATER"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "NOCTOWL",
+      "param": "20"
+    }
+  ],
+  "eggMoves": [
+    "MIRROR_MOVE",
+    "SUPERSONIC",
+    "FAINT_ATTACK",
+    "WING_ATTACK",
+    "WHIRLWIND",
+    "SKY_ATTACK"
+  ],
+  "spriteId": "hoothoot",
+  "cryId": "hoothoot"
+}

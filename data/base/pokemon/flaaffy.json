@@ -1,0 +1,94 @@
+{
+  "id": "FLAAFFY",
+  "name": "FLAAFFY",
+  "baseHp": 70,
+  "baseAttack": 55,
+  "baseDefense": 55,
+  "baseSpeed": 45,
+  "baseSpAtk": 80,
+  "baseSpDef": 60,
+  "type1Id": "ELECTRIC",
+  "type2Id": "ELECTRIC",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 120,
+  "baseExp": 117,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "THUNDERSHOCK"
+    },
+    {
+      "level": 9,
+      "moveId": "THUNDERSHOCK"
+    },
+    {
+      "level": 18,
+      "moveId": "THUNDER_WAVE"
+    },
+    {
+      "level": 27,
+      "moveId": "COTTON_SPORE"
+    },
+    {
+      "level": 36,
+      "moveId": "LIGHT_SCREEN"
+    },
+    {
+      "level": 45,
+      "moveId": "THUNDER"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "AMPHAROS",
+      "param": "30"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "flaaffy",
+  "cryId": "flaaffy"
+}

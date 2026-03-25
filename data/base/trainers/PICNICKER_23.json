@@ -1,0 +1,41 @@
+{
+  "id": "PICNICKER_23",
+  "classId": "PICNICKER",
+  "name": "LIZ",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "WEEPINBELL",
+      "moves": [
+        "SLEEP_POWDER",
+        "POISONPOWDER",
+        "STUN_SPORE",
+        "SLUDGE_BOMB"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "NIDOKING",
+      "moves": [
+        "EARTHQUAKE",
+        "DOUBLE_KICK",
+        "POISON_STING",
+        "IRON_TAIL"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "NIDOQUEEN",
+      "moves": [
+        "EARTHQUAKE",
+        "DOUBLE_KICK",
+        "TAIL_WHIP",
+        "BODY_SLAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

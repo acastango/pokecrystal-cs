@@ -1,0 +1,106 @@
+{
+  "id": "GOLDUCK",
+  "name": "GOLDUCK",
+  "baseHp": 80,
+  "baseAttack": 82,
+  "baseDefense": 78,
+  "baseSpeed": 85,
+  "baseSpAtk": 95,
+  "baseSpDef": 80,
+  "type1Id": "WATER",
+  "type2Id": "WATER",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 174,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "FURY_CUTTER",
+    "SURF",
+    "STRENGTH",
+    "FLASH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 1,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 5,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 10,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 16,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 23,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 31,
+      "moveId": "PSYCH_UP"
+    },
+    {
+      "level": 44,
+      "moveId": "FURY_SWIPES"
+    },
+    {
+      "level": 58,
+      "moveId": "HYDRO_PUMP"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "golduck",
+  "cryId": "golduck"
+}

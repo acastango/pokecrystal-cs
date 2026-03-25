@@ -1,0 +1,91 @@
+{
+  "id": "VOLTORB",
+  "name": "VOLTORB",
+  "baseHp": 40,
+  "baseAttack": 30,
+  "baseDefense": 50,
+  "baseSpeed": 100,
+  "baseSpAtk": 55,
+  "baseSpDef": 55,
+  "type1Id": "ELECTRIC",
+  "type2Id": "ELECTRIC",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_MINERAL",
+    "EGG_MINERAL"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 190,
+  "baseExp": 103,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "REST",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 9,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 17,
+      "moveId": "SONICBOOM"
+    },
+    {
+      "level": 23,
+      "moveId": "SELFDESTRUCT"
+    },
+    {
+      "level": 29,
+      "moveId": "ROLLOUT"
+    },
+    {
+      "level": 33,
+      "moveId": "LIGHT_SCREEN"
+    },
+    {
+      "level": 37,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 39,
+      "moveId": "EXPLOSION"
+    },
+    {
+      "level": 41,
+      "moveId": "MIRROR_COAT"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "ELECTRODE",
+      "param": "30"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "voltorb",
+  "cryId": "voltorb"
+}

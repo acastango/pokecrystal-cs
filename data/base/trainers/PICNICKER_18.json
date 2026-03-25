@@ -1,0 +1,19 @@
+{
+  "id": "PICNICKER_18",
+  "classId": "PICNICKER",
+  "name": "ERIN",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "PONYTA"
+    },
+    {
+      "level": 32,
+      "speciesId": "PONYTA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

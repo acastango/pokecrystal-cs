@@ -1,0 +1,15 @@
+{
+  "id": "PICNICKER_8",
+  "classId": "PICNICKER",
+  "name": "DEBRA",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "SEAKING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

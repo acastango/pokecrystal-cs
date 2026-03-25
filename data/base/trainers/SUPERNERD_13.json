@@ -1,0 +1,21 @@
+{
+  "id": "SUPERNERD_13",
+  "classId": "SUPERNERD",
+  "name": "HUGH",
+  "party": [
+    {
+      "level": 39,
+      "speciesId": "SEADRA",
+      "moves": [
+        "SMOKESCREEN",
+        "TWISTER",
+        "SURF",
+        "WATERFALL"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

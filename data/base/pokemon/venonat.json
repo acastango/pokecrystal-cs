@@ -1,0 +1,104 @@
+{
+  "id": "VENONAT",
+  "name": "VENONAT",
+  "baseHp": 60,
+  "baseAttack": 55,
+  "baseDefense": 50,
+  "baseSpeed": 45,
+  "baseSpAtk": 40,
+  "baseSpDef": 55,
+  "type1Id": "BUG",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 75,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "THIEF"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 1,
+      "moveId": "FORESIGHT"
+    },
+    {
+      "level": 9,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 17,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 20,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 25,
+      "moveId": "LEECH_LIFE"
+    },
+    {
+      "level": 28,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 33,
+      "moveId": "PSYBEAM"
+    },
+    {
+      "level": 36,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 41,
+      "moveId": "PSYCHIC_M"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "VENOMOTH",
+      "param": "31"
+    }
+  ],
+  "eggMoves": [
+    "BATON_PASS",
+    "SCREECH",
+    "GIGA_DRAIN"
+  ],
+  "spriteId": "venonat",
+  "cryId": "venonat"
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_21",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 30,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 25,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 35,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 20,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 30,
+        "speciesId": "MR__MIME"
+      },
+      {
+        "level": 28,
+        "speciesId": "MR__MIME"
+      },
+      {
+        "level": 28,
+        "speciesId": "MR__MIME"
+      }
+    ],
+    "day": [
+      {
+        "level": 30,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 25,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 35,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 20,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 28,
+        "speciesId": "MR__MIME"
+      },
+      {
+        "level": 30,
+        "speciesId": "MR__MIME"
+      },
+      {
+        "level": 30,
+        "speciesId": "MR__MIME"
+      }
+    ],
+    "nite": [
+      {
+        "level": 30,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 25,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 35,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 20,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 30,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 28,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 28,
+        "speciesId": "TANGELA"
+      }
+    ]
+  },
+  "water": {
+    "rate": 6,
+    "slots": [
+      {
+        "level": 35,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 30,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 35,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

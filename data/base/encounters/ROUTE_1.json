@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_1",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 2,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 2,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "SENTRET"
+      },
+      {
+        "level": 3,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 6,
+        "speciesId": "FURRET"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIDGEY"
+      }
+    ],
+    "day": [
+      {
+        "level": 2,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 2,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "SENTRET"
+      },
+      {
+        "level": 3,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 6,
+        "speciesId": "FURRET"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIDGEY"
+      }
+    ],
+    "nite": [
+      {
+        "level": 2,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 2,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 3,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 6,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 4,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 4,
+        "speciesId": "HOOTHOOT"
+      }
+    ]
+  },
+  "water": null
+}

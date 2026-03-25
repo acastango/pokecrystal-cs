@@ -1,0 +1,94 @@
+{
+  "id": "DIGLETT",
+  "name": "DIGLETT",
+  "baseHp": 10,
+  "baseAttack": 55,
+  "baseDefense": 25,
+  "baseSpeed": 95,
+  "baseSpAtk": 35,
+  "baseSpDef": 45,
+  "type1Id": "GROUND",
+  "type2Id": "GROUND",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 255,
+  "baseExp": 81,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "CUT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 5,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 9,
+      "moveId": "MAGNITUDE"
+    },
+    {
+      "level": 17,
+      "moveId": "DIG"
+    },
+    {
+      "level": 25,
+      "moveId": "SAND_ATTACK"
+    },
+    {
+      "level": 33,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 41,
+      "moveId": "EARTHQUAKE"
+    },
+    {
+      "level": 49,
+      "moveId": "FISSURE"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "DUGTRIO",
+      "param": "26"
+    }
+  ],
+  "eggMoves": [
+    "FAINT_ATTACK",
+    "SCREECH",
+    "ANCIENTPOWER",
+    "PURSUIT",
+    "BEAT_UP"
+  ],
+  "spriteId": "diglett",
+  "cryId": "diglett"
+}

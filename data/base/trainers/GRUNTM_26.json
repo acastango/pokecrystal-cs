@@ -1,0 +1,19 @@
+{
+  "id": "GRUNTM_26",
+  "classId": "GRUNTM",
+  "name": "GRUNT",
+  "party": [
+    {
+      "level": 15,
+      "speciesId": "RATTATA"
+    },
+    {
+      "level": 15,
+      "speciesId": "RATTATA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

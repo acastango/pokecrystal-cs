@@ -1,0 +1,85 @@
+{
+  "id": "PINSIR",
+  "name": "PINSIR",
+  "baseHp": 65,
+  "baseAttack": 125,
+  "baseDefense": 100,
+  "baseSpeed": 85,
+  "baseSpAtk": 55,
+  "baseSpDef": 70,
+  "type1Id": "BUG",
+  "type2Id": "BUG",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 200,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FURY_CUTTER",
+    "CUT",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "VICEGRIP"
+    },
+    {
+      "level": 7,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 13,
+      "moveId": "BIND"
+    },
+    {
+      "level": 19,
+      "moveId": "SEISMIC_TOSS"
+    },
+    {
+      "level": 25,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 31,
+      "moveId": "GUILLOTINE"
+    },
+    {
+      "level": 37,
+      "moveId": "SUBMISSION"
+    },
+    {
+      "level": 43,
+      "moveId": "SWORDS_DANCE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "FURY_ATTACK",
+    "FLAIL"
+  ],
+  "spriteId": "pinsir",
+  "cryId": "pinsir"
+}

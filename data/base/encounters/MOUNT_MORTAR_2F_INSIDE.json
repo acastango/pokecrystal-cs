@@ -1,0 +1,115 @@
+{
+  "mapId": "MOUNT_MORTAR_2F_INSIDE",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 31,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 32,
+        "speciesId": "MACHOKE"
+      },
+      {
+        "level": 31,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 30,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 28,
+        "speciesId": "MACHOP"
+      },
+      {
+        "level": 30,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 30,
+        "speciesId": "GOLBAT"
+      }
+    ],
+    "day": [
+      {
+        "level": 31,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 32,
+        "speciesId": "MACHOKE"
+      },
+      {
+        "level": 31,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 30,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 28,
+        "speciesId": "MACHOP"
+      },
+      {
+        "level": 30,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 30,
+        "speciesId": "GOLBAT"
+      }
+    ],
+    "nite": [
+      {
+        "level": 31,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 31,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 30,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 30,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 28,
+        "speciesId": "MARILL"
+      },
+      {
+        "level": 32,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 32,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 25,
+        "speciesId": "MARILL"
+      },
+      {
+        "level": 25,
+        "speciesId": "SEAKING"
+      }
+    ]
+  }
+}

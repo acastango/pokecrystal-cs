@@ -1,0 +1,101 @@
+{
+  "id": "WOOPER",
+  "name": "WOOPER",
+  "baseHp": 55,
+  "baseAttack": 45,
+  "baseDefense": 45,
+  "baseSpeed": 15,
+  "baseSpAtk": 25,
+  "baseSpDef": 25,
+  "type1Id": "WATER",
+  "type2Id": "GROUND",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 255,
+  "baseExp": 52,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "SANDSTORM",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "FLASH",
+    "WHIRLPOOL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 11,
+      "moveId": "SLAM"
+    },
+    {
+      "level": 21,
+      "moveId": "AMNESIA"
+    },
+    {
+      "level": 31,
+      "moveId": "EARTHQUAKE"
+    },
+    {
+      "level": 41,
+      "moveId": "RAIN_DANCE"
+    },
+    {
+      "level": 51,
+      "moveId": "MIST"
+    },
+    {
+      "level": 51,
+      "moveId": "HAZE"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "QUAGSIRE",
+      "param": "20"
+    }
+  ],
+  "eggMoves": [
+    "BODY_SLAM",
+    "ANCIENTPOWER",
+    "SAFEGUARD"
+  ],
+  "spriteId": "wooper",
+  "cryId": "wooper"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "COOLTRAINERF_2",
+  "classId": "COOLTRAINERF",
+  "name": "LOIS",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "SKIPLOOM",
+      "moves": [
+        "SYNTHESIS",
+        "POISONPOWDER",
+        "MEGA_DRAIN",
+        "LEECH_SEED"
+      ]
+    },
+    {
+      "level": 25,
+      "speciesId": "NINETALES",
+      "moves": [
+        "EMBER",
+        "QUICK_ATTACK",
+        "CONFUSE_RAY",
+        "SAFEGUARD"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

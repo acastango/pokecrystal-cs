@@ -1,0 +1,94 @@
+{
+  "id": "NIDORINO",
+  "name": "NIDORINO",
+  "baseHp": 61,
+  "baseAttack": 72,
+  "baseDefense": 57,
+  "baseSpeed": 65,
+  "baseSpAtk": 55,
+  "baseSpDef": 55,
+  "type1Id": "POISON",
+  "type2Id": "POISON",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.0,
+  "catchRate": 120,
+  "baseExp": 118,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STRENGTH",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 8,
+      "moveId": "HORN_ATTACK"
+    },
+    {
+      "level": 12,
+      "moveId": "DOUBLE_KICK"
+    },
+    {
+      "level": 19,
+      "moveId": "POISON_STING"
+    },
+    {
+      "level": 27,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 36,
+      "moveId": "FURY_ATTACK"
+    },
+    {
+      "level": 46,
+      "moveId": "HORN_DRILL"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "NIDOKING",
+      "param": "MOON_STONE"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "nidorino",
+  "cryId": "nidorino"
+}

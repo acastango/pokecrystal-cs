@@ -1,0 +1,94 @@
+{
+  "id": "CELEBI",
+  "name": "CELEBI",
+  "baseHp": 100,
+  "baseAttack": 100,
+  "baseDefense": 100,
+  "baseSpeed": 100,
+  "baseSpAtk": 100,
+  "baseSpDef": 100,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "GRASS",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 45,
+  "baseExp": 64,
+  "hatchCycles": 120,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "NIGHTMARE",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "LEECH_SEED"
+    },
+    {
+      "level": 1,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 1,
+      "moveId": "RECOVER"
+    },
+    {
+      "level": 1,
+      "moveId": "HEAL_BELL"
+    },
+    {
+      "level": 10,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 20,
+      "moveId": "ANCIENTPOWER"
+    },
+    {
+      "level": 30,
+      "moveId": "FUTURE_SIGHT"
+    },
+    {
+      "level": 40,
+      "moveId": "BATON_PASS"
+    },
+    {
+      "level": 50,
+      "moveId": "PERISH_SONG"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "celebi",
+  "cryId": "celebi"
+}

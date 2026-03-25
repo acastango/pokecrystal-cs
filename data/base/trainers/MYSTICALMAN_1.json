@@ -1,0 +1,41 @@
+{
+  "id": "MYSTICALMAN_1",
+  "classId": "MYSTICALMAN",
+  "name": "EUSINE",
+  "party": [
+    {
+      "level": 23,
+      "speciesId": "DROWZEE",
+      "moves": [
+        "DREAM_EATER",
+        "HYPNOSIS",
+        "DISABLE",
+        "CONFUSION"
+      ]
+    },
+    {
+      "level": 23,
+      "speciesId": "HAUNTER",
+      "moves": [
+        "LICK",
+        "HYPNOSIS",
+        "MEAN_LOOK",
+        "CURSE"
+      ]
+    },
+    {
+      "level": 25,
+      "speciesId": "ELECTRODE",
+      "moves": [
+        "SCREECH",
+        "SONICBOOM",
+        "THUNDER",
+        "ROLLOUT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

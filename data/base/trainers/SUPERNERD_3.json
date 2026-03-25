@@ -1,0 +1,23 @@
+{
+  "id": "SUPERNERD_3",
+  "classId": "SUPERNERD",
+  "name": "GREGG",
+  "party": [
+    {
+      "level": 20,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 20,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 20,
+      "speciesId": "MAGNEMITE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_31",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 4,
+        "speciesId": "LEDYBA"
+      },
+      {
+        "level": 4,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 5,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 5,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 4,
+        "speciesId": "WEEDLE"
+      },
+      {
+        "level": 5,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 5,
+        "speciesId": "HOPPIP"
+      }
+    ],
+    "day": [
+      {
+        "level": 4,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 4,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 5,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 5,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 4,
+        "speciesId": "WEEDLE"
+      },
+      {
+        "level": 5,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 5,
+        "speciesId": "HOPPIP"
+      }
+    ],
+    "nite": [
+      {
+        "level": 4,
+        "speciesId": "SPINARAK"
+      },
+      {
+        "level": 4,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 5,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 5,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 4,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 5,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 5,
+        "speciesId": "GASTLY"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 15,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 20,
+        "speciesId": "POLIWHIRL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_35",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 12,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 14,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 13,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 10,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      },
+      {
+        "level": 12,
+        "speciesId": "YANMA"
+      }
+    ],
+    "day": [
+      {
+        "level": 12,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 14,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 13,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 10,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      },
+      {
+        "level": 12,
+        "speciesId": "YANMA"
+      }
+    ],
+    "nite": [
+      {
+        "level": 12,
+        "speciesId": "DROWZEE"
+      },
+      {
+        "level": 14,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 13,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 10,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      },
+      {
+        "level": 12,
+        "speciesId": "YANMA"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 15,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 20,
+        "speciesId": "GOLDUCK"
+      }
+    ]
+  }
+}

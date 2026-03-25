@@ -1,0 +1,21 @@
+{
+  "mapId": "VERMILION_PORT",
+  "grass": null,
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 35,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 30,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 35,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

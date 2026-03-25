@@ -1,0 +1,118 @@
+{
+  "id": "MAROWAK",
+  "name": "MAROWAK",
+  "baseHp": 60,
+  "baseAttack": 80,
+  "baseDefense": 110,
+  "baseSpeed": 45,
+  "baseSpAtk": 50,
+  "baseSpDef": 80,
+  "type1Id": "GROUND",
+  "type2Id": "GROUND",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_MONSTER"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 124,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "FLAMETHROWER",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "BONE_CLUB"
+    },
+    {
+      "level": 1,
+      "moveId": "HEADBUTT"
+    },
+    {
+      "level": 5,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 9,
+      "moveId": "BONE_CLUB"
+    },
+    {
+      "level": 13,
+      "moveId": "HEADBUTT"
+    },
+    {
+      "level": 17,
+      "moveId": "LEER"
+    },
+    {
+      "level": 21,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 25,
+      "moveId": "BONEMERANG"
+    },
+    {
+      "level": 32,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 39,
+      "moveId": "FALSE_SWIPE"
+    },
+    {
+      "level": 46,
+      "moveId": "THRASH"
+    },
+    {
+      "level": 53,
+      "moveId": "BONE_RUSH"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "marowak",
+  "cryId": "marowak"
+}

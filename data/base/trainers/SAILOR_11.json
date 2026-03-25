@@ -1,0 +1,19 @@
+{
+  "id": "SAILOR_11",
+  "classId": "SAILOR",
+  "name": "HUEY",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "POLIWHIRL"
+    },
+    {
+      "level": 28,
+      "speciesId": "POLIWHIRL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

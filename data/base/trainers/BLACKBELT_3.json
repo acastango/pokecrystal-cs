@@ -1,0 +1,51 @@
+{
+  "id": "BLACKBELT_3",
+  "classId": "BLACKBELT",
+  "name": "KENJI",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "ONIX",
+      "moves": [
+        "BIND",
+        "ROCK_THROW",
+        "TOXIC",
+        "DIG"
+      ]
+    },
+    {
+      "level": 38,
+      "speciesId": "MACHAMP",
+      "moves": [
+        "HEADBUTT",
+        "SWAGGER",
+        "THUNDERPUNCH",
+        "VITAL_THROW"
+      ]
+    },
+    {
+      "level": 33,
+      "speciesId": "STEELIX",
+      "moves": [
+        "EARTHQUAKE",
+        "ROCK_THROW",
+        "IRON_TAIL",
+        "SANDSTORM"
+      ]
+    },
+    {
+      "level": 36,
+      "speciesId": "HITMONLEE",
+      "moves": [
+        "DOUBLE_TEAM",
+        "HI_JUMP_KICK",
+        "MUD_SLAP",
+        "SWIFT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

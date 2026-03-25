@@ -1,0 +1,15 @@
+{
+  "id": "TEACHER_3",
+  "classId": "TEACHER",
+  "name": "SHIRLEY",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "JIGGLYPUFF"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

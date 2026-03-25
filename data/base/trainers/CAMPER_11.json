@@ -1,0 +1,15 @@
+{
+  "id": "CAMPER_11",
+  "classId": "CAMPER",
+  "name": "TED",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "MANKEY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

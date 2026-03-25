@@ -1,0 +1,23 @@
+{
+  "id": "BEAUTY_7",
+  "classId": "BEAUTY",
+  "name": "CAROLINE",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "MARILL"
+    },
+    {
+      "level": 32,
+      "speciesId": "SEEL"
+    },
+    {
+      "level": 30,
+      "speciesId": "MARILL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

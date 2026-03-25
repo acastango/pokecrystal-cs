@@ -1,0 +1,27 @@
+{
+  "id": "BUGCATCHER_10",
+  "classId": "BUGCATCHER",
+  "name": "WADE",
+  "party": [
+    {
+      "level": 9,
+      "speciesId": "METAPOD"
+    },
+    {
+      "level": 9,
+      "speciesId": "METAPOD"
+    },
+    {
+      "level": 10,
+      "speciesId": "KAKUNA"
+    },
+    {
+      "level": 9,
+      "speciesId": "METAPOD"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

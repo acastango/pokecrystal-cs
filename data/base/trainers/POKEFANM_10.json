@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANM_10",
+  "classId": "POKEFANM",
+  "name": "DEREK",
+  "party": [
+    {
+      "level": 19,
+      "speciesId": "PIKACHU",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

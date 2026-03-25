@@ -1,0 +1,102 @@
+{
+  "id": "MAGBY",
+  "name": "MAGBY",
+  "baseHp": 45,
+  "baseAttack": 75,
+  "baseDefense": 37,
+  "baseSpeed": 83,
+  "baseSpAtk": 70,
+  "baseSpDef": 55,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": 0.25,
+  "catchRate": 45,
+  "baseExp": 117,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "PSYCHIC_M",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 7,
+      "moveId": "LEER"
+    },
+    {
+      "level": 13,
+      "moveId": "SMOG"
+    },
+    {
+      "level": 19,
+      "moveId": "FIRE_PUNCH"
+    },
+    {
+      "level": 25,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 31,
+      "moveId": "SUNNY_DAY"
+    },
+    {
+      "level": 37,
+      "moveId": "FLAMETHROWER"
+    },
+    {
+      "level": 43,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 49,
+      "moveId": "FIRE_BLAST"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "MAGMAR",
+      "param": "30"
+    }
+  ],
+  "eggMoves": [
+    "KARATE_CHOP",
+    "MEGA_PUNCH",
+    "BARRIER",
+    "SCREECH",
+    "CROSS_CHOP"
+  ],
+  "spriteId": "magby",
+  "cryId": "magby"
+}

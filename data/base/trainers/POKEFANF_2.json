@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANF_2",
+  "classId": "POKEFANF",
+  "name": "RUTH",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "PIKACHU",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

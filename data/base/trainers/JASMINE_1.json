@@ -1,0 +1,41 @@
+{
+  "id": "JASMINE_1",
+  "classId": "JASMINE",
+  "name": "JASMINE",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "MAGNEMITE",
+      "moves": [
+        "THUNDERBOLT",
+        "SUPERSONIC",
+        "SONICBOOM",
+        "THUNDER_WAVE"
+      ]
+    },
+    {
+      "level": 30,
+      "speciesId": "MAGNEMITE",
+      "moves": [
+        "THUNDERBOLT",
+        "SUPERSONIC",
+        "SONICBOOM",
+        "THUNDER_WAVE"
+      ]
+    },
+    {
+      "level": 35,
+      "speciesId": "STEELIX",
+      "moves": [
+        "SCREECH",
+        "SUNNY_DAY",
+        "ROCK_THROW",
+        "IRON_TAIL"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

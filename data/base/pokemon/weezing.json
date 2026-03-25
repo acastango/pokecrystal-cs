@@ -1,0 +1,96 @@
+{
+  "id": "WEEZING",
+  "name": "WEEZING",
+  "baseHp": 65,
+  "baseAttack": 90,
+  "baseDefense": 120,
+  "baseSpeed": 60,
+  "baseSpAtk": 85,
+  "baseSpDef": 70,
+  "type1Id": "POISON",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 60,
+  "baseExp": 173,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "FIRE_BLAST",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FLAMETHROWER",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POISON_GAS"
+    },
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "SMOG"
+    },
+    {
+      "level": 1,
+      "moveId": "SELFDESTRUCT"
+    },
+    {
+      "level": 9,
+      "moveId": "SMOG"
+    },
+    {
+      "level": 17,
+      "moveId": "SELFDESTRUCT"
+    },
+    {
+      "level": 21,
+      "moveId": "SLUDGE"
+    },
+    {
+      "level": 25,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 33,
+      "moveId": "HAZE"
+    },
+    {
+      "level": 44,
+      "moveId": "EXPLOSION"
+    },
+    {
+      "level": 51,
+      "moveId": "DESTINY_BOND"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "weezing",
+  "cryId": "weezing"
+}

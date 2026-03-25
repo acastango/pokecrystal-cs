@@ -1,0 +1,31 @@
+{
+  "id": "CHUCK_1",
+  "classId": "CHUCK",
+  "name": "CHUCK",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "PRIMEAPE",
+      "moves": [
+        "LEER",
+        "RAGE",
+        "KARATE_CHOP",
+        "FURY_SWIPES"
+      ]
+    },
+    {
+      "level": 30,
+      "speciesId": "POLIWRATH",
+      "moves": [
+        "HYPNOSIS",
+        "MIND_READER",
+        "SURF",
+        "DYNAMICPUNCH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

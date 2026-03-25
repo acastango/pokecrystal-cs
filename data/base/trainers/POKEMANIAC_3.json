@@ -1,0 +1,15 @@
+{
+  "id": "POKEMANIAC_3",
+  "classId": "POKEMANIAC",
+  "name": "CALVIN",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "KANGASKHAN"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

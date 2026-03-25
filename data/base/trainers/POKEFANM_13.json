@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANM_13",
+  "classId": "POKEFANM",
+  "name": "REX",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "PHANPY",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

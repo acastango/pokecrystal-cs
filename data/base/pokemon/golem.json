@@ -1,0 +1,107 @@
+{
+  "id": "GOLEM",
+  "name": "GOLEM",
+  "baseHp": 80,
+  "baseAttack": 110,
+  "baseDefense": 130,
+  "baseSpeed": 45,
+  "baseSpAtk": 55,
+  "baseSpDef": 65,
+  "type1Id": "ROCK",
+  "type2Id": "GROUND",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MINERAL",
+    "EGG_MINERAL"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 177,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "STRENGTH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "DEFENSE_CURL"
+    },
+    {
+      "level": 1,
+      "moveId": "ROCK_THROW"
+    },
+    {
+      "level": 1,
+      "moveId": "MAGNITUDE"
+    },
+    {
+      "level": 6,
+      "moveId": "DEFENSE_CURL"
+    },
+    {
+      "level": 11,
+      "moveId": "ROCK_THROW"
+    },
+    {
+      "level": 16,
+      "moveId": "MAGNITUDE"
+    },
+    {
+      "level": 21,
+      "moveId": "SELFDESTRUCT"
+    },
+    {
+      "level": 27,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 34,
+      "moveId": "ROLLOUT"
+    },
+    {
+      "level": 41,
+      "moveId": "EARTHQUAKE"
+    },
+    {
+      "level": 48,
+      "moveId": "EXPLOSION"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "golem",
+  "cryId": "golem"
+}

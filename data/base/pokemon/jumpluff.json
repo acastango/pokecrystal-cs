@@ -1,0 +1,102 @@
+{
+  "id": "JUMPLUFF",
+  "name": "JUMPLUFF",
+  "baseHp": 75,
+  "baseAttack": 55,
+  "baseDefense": 70,
+  "baseSpeed": 110,
+  "baseSpAtk": 55,
+  "baseSpDef": 85,
+  "type1Id": "GRASS",
+  "type2Id": "FLYING",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_FAIRY",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 176,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SPLASH"
+    },
+    {
+      "level": 1,
+      "moveId": "SYNTHESIS"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 5,
+      "moveId": "SYNTHESIS"
+    },
+    {
+      "level": 5,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 10,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 13,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 15,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 17,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 22,
+      "moveId": "LEECH_SEED"
+    },
+    {
+      "level": 33,
+      "moveId": "COTTON_SPORE"
+    },
+    {
+      "level": 44,
+      "moveId": "MEGA_DRAIN"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "jumpluff",
+  "cryId": "jumpluff"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GUITARIST_2",
+  "classId": "GUITARIST",
+  "name": "VINCENT",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 33,
+      "speciesId": "VOLTORB"
+    },
+    {
+      "level": 32,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 32,
+      "speciesId": "MAGNEMITE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

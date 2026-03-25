@@ -1,0 +1,74 @@
+{
+  "id": "CLOYSTER",
+  "name": "CLOYSTER",
+  "baseHp": 50,
+  "baseAttack": 95,
+  "baseDefense": 180,
+  "baseSpeed": 70,
+  "baseSpAtk": 85,
+  "baseSpDef": 45,
+  "type1Id": "WATER",
+  "type2Id": "ICE",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_WATER_3",
+    "EGG_WATER_3"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 60,
+  "baseExp": 203,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "WHIRLPOOL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "WITHDRAW"
+    },
+    {
+      "level": 1,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 1,
+      "moveId": "AURORA_BEAM"
+    },
+    {
+      "level": 1,
+      "moveId": "PROTECT"
+    },
+    {
+      "level": 33,
+      "moveId": "SPIKES"
+    },
+    {
+      "level": 41,
+      "moveId": "SPIKE_CANNON"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "cloyster",
+  "cryId": "cloyster"
+}

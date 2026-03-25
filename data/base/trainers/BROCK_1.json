@@ -1,0 +1,61 @@
+{
+  "id": "BROCK_1",
+  "classId": "BROCK",
+  "name": "BROCK",
+  "party": [
+    {
+      "level": 41,
+      "speciesId": "GRAVELER",
+      "moves": [
+        "DEFENSE_CURL",
+        "ROCK_SLIDE",
+        "ROLLOUT",
+        "EARTHQUAKE"
+      ]
+    },
+    {
+      "level": 41,
+      "speciesId": "RHYHORN",
+      "moves": [
+        "FURY_ATTACK",
+        "SCARY_FACE",
+        "EARTHQUAKE",
+        "HORN_DRILL"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "OMASTAR",
+      "moves": [
+        "BITE",
+        "SURF",
+        "PROTECT",
+        "SPIKE_CANNON"
+      ]
+    },
+    {
+      "level": 44,
+      "speciesId": "ONIX",
+      "moves": [
+        "BIND",
+        "ROCK_SLIDE",
+        "BIDE",
+        "SANDSTORM"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "KABUTOPS",
+      "moves": [
+        "SLASH",
+        "SURF",
+        "ENDURE",
+        "GIGA_DRAIN"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

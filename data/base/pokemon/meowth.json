@@ -1,0 +1,101 @@
+{
+  "id": "MEOWTH",
+  "name": "MEOWTH",
+  "baseHp": 40,
+  "baseAttack": 45,
+  "baseDefense": 35,
+  "baseSpeed": 90,
+  "baseSpAtk": 40,
+  "baseSpDef": 40,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 255,
+  "baseExp": 69,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "ICY_WIND",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 11,
+      "moveId": "BITE"
+    },
+    {
+      "level": 20,
+      "moveId": "PAY_DAY"
+    },
+    {
+      "level": 28,
+      "moveId": "FAINT_ATTACK"
+    },
+    {
+      "level": 35,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 41,
+      "moveId": "FURY_SWIPES"
+    },
+    {
+      "level": 46,
+      "moveId": "SLASH"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "PERSIAN",
+      "param": "28"
+    }
+  ],
+  "eggMoves": [
+    "SPITE",
+    "CHARM",
+    "HYPNOSIS",
+    "AMNESIA"
+  ],
+  "spriteId": "meowth",
+  "cryId": "meowth"
+}

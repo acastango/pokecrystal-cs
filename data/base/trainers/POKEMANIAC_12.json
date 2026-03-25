@@ -1,0 +1,19 @@
+{
+  "id": "POKEMANIAC_12",
+  "classId": "POKEMANIAC",
+  "name": "DONALD",
+  "party": [
+    {
+      "level": 10,
+      "speciesId": "SLOWPOKE"
+    },
+    {
+      "level": 10,
+      "speciesId": "SLOWPOKE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

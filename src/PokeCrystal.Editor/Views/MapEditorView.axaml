@@ -1,0 +1,39 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="using:PokeCrystal.Editor.ViewModels"
+             xmlns:ctrl="using:PokeCrystal.Editor.Controls"
+             x:Class="PokeCrystal.Editor.Views.MapEditorView"
+             x:DataType="vm:MapEditorViewModel">
+
+    <Grid ColumnDefinitions="220,*">
+
+        <!-- Left panel: map list + tools -->
+        <DockPanel Grid.Column="0" Margin="4">
+
+            <StackPanel DockPanel.Dock="Top" Spacing="4" Margin="0,0,0,8">
+                <TextBlock Text="Maps" FontWeight="Bold" />
+                <Button Content="Load Selected"
+                        Command="{Binding LoadMapCommand}"
+                        CommandParameter="{Binding SelectedMapId}" />
+                <Button Content="Save Map" Command="{Binding SaveMapCommand}" />
+                <Separator />
+                <Button Content="Undo" Command="{Binding UndoCommand}" IsEnabled="{Binding CanUndo}" />
+                <Button Content="Redo" Command="{Binding RedoCommand}" IsEnabled="{Binding CanRedo}" />
+            </StackPanel>
+
+            <ListBox ItemsSource="{Binding AvailableMapIds}"
+                     SelectedItem="{Binding SelectedMapId}" />
+
+        </DockPanel>
+
+        <!-- Right panel: map canvas -->
+        <Border Grid.Column="1" Margin="4" BorderThickness="1"
+                BorderBrush="{DynamicResource SystemControlForegroundBaseMediumBrush}">
+            <ctrl:MapCanvas x:Name="Canvas"
+                            MapData="{Binding CurrentMap}"
+                            CursorX="{Binding CursorX}"
+                            CursorY="{Binding CursorY}" />
+        </Border>
+
+    </Grid>
+</UserControl>

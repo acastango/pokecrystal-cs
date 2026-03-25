@@ -1,0 +1,42 @@
+[STEP] (5,5) -> (5,7)  dist=2  offset=(0,-2)  frames=16
+[STEP] (5,7) -> (5,9)  dist=2  offset=(0,-2)  frames=16
+[STEP] (5,9) -> (7,9)  dist=2  offset=(-2,0)  frames=16
+[STEP] (7,9) -> (7,11)  dist=2  offset=(0,-2)  frames=16
+[STEP] (7,11) -> (7,13)  dist=2  offset=(0,-2)  frames=16
+[STEP] (7,13) -> (9,13)  dist=2  offset=(-2,0)  frames=16
+[STEP] (9,13) -> (9,11)  dist=2  offset=(0,2)  frames=16
+[STEP] (9,11) -> (11,11)  dist=2  offset=(-2,0)  frames=16
+[STEP] (11,11) -> (13,11)  dist=2  offset=(-2,0)  frames=16
+[STEP] (13,11) -> (15,11)  dist=2  offset=(-2,0)  frames=16
+[STEP] (15,11) -> (13,11)  dist=2  offset=(2,0)  frames=16
+[STEP] (13,11) -> (11,11)  dist=2  offset=(2,0)  frames=16
+[STEP] (11,11) -> (11,9)  dist=2  offset=(0,2)  frames=16
+[STEP] (11,9) -> (11,7)  dist=2  offset=(0,2)  frames=16
+[STEP] (11,7) -> (13,7)  dist=2  offset=(-2,0)  frames=16
+[STEP] (13,7) -> (15,7)  dist=2  offset=(-2,0)  frames=16
+[STEP] (15,7) -> (17,7)  dist=2  offset=(-2,0)  frames=16
+[STEP] (17,7) -> (15,7)  dist=2  offset=(2,0)  frames=16
+[STEP] (15,7) -> (13,7)  dist=2  offset=(2,0)  frames=16
+[STEP] (13,7) -> (11,7)  dist=2  offset=(2,0)  frames=16
+[STEP] (11,7) -> (9,7)  dist=2  offset=(2,0)  frames=16
+[STEP] (9,7) -> (11,7)  dist=2  offset=(-2,0)  frames=16
+[STEP] (5,5) -> (5,6)  offset=(0,-1)
+[STEP] (5,6) -> (5,7)  offset=(0,-1)
+[STEP] (5,7) -> (6,7)  offset=(-1,0)
+[STEP] (6,7) -> (7,7)  offset=(-1,0)
+[STEP] (7,7) -> (7,8)  offset=(0,-1)
+[STEP] (7,8) -> (7,9)  offset=(0,-1)
+[STEP] (7,9) -> (6,9)  offset=(1,0)
+[STEP] (6,9) -> (5,9)  offset=(1,0)
+[STEP] (5,9) -> (5,8)  offset=(0,1)
+[STEP] (5,8) -> (5,7)  offset=(0,1)
+[STEP] (5,7) -> (6,7)  offset=(-1,0)
+[STEP] (6,7) -> (7,7)  offset=(-1,0)
+[STEP] (7,7) -> (7,8)  offset=(0,-1)
+[STEP] (7,8) -> (7,9)  offset=(0,-1)
+[STEP] (7,9) -> (7,10)  offset=(0,-1)
+[STEP] (7,10) -> (8,10)  offset=(-1,0)
+[STEP] (8,10) -> (9,10)  offset=(-1,0)
+[STEP] (9,10) -> (10,10)  offset=(-1,0)
+[STEP] (10,10) -> (11,10)  offset=(-1,0)
+[STEP] (11,10) -> (12,10)  offset=(-1,0)

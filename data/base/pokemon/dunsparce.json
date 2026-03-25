@@ -1,0 +1,95 @@
+{
+  "id": "DUNSPARCE",
+  "name": "DUNSPARCE",
+  "baseHp": 100,
+  "baseAttack": 70,
+  "baseDefense": 70,
+  "baseSpeed": 45,
+  "baseSpAtk": 65,
+  "baseSpDef": 65,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 75,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "STRENGTH",
+    "FLAMETHROWER",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 5,
+      "moveId": "DEFENSE_CURL"
+    },
+    {
+      "level": 13,
+      "moveId": "GLARE"
+    },
+    {
+      "level": 18,
+      "moveId": "SPITE"
+    },
+    {
+      "level": 26,
+      "moveId": "PURSUIT"
+    },
+    {
+      "level": 30,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 38,
+      "moveId": "TAKE_DOWN"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "BIDE",
+    "ANCIENTPOWER",
+    "ROCK_SLIDE",
+    "BITE",
+    "RAGE"
+  ],
+  "spriteId": "dunsparce",
+  "cryId": "dunsparce"
+}

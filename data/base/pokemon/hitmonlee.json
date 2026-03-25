@@ -1,0 +1,95 @@
+{
+  "id": "HITMONLEE",
+  "name": "HITMONLEE",
+  "baseHp": 50,
+  "baseAttack": 120,
+  "baseDefense": 53,
+  "baseSpeed": 87,
+  "baseSpAtk": 35,
+  "baseSpDef": 110,
+  "type1Id": "FIGHTING",
+  "type2Id": "FIGHTING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 0.0,
+  "catchRate": 45,
+  "baseExp": 139,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "DOUBLE_KICK"
+    },
+    {
+      "level": 6,
+      "moveId": "MEDITATE"
+    },
+    {
+      "level": 11,
+      "moveId": "ROLLING_KICK"
+    },
+    {
+      "level": 16,
+      "moveId": "JUMP_KICK"
+    },
+    {
+      "level": 21,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 26,
+      "moveId": "HI_JUMP_KICK"
+    },
+    {
+      "level": 31,
+      "moveId": "MIND_READER"
+    },
+    {
+      "level": 36,
+      "moveId": "FORESIGHT"
+    },
+    {
+      "level": 41,
+      "moveId": "ENDURE"
+    },
+    {
+      "level": 46,
+      "moveId": "MEGA_KICK"
+    },
+    {
+      "level": 51,
+      "moveId": "REVERSAL"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "hitmonlee",
+  "cryId": "hitmonlee"
+}

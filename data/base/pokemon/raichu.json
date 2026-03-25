@@ -1,0 +1,75 @@
+{
+  "id": "RAICHU",
+  "name": "RAICHU",
+  "baseHp": 60,
+  "baseAttack": 90,
+  "baseDefense": 55,
+  "baseSpeed": 100,
+  "baseSpAtk": 90,
+  "baseSpDef": 80,
+  "type1Id": "ELECTRIC",
+  "type2Id": "ELECTRIC",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_FAIRY"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 122,
+  "hatchCycles": 10,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STRENGTH",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "THUNDERSHOCK"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "THUNDERBOLT"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "raichu",
+  "cryId": "raichu"
+}

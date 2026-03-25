@@ -1,0 +1,105 @@
+{
+  "id": "HYPNO",
+  "name": "HYPNO",
+  "baseHp": 85,
+  "baseAttack": 73,
+  "baseDefense": 70,
+  "baseSpeed": 67,
+  "baseSpAtk": 73,
+  "baseSpDef": 115,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 165,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "THUNDERPUNCH",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "NIGHTMARE",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POUND"
+    },
+    {
+      "level": 1,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 1,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 1,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 10,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 18,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 25,
+      "moveId": "HEADBUTT"
+    },
+    {
+      "level": 33,
+      "moveId": "POISON_GAS"
+    },
+    {
+      "level": 40,
+      "moveId": "MEDITATE"
+    },
+    {
+      "level": 49,
+      "moveId": "PSYCHIC_M"
+    },
+    {
+      "level": 55,
+      "moveId": "PSYCH_UP"
+    },
+    {
+      "level": 60,
+      "moveId": "FUTURE_SIGHT"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "hypno",
+  "cryId": "hypno"
+}

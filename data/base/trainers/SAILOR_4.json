@@ -1,0 +1,31 @@
+{
+  "id": "SAILOR_4",
+  "classId": "SAILOR",
+  "name": "KENT",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "KRABBY",
+      "moves": [
+        "BUBBLE",
+        "LEER",
+        "VICEGRIP",
+        "HARDEN"
+      ]
+    },
+    {
+      "level": 20,
+      "speciesId": "KRABBY",
+      "moves": [
+        "BUBBLEBEAM",
+        "LEER",
+        "VICEGRIP",
+        "HARDEN"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

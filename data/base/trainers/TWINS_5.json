@@ -1,0 +1,19 @@
+{
+  "id": "TWINS_5",
+  "classId": "TWINS",
+  "name": "JO & ZOE",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "VICTREEBEL"
+    },
+    {
+      "level": 35,
+      "speciesId": "VILEPLUME"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

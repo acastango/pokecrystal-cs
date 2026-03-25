@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_45",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 23,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 24,
+        "speciesId": "GLIGAR"
+      },
+      {
+        "level": 25,
+        "speciesId": "DONPHAN"
+      },
+      {
+        "level": 20,
+        "speciesId": "PHANPY"
+      },
+      {
+        "level": 27,
+        "speciesId": "SKARMORY"
+      },
+      {
+        "level": 27,
+        "speciesId": "SKARMORY"
+      }
+    ],
+    "day": [
+      {
+        "level": 23,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 24,
+        "speciesId": "GLIGAR"
+      },
+      {
+        "level": 25,
+        "speciesId": "DONPHAN"
+      },
+      {
+        "level": 30,
+        "speciesId": "DONPHAN"
+      },
+      {
+        "level": 27,
+        "speciesId": "SKARMORY"
+      },
+      {
+        "level": 27,
+        "speciesId": "SKARMORY"
+      }
+    ],
+    "nite": [
+      {
+        "level": 23,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 24,
+        "speciesId": "GLIGAR"
+      },
+      {
+        "level": 25,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 27,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 27,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 27,
+        "speciesId": "GRAVELER"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 15,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 5,
+        "speciesId": "MAGIKARP"
+      }
+    ]
+  }
+}

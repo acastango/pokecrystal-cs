@@ -1,0 +1,27 @@
+{
+  "id": "SWIMMERF_17",
+  "classId": "SWIMMERF",
+  "name": "NIKKI",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "SEEL"
+    },
+    {
+      "level": 28,
+      "speciesId": "SEEL"
+    },
+    {
+      "level": 28,
+      "speciesId": "SEEL"
+    },
+    {
+      "level": 28,
+      "speciesId": "DEWGONG"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,15 @@
+{
+  "id": "KIMONOGIRL_6",
+  "classId": "KIMONOGIRL",
+  "name": "MIKI",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "JOLTEON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

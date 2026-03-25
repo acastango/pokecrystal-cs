@@ -1,0 +1,112 @@
+{
+  "id": "LUGIA",
+  "name": "LUGIA",
+  "baseHp": 106,
+  "baseAttack": 90,
+  "baseDefense": 130,
+  "baseSpeed": 110,
+  "baseSpAtk": 90,
+  "baseSpDef": 154,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "FLYING",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 3,
+  "baseExp": 220,
+  "hatchCycles": 120,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "THUNDER",
+    "EARTHQUAKE",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "SWIFT",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "STEEL_WING",
+    "NIGHTMARE",
+    "FLY",
+    "SURF",
+    "STRENGTH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "AEROBLAST"
+    },
+    {
+      "level": 11,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 22,
+      "moveId": "GUST"
+    },
+    {
+      "level": 33,
+      "moveId": "RECOVER"
+    },
+    {
+      "level": 44,
+      "moveId": "HYDRO_PUMP"
+    },
+    {
+      "level": 55,
+      "moveId": "RAIN_DANCE"
+    },
+    {
+      "level": 66,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 77,
+      "moveId": "WHIRLWIND"
+    },
+    {
+      "level": 88,
+      "moveId": "ANCIENTPOWER"
+    },
+    {
+      "level": 99,
+      "moveId": "FUTURE_SIGHT"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "lugia",
+  "cryId": "lugia"
+}

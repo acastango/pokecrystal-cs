@@ -1,0 +1,23 @@
+{
+  "id": "COOLTRAINERM_17",
+  "classId": "COOLTRAINERM",
+  "name": "KEVIN",
+  "party": [
+    {
+      "level": 38,
+      "speciesId": "RHYHORN"
+    },
+    {
+      "level": 35,
+      "speciesId": "CHARMELEON"
+    },
+    {
+      "level": 35,
+      "speciesId": "WARTORTLE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "BOARDER_1",
+  "classId": "BOARDER",
+  "name": "RONALD",
+  "party": [
+    {
+      "level": 24,
+      "speciesId": "SEEL"
+    },
+    {
+      "level": 25,
+      "speciesId": "DEWGONG"
+    },
+    {
+      "level": 24,
+      "speciesId": "SEEL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

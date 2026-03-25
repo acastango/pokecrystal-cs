@@ -1,0 +1,99 @@
+{
+  "mapId": "BURNED_TOWER_1F",
+  "grass": {
+    "mornRate": 4,
+    "dayRate": 4,
+    "niteRate": 4,
+    "morn": [
+      {
+        "level": 13,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 14,
+        "speciesId": "KOFFING"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 14,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      }
+    ],
+    "day": [
+      {
+        "level": 13,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 14,
+        "speciesId": "KOFFING"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 14,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      }
+    ],
+    "nite": [
+      {
+        "level": 13,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 14,
+        "speciesId": "KOFFING"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 14,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "RATICATE"
+      }
+    ]
+  },
+  "water": null
+}

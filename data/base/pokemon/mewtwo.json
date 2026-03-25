@@ -1,0 +1,114 @@
+{
+  "id": "MEWTWO",
+  "name": "MEWTWO",
+  "baseHp": 106,
+  "baseAttack": 110,
+  "baseDefense": 90,
+  "baseSpeed": 130,
+  "baseSpAtk": 154,
+  "baseSpDef": 90,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 3,
+  "baseExp": 220,
+  "hatchCycles": 120,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "THUNDERPUNCH",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "FIRE_PUNCH",
+    "NIGHTMARE",
+    "STRENGTH",
+    "FLASH",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 1,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 11,
+      "moveId": "BARRIER"
+    },
+    {
+      "level": 22,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 33,
+      "moveId": "PSYCH_UP"
+    },
+    {
+      "level": 44,
+      "moveId": "FUTURE_SIGHT"
+    },
+    {
+      "level": 55,
+      "moveId": "MIST"
+    },
+    {
+      "level": 66,
+      "moveId": "PSYCHIC_M"
+    },
+    {
+      "level": 77,
+      "moveId": "AMNESIA"
+    },
+    {
+      "level": 88,
+      "moveId": "RECOVER"
+    },
+    {
+      "level": 99,
+      "moveId": "SAFEGUARD"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "mewtwo",
+  "cryId": "mewtwo"
+}

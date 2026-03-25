@@ -1,0 +1,26 @@
+{
+  "id": "POKEFANM_8",
+  "classId": "POKEFANM",
+  "name": "JEREMY",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "MEOWTH",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 28,
+      "speciesId": "MEOWTH",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 28,
+      "speciesId": "MEOWTH",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

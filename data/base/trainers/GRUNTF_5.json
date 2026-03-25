@@ -1,0 +1,31 @@
+{
+  "id": "GRUNTF_5",
+  "classId": "GRUNTF",
+  "name": "GRUNT",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "EKANS",
+      "moves": [
+        "WRAP",
+        "LEER",
+        "POISON_STING",
+        "BITE"
+      ]
+    },
+    {
+      "level": 18,
+      "speciesId": "GLOOM",
+      "moves": [
+        "ABSORB",
+        "SWEET_SCENT",
+        "STUN_SPORE",
+        "SLEEP_POWDER"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

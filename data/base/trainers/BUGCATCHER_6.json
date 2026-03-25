@@ -1,0 +1,19 @@
+{
+  "id": "BUGCATCHER_6",
+  "classId": "BUGCATCHER",
+  "name": "AL",
+  "party": [
+    {
+      "level": 12,
+      "speciesId": "CATERPIE"
+    },
+    {
+      "level": 12,
+      "speciesId": "WEEDLE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

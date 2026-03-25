@@ -1,0 +1,94 @@
+{
+  "id": "SCIZOR",
+  "name": "SCIZOR",
+  "baseHp": 70,
+  "baseAttack": 130,
+  "baseDefense": 100,
+  "baseSpeed": 65,
+  "baseSpAtk": 55,
+  "baseSpDef": 80,
+  "type1Id": "BUG",
+  "type2Id": "STEEL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 25,
+  "baseExp": 200,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STEEL_WING",
+    "FURY_CUTTER",
+    "CUT",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 6,
+      "moveId": "FOCUS_ENERGY"
+    },
+    {
+      "level": 12,
+      "moveId": "PURSUIT"
+    },
+    {
+      "level": 18,
+      "moveId": "FALSE_SWIPE"
+    },
+    {
+      "level": 24,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 30,
+      "moveId": "METAL_CLAW"
+    },
+    {
+      "level": 36,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 42,
+      "moveId": "SWORDS_DANCE"
+    },
+    {
+      "level": 48,
+      "moveId": "DOUBLE_TEAM"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "scizor",
+  "cryId": "scizor"
+}

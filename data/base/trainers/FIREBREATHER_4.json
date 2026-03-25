@@ -1,0 +1,19 @@
+{
+  "id": "FIREBREATHER_4",
+  "classId": "FIREBREATHER",
+  "name": "BURT",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "KOFFING"
+    },
+    {
+      "level": 32,
+      "speciesId": "SLUGMA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,106 @@
+{
+  "id": "JYNX",
+  "name": "JYNX",
+  "baseHp": 65,
+  "baseAttack": 50,
+  "baseDefense": 35,
+  "baseSpeed": 95,
+  "baseSpAtk": 115,
+  "baseSpDef": 95,
+  "type1Id": "ICE",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 1.0,
+  "catchRate": 45,
+  "baseExp": 137,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SWEET_SCENT",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POUND"
+    },
+    {
+      "level": 1,
+      "moveId": "LICK"
+    },
+    {
+      "level": 1,
+      "moveId": "LOVELY_KISS"
+    },
+    {
+      "level": 1,
+      "moveId": "POWDER_SNOW"
+    },
+    {
+      "level": 9,
+      "moveId": "LOVELY_KISS"
+    },
+    {
+      "level": 13,
+      "moveId": "POWDER_SNOW"
+    },
+    {
+      "level": 21,
+      "moveId": "DOUBLESLAP"
+    },
+    {
+      "level": 25,
+      "moveId": "ICE_PUNCH"
+    },
+    {
+      "level": 35,
+      "moveId": "MEAN_LOOK"
+    },
+    {
+      "level": 41,
+      "moveId": "BODY_SLAM"
+    },
+    {
+      "level": 51,
+      "moveId": "PERISH_SONG"
+    },
+    {
+      "level": 57,
+      "moveId": "BLIZZARD"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "jynx",
+  "cryId": "jynx"
+}

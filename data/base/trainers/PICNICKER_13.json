@@ -1,0 +1,19 @@
+{
+  "id": "PICNICKER_13",
+  "classId": "PICNICKER",
+  "name": "HEIDI",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "SKIPLOOM"
+    },
+    {
+      "level": 32,
+      "speciesId": "SKIPLOOM"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

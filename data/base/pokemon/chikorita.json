@@ -1,0 +1,105 @@
+{
+  "id": "CHIKORITA",
+  "name": "CHIKORITA",
+  "baseHp": 45,
+  "baseAttack": 49,
+  "baseDefense": 65,
+  "baseSpeed": 45,
+  "baseSpAtk": 49,
+  "baseSpDef": 65,
+  "type1Id": "GRASS",
+  "type2Id": "GRASS",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 64,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "IRON_TAIL",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 8,
+      "moveId": "RAZOR_LEAF"
+    },
+    {
+      "level": 12,
+      "moveId": "REFLECT"
+    },
+    {
+      "level": 15,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 22,
+      "moveId": "SYNTHESIS"
+    },
+    {
+      "level": 29,
+      "moveId": "BODY_SLAM"
+    },
+    {
+      "level": 36,
+      "moveId": "LIGHT_SCREEN"
+    },
+    {
+      "level": 43,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 50,
+      "moveId": "SOLARBEAM"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "BAYLEEF",
+      "param": "16"
+    }
+  ],
+  "eggMoves": [
+    "VINE_WHIP",
+    "LEECH_SEED",
+    "COUNTER",
+    "ANCIENTPOWER",
+    "FLAIL",
+    "SWORDS_DANCE"
+  ],
+  "spriteId": "chikorita",
+  "cryId": "chikorita"
+}

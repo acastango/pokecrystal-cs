@@ -1,0 +1,102 @@
+{
+  "id": "GRIMER",
+  "name": "GRIMER",
+  "baseHp": 80,
+  "baseAttack": 80,
+  "baseDefense": 50,
+  "baseSpeed": 25,
+  "baseSpAtk": 40,
+  "baseSpDef": 50,
+  "type1Id": "POISON",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 90,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "FIRE_BLAST",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "FLAMETHROWER",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POISON_GAS"
+    },
+    {
+      "level": 1,
+      "moveId": "POUND"
+    },
+    {
+      "level": 5,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 10,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 16,
+      "moveId": "SLUDGE"
+    },
+    {
+      "level": 23,
+      "moveId": "MINIMIZE"
+    },
+    {
+      "level": 31,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 40,
+      "moveId": "ACID_ARMOR"
+    },
+    {
+      "level": 50,
+      "moveId": "SLUDGE_BOMB"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "MUK",
+      "param": "38"
+    }
+  ],
+  "eggMoves": [
+    "HAZE",
+    "MEAN_LOOK",
+    "LICK"
+  ],
+  "spriteId": "grimer",
+  "cryId": "grimer"
+}

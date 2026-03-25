@@ -1,0 +1,28 @@
+{
+  "id": "FALKNER_1",
+  "classId": "FALKNER",
+  "name": "FALKNER",
+  "party": [
+    {
+      "level": 7,
+      "speciesId": "PIDGEY",
+      "moves": [
+        "TACKLE",
+        "MUD_SLAP"
+      ]
+    },
+    {
+      "level": 9,
+      "speciesId": "PIDGEOTTO",
+      "moves": [
+        "TACKLE",
+        "MUD_SLAP",
+        "GUST"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

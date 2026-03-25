@@ -1,0 +1,71 @@
+{
+  "id": "CHAMPION_1",
+  "classId": "CHAMPION",
+  "name": "LANCE",
+  "party": [
+    {
+      "level": 44,
+      "speciesId": "GYARADOS",
+      "moves": [
+        "FLAIL",
+        "RAIN_DANCE",
+        "SURF",
+        "HYPER_BEAM"
+      ]
+    },
+    {
+      "level": 47,
+      "speciesId": "DRAGONITE",
+      "moves": [
+        "THUNDER_WAVE",
+        "TWISTER",
+        "THUNDER",
+        "HYPER_BEAM"
+      ]
+    },
+    {
+      "level": 47,
+      "speciesId": "DRAGONITE",
+      "moves": [
+        "THUNDER_WAVE",
+        "TWISTER",
+        "BLIZZARD",
+        "HYPER_BEAM"
+      ]
+    },
+    {
+      "level": 46,
+      "speciesId": "AERODACTYL",
+      "moves": [
+        "WING_ATTACK",
+        "ANCIENTPOWER",
+        "ROCK_SLIDE",
+        "HYPER_BEAM"
+      ]
+    },
+    {
+      "level": 46,
+      "speciesId": "CHARIZARD",
+      "moves": [
+        "FLAMETHROWER",
+        "WING_ATTACK",
+        "SLASH",
+        "HYPER_BEAM"
+      ]
+    },
+    {
+      "level": 50,
+      "speciesId": "DRAGONITE",
+      "moves": [
+        "FIRE_BLAST",
+        "SAFEGUARD",
+        "OUTRAGE",
+        "HYPER_BEAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "RUINS_OF_ALPH_OUTSIDE",
+  "grass": {
+    "mornRate": 4,
+    "dayRate": 4,
+    "niteRate": 4,
+    "morn": [
+      {
+        "level": 20,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 22,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 18,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 24,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 20,
+        "speciesId": "SMEARGLE"
+      },
+      {
+        "level": 22,
+        "speciesId": "SMEARGLE"
+      },
+      {
+        "level": 22,
+        "speciesId": "SMEARGLE"
+      }
+    ],
+    "day": [
+      {
+        "level": 20,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 22,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 18,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 24,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 20,
+        "speciesId": "SMEARGLE"
+      },
+      {
+        "level": 22,
+        "speciesId": "SMEARGLE"
+      },
+      {
+        "level": 22,
+        "speciesId": "SMEARGLE"
+      }
+    ],
+    "nite": [
+      {
+        "level": 20,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 22,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 18,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 24,
+        "speciesId": "NATU"
+      },
+      {
+        "level": 22,
+        "speciesId": "WOOPER"
+      },
+      {
+        "level": 22,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 22,
+        "speciesId": "QUAGSIRE"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "WOOPER"
+      },
+      {
+        "level": 20,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 15,
+        "speciesId": "QUAGSIRE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "SUICUNE",
+  "name": "SUICUNE",
+  "baseHp": 100,
+  "baseAttack": 75,
+  "baseDefense": 115,
+  "baseSpeed": 85,
+  "baseSpAtk": 90,
+  "baseSpDef": 115,
+  "type1Id": "WATER",
+  "type2Id": "WATER",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 3,
+  "baseExp": 215,
+  "hatchCycles": 80,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "CUT",
+    "SURF",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BITE"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 11,
+      "moveId": "BUBBLEBEAM"
+    },
+    {
+      "level": 21,
+      "moveId": "RAIN_DANCE"
+    },
+    {
+      "level": 31,
+      "moveId": "GUST"
+    },
+    {
+      "level": 41,
+      "moveId": "AURORA_BEAM"
+    },
+    {
+      "level": 51,
+      "moveId": "MIST"
+    },
+    {
+      "level": 61,
+      "moveId": "MIRROR_COAT"
+    },
+    {
+      "level": 71,
+      "moveId": "HYDRO_PUMP"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "suicune",
+  "cryId": "suicune"
+}

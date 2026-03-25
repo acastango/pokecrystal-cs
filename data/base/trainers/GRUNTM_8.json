@@ -1,0 +1,15 @@
+{
+  "id": "GRUNTM_8",
+  "classId": "GRUNTM",
+  "name": "GRUNT",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "WEEZING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

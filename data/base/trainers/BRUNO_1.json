@@ -1,0 +1,61 @@
+{
+  "id": "BRUNO_1",
+  "classId": "BRUNO",
+  "name": "BRUNO",
+  "party": [
+    {
+      "level": 42,
+      "speciesId": "HITMONTOP",
+      "moves": [
+        "PURSUIT",
+        "QUICK_ATTACK",
+        "DIG",
+        "DETECT"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "HITMONLEE",
+      "moves": [
+        "SWAGGER",
+        "DOUBLE_KICK",
+        "HI_JUMP_KICK",
+        "FORESIGHT"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "HITMONCHAN",
+      "moves": [
+        "THUNDERPUNCH",
+        "ICE_PUNCH",
+        "FIRE_PUNCH",
+        "MACH_PUNCH"
+      ]
+    },
+    {
+      "level": 43,
+      "speciesId": "ONIX",
+      "moves": [
+        "BIND",
+        "EARTHQUAKE",
+        "SANDSTORM",
+        "ROCK_SLIDE"
+      ]
+    },
+    {
+      "level": 46,
+      "speciesId": "MACHAMP",
+      "moves": [
+        "ROCK_SLIDE",
+        "FORESIGHT",
+        "VITAL_THROW",
+        "CROSS_CHOP"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

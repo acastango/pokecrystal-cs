@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_38",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 16,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 16,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 16,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 13,
+        "speciesId": "TAUROS"
+      },
+      {
+        "level": 13,
+        "speciesId": "MILTANK"
+      },
+      {
+        "level": 13,
+        "speciesId": "MILTANK"
+      }
+    ],
+    "day": [
+      {
+        "level": 16,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 16,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 16,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 13,
+        "speciesId": "TAUROS"
+      },
+      {
+        "level": 13,
+        "speciesId": "MILTANK"
+      },
+      {
+        "level": 13,
+        "speciesId": "MILTANK"
+      }
+    ],
+    "nite": [
+      {
+        "level": 16,
+        "speciesId": "MEOWTH"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 16,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 16,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 16,
+        "speciesId": "MEOWTH"
+      },
+      {
+        "level": 16,
+        "speciesId": "MEOWTH"
+      },
+      {
+        "level": 16,
+        "speciesId": "MEOWTH"
+      }
+    ]
+  },
+  "water": null
+}

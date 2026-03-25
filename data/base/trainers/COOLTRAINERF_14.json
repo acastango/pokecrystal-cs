@@ -1,0 +1,19 @@
+{
+  "id": "COOLTRAINERF_14",
+  "classId": "COOLTRAINERF",
+  "name": "QUINN",
+  "party": [
+    {
+      "level": 38,
+      "speciesId": "IVYSAUR"
+    },
+    {
+      "level": 38,
+      "speciesId": "STARMIE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

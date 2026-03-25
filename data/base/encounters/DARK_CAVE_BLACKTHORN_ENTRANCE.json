@@ -1,0 +1,115 @@
+{
+  "mapId": "DARK_CAVE_BLACKTHORN_ENTRANCE",
+  "grass": {
+    "mornRate": 4,
+    "dayRate": 4,
+    "niteRate": 4,
+    "morn": [
+      {
+        "level": 23,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 25,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 25,
+        "speciesId": "URSARING"
+      },
+      {
+        "level": 20,
+        "speciesId": "TEDDIURSA"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      }
+    ],
+    "day": [
+      {
+        "level": 23,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 25,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 25,
+        "speciesId": "URSARING"
+      },
+      {
+        "level": 30,
+        "speciesId": "URSARING"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      }
+    ],
+    "nite": [
+      {
+        "level": 23,
+        "speciesId": "GEODUDE"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 25,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 20,
+        "speciesId": "WOBBUFFET"
+      },
+      {
+        "level": 25,
+        "speciesId": "WOBBUFFET"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 10,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 5,
+        "speciesId": "MAGIKARP"
+      }
+    ]
+  }
+}

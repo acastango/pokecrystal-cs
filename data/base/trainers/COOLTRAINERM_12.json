@@ -1,0 +1,21 @@
+{
+  "id": "COOLTRAINERM_12",
+  "classId": "COOLTRAINERM",
+  "name": "BRIAN",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "SANDSLASH",
+      "moves": [
+        "SAND_ATTACK",
+        "POISON_STING",
+        "SLASH",
+        "SWIFT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

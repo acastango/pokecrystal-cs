@@ -1,0 +1,61 @@
+{
+  "id": "JANINE_1",
+  "classId": "JANINE",
+  "name": "JANINE",
+  "party": [
+    {
+      "level": 36,
+      "speciesId": "CROBAT",
+      "moves": [
+        "SCREECH",
+        "SUPERSONIC",
+        "CONFUSE_RAY",
+        "WING_ATTACK"
+      ]
+    },
+    {
+      "level": 36,
+      "speciesId": "WEEZING",
+      "moves": [
+        "SMOG",
+        "SLUDGE_BOMB",
+        "TOXIC",
+        "EXPLOSION"
+      ]
+    },
+    {
+      "level": 36,
+      "speciesId": "WEEZING",
+      "moves": [
+        "SMOG",
+        "SLUDGE_BOMB",
+        "TOXIC",
+        "EXPLOSION"
+      ]
+    },
+    {
+      "level": 33,
+      "speciesId": "ARIADOS",
+      "moves": [
+        "SCARY_FACE",
+        "GIGA_DRAIN",
+        "STRING_SHOT",
+        "NIGHT_SHADE"
+      ]
+    },
+    {
+      "level": 39,
+      "speciesId": "VENOMOTH",
+      "moves": [
+        "FORESIGHT",
+        "DOUBLE_TEAM",
+        "GUST",
+        "PSYCHIC_M"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,15 @@
+{
+  "id": "BIKER_4",
+  "classId": "BIKER",
+  "name": "HARRIS",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "FLAREON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,79 @@
+{
+  "id": "SUNKERN",
+  "name": "SUNKERN",
+  "baseHp": 30,
+  "baseAttack": 30,
+  "baseDefense": 30,
+  "baseSpeed": 30,
+  "baseSpAtk": 30,
+  "baseSpDef": 30,
+  "type1Id": "GRASS",
+  "type2Id": "GRASS",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 235,
+  "baseExp": 52,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "ABSORB"
+    },
+    {
+      "level": 4,
+      "moveId": "GROWTH"
+    },
+    {
+      "level": 10,
+      "moveId": "MEGA_DRAIN"
+    },
+    {
+      "level": 19,
+      "moveId": "SUNNY_DAY"
+    },
+    {
+      "level": 31,
+      "moveId": "SYNTHESIS"
+    },
+    {
+      "level": 46,
+      "moveId": "GIGA_DRAIN"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "SUNFLORA",
+      "param": "SUN_STONE"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "sunkern",
+  "cryId": "sunkern"
+}

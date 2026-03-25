@@ -1,0 +1,100 @@
+{
+  "id": "GASTLY",
+  "name": "GASTLY",
+  "baseHp": 30,
+  "baseAttack": 35,
+  "baseDefense": 30,
+  "baseSpeed": 80,
+  "baseSpAtk": 100,
+  "baseSpDef": 35,
+  "type1Id": "GHOST",
+  "type2Id": "POISON",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 95,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 1,
+      "moveId": "LICK"
+    },
+    {
+      "level": 8,
+      "moveId": "SPITE"
+    },
+    {
+      "level": 13,
+      "moveId": "MEAN_LOOK"
+    },
+    {
+      "level": 16,
+      "moveId": "CURSE"
+    },
+    {
+      "level": 21,
+      "moveId": "NIGHT_SHADE"
+    },
+    {
+      "level": 28,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 33,
+      "moveId": "DREAM_EATER"
+    },
+    {
+      "level": 36,
+      "moveId": "DESTINY_BOND"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "HAUNTER",
+      "param": "25"
+    }
+  ],
+  "eggMoves": [
+    "PSYWAVE",
+    "PERISH_SONG",
+    "HAZE"
+  ],
+  "spriteId": "gastly",
+  "cryId": "gastly"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "BUGCATCHER_3",
+  "classId": "BUGCATCHER",
+  "name": "ED",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "BEEDRILL"
+    },
+    {
+      "level": 30,
+      "speciesId": "BEEDRILL"
+    },
+    {
+      "level": 30,
+      "speciesId": "BEEDRILL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

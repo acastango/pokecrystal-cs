@@ -1,0 +1,23 @@
+{
+  "id": "SCHOOLBOY_5",
+  "classId": "SCHOOLBOY",
+  "name": "DANNY",
+  "party": [
+    {
+      "level": 31,
+      "speciesId": "JYNX"
+    },
+    {
+      "level": 31,
+      "speciesId": "ELECTABUZZ"
+    },
+    {
+      "level": 31,
+      "speciesId": "MAGMAR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "BEAUTY_6",
+  "classId": "BEAUTY",
+  "name": "CASSIE",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "VILEPLUME"
+    },
+    {
+      "level": 34,
+      "speciesId": "BUTTERFREE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

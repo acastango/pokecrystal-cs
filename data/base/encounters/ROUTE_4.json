@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_4",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 5,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 8,
+        "speciesId": "EKANS"
+      },
+      {
+        "level": 10,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 10,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 10,
+        "speciesId": "SANDSHREW"
+      },
+      {
+        "level": 10,
+        "speciesId": "SANDSHREW"
+      }
+    ],
+    "day": [
+      {
+        "level": 5,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 8,
+        "speciesId": "EKANS"
+      },
+      {
+        "level": 10,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 10,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 10,
+        "speciesId": "SANDSHREW"
+      },
+      {
+        "level": 10,
+        "speciesId": "SANDSHREW"
+      }
+    ],
+    "nite": [
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 10,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 10,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 6,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 6,
+        "speciesId": "CLEFAIRY"
+      },
+      {
+        "level": 6,
+        "speciesId": "CLEFAIRY"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 10,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 5,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 10,
+        "speciesId": "SEAKING"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "BLACKBELT_4",
+  "classId": "BLACKBELT",
+  "name": "LAO",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "HITMONCHAN",
+      "moves": [
+        "COMET_PUNCH",
+        "THUNDERPUNCH",
+        "ICE_PUNCH",
+        "FIRE_PUNCH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

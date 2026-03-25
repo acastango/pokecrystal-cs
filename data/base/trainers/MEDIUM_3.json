@@ -1,0 +1,15 @@
+{
+  "id": "MEDIUM_3",
+  "classId": "MEDIUM",
+  "name": "BETHANY",
+  "party": [
+    {
+      "level": 25,
+      "speciesId": "HAUNTER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

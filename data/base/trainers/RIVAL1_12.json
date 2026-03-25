@@ -1,0 +1,61 @@
+{
+  "id": "RIVAL1_12",
+  "classId": "RIVAL1",
+  "name": "?",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "GOLBAT",
+      "moves": [
+        "LEECH_LIFE",
+        "BITE",
+        "CONFUSE_RAY",
+        "WING_ATTACK"
+      ]
+    },
+    {
+      "level": 28,
+      "speciesId": "MAGNEMITE",
+      "moves": [
+        "TACKLE",
+        "THUNDERSHOCK",
+        "SONICBOOM",
+        "THUNDER_WAVE"
+      ]
+    },
+    {
+      "level": 30,
+      "speciesId": "HAUNTER",
+      "moves": [
+        "LICK",
+        "MEAN_LOOK",
+        "CURSE",
+        "SHADOW_BALL"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "SNEASEL",
+      "moves": [
+        "LEER",
+        "QUICK_ATTACK",
+        "SCREECH",
+        "FAINT_ATTACK"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "FERALIGATR",
+      "moves": [
+        "RAGE",
+        "WATER_GUN",
+        "BITE",
+        "SCARY_FACE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

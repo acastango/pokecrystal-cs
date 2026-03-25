@@ -1,0 +1,21 @@
+{
+  "mapId": "CERULEAN_CITY",
+  "grass": null,
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 10,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 5,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 10,
+        "speciesId": "SEAKING"
+      }
+    ]
+  }
+}

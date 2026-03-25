@@ -1,0 +1,105 @@
+{
+  "id": "MAGMAR",
+  "name": "MAGMAR",
+  "baseHp": 65,
+  "baseAttack": 95,
+  "baseDefense": 57,
+  "baseSpeed": 93,
+  "baseSpAtk": 100,
+  "baseSpDef": 85,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 0.25,
+  "catchRate": 45,
+  "baseExp": 167,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "PSYCHIC_M",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "SMOG"
+    },
+    {
+      "level": 1,
+      "moveId": "FIRE_PUNCH"
+    },
+    {
+      "level": 7,
+      "moveId": "LEER"
+    },
+    {
+      "level": 13,
+      "moveId": "SMOG"
+    },
+    {
+      "level": 19,
+      "moveId": "FIRE_PUNCH"
+    },
+    {
+      "level": 25,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 33,
+      "moveId": "SUNNY_DAY"
+    },
+    {
+      "level": 41,
+      "moveId": "FLAMETHROWER"
+    },
+    {
+      "level": 49,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 57,
+      "moveId": "FIRE_BLAST"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "magmar",
+  "cryId": "magmar"
+}

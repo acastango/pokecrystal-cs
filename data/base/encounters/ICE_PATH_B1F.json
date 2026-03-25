@@ -1,0 +1,99 @@
+{
+  "mapId": "ICE_PATH_B1F",
+  "grass": {
+    "mornRate": 2,
+    "dayRate": 2,
+    "niteRate": 2,
+    "morn": [
+      {
+        "level": 22,
+        "speciesId": "SWINUB"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 24,
+        "speciesId": "SWINUB"
+      },
+      {
+        "level": 25,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "JYNX"
+      }
+    ],
+    "day": [
+      {
+        "level": 22,
+        "speciesId": "SWINUB"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 24,
+        "speciesId": "SWINUB"
+      },
+      {
+        "level": 25,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "JYNX"
+      }
+    ],
+    "nite": [
+      {
+        "level": 22,
+        "speciesId": "DELIBIRD"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 24,
+        "speciesId": "DELIBIRD"
+      },
+      {
+        "level": 25,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 23,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "SNEASEL"
+      }
+    ]
+  },
+  "water": null
+}

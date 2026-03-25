@@ -1,0 +1,78 @@
+{
+  "id": "SUNFLORA",
+  "name": "SUNFLORA",
+  "baseHp": 75,
+  "baseAttack": 75,
+  "baseDefense": 55,
+  "baseSpeed": 30,
+  "baseSpAtk": 105,
+  "baseSpDef": 85,
+  "type1Id": "GRASS",
+  "type2Id": "GRASS",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 120,
+  "baseExp": 146,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "ABSORB"
+    },
+    {
+      "level": 1,
+      "moveId": "POUND"
+    },
+    {
+      "level": 4,
+      "moveId": "GROWTH"
+    },
+    {
+      "level": 10,
+      "moveId": "RAZOR_LEAF"
+    },
+    {
+      "level": 19,
+      "moveId": "SUNNY_DAY"
+    },
+    {
+      "level": 31,
+      "moveId": "PETAL_DANCE"
+    },
+    {
+      "level": 46,
+      "moveId": "SOLARBEAM"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "sunflora",
+  "cryId": "sunflora"
+}

@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_2",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 3,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 3,
+        "speciesId": "LEDYBA"
+      },
+      {
+        "level": 5,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 7,
+        "speciesId": "BUTTERFREE"
+      },
+      {
+        "level": 7,
+        "speciesId": "LEDIAN"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIKACHU"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIKACHU"
+      }
+    ],
+    "day": [
+      {
+        "level": 3,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 3,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 5,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 7,
+        "speciesId": "BUTTERFREE"
+      },
+      {
+        "level": 7,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIKACHU"
+      },
+      {
+        "level": 4,
+        "speciesId": "PIKACHU"
+      }
+    ],
+    "nite": [
+      {
+        "level": 3,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 3,
+        "speciesId": "SPINARAK"
+      },
+      {
+        "level": 5,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 7,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 7,
+        "speciesId": "ARIADOS"
+      },
+      {
+        "level": 4,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 4,
+        "speciesId": "NOCTOWL"
+      }
+    ]
+  },
+  "water": null
+}

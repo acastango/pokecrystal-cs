@@ -1,0 +1,21 @@
+{
+  "id": "LASS_1",
+  "classId": "LASS",
+  "name": "CARRIE",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "SNUBBULL",
+      "moves": [
+        "SCARY_FACE",
+        "CHARM",
+        "BITE",
+        "LICK"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

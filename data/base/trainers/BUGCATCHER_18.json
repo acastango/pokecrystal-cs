@@ -1,0 +1,21 @@
+{
+  "id": "BUGCATCHER_18",
+  "classId": "BUGCATCHER",
+  "name": "ARNIE",
+  "party": [
+    {
+      "level": 40,
+      "speciesId": "VENOMOTH",
+      "moves": [
+        "GUST",
+        "SUPERSONIC",
+        "PSYCHIC_M",
+        "TOXIC"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "PICNICKER_11",
+  "classId": "PICNICKER",
+  "name": "LIZ",
+  "party": [
+    {
+      "level": 15,
+      "speciesId": "WEEPINBELL"
+    },
+    {
+      "level": 15,
+      "speciesId": "NIDORINA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

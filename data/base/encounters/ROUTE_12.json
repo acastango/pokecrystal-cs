@@ -1,0 +1,21 @@
+{
+  "mapId": "ROUTE_12",
+  "grass": null,
+  "water": {
+    "rate": 6,
+    "slots": [
+      {
+        "level": 25,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 25,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 25,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

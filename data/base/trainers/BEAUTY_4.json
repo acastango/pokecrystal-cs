@@ -1,0 +1,15 @@
+{
+  "id": "BEAUTY_4",
+  "classId": "BEAUTY",
+  "name": "JACLYN",
+  "party": [
+    {
+      "level": 15,
+      "speciesId": "SENTRET"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

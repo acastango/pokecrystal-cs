@@ -1,0 +1,99 @@
+{
+  "mapId": "NATIONAL_PARK",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 12,
+        "speciesId": "NIDORAN_M"
+      },
+      {
+        "level": 12,
+        "speciesId": "NIDORAN_F"
+      },
+      {
+        "level": 14,
+        "speciesId": "LEDYBA"
+      },
+      {
+        "level": 13,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 10,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 10,
+        "speciesId": "WEEDLE"
+      },
+      {
+        "level": 10,
+        "speciesId": "WEEDLE"
+      }
+    ],
+    "day": [
+      {
+        "level": 12,
+        "speciesId": "NIDORAN_F"
+      },
+      {
+        "level": 12,
+        "speciesId": "NIDORAN_M"
+      },
+      {
+        "level": 14,
+        "speciesId": "SUNKERN"
+      },
+      {
+        "level": 13,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 10,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 10,
+        "speciesId": "WEEDLE"
+      },
+      {
+        "level": 10,
+        "speciesId": "WEEDLE"
+      }
+    ],
+    "nite": [
+      {
+        "level": 12,
+        "speciesId": "PSYDUCK"
+      },
+      {
+        "level": 13,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 14,
+        "speciesId": "SPINARAK"
+      },
+      {
+        "level": 15,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 10,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 12,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 12,
+        "speciesId": "VENONAT"
+      }
+    ]
+  },
+  "water": null
+}

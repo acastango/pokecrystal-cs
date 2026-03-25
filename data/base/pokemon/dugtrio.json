@@ -1,0 +1,95 @@
+{
+  "id": "DUGTRIO",
+  "name": "DUGTRIO",
+  "baseHp": 35,
+  "baseAttack": 80,
+  "baseDefense": 50,
+  "baseSpeed": 120,
+  "baseSpAtk": 50,
+  "baseSpDef": 70,
+  "type1Id": "GROUND",
+  "type2Id": "GROUND",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 50,
+  "baseExp": 153,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "CUT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TRI_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "MAGNITUDE"
+    },
+    {
+      "level": 5,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 9,
+      "moveId": "MAGNITUDE"
+    },
+    {
+      "level": 17,
+      "moveId": "DIG"
+    },
+    {
+      "level": 25,
+      "moveId": "SAND_ATTACK"
+    },
+    {
+      "level": 37,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 49,
+      "moveId": "EARTHQUAKE"
+    },
+    {
+      "level": 61,
+      "moveId": "FISSURE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "dugtrio",
+  "cryId": "dugtrio"
+}

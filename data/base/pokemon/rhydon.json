@@ -1,0 +1,107 @@
+{
+  "id": "RHYDON",
+  "name": "RHYDON",
+  "baseHp": 105,
+  "baseAttack": 130,
+  "baseDefense": 120,
+  "baseSpeed": 40,
+  "baseSpAtk": 45,
+  "baseSpDef": 45,
+  "type1Id": "GROUND",
+  "type2Id": "ROCK",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 60,
+  "baseExp": 204,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "SURF",
+    "STRENGTH",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "HORN_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "STOMP"
+    },
+    {
+      "level": 1,
+      "moveId": "FURY_ATTACK"
+    },
+    {
+      "level": 13,
+      "moveId": "STOMP"
+    },
+    {
+      "level": 19,
+      "moveId": "FURY_ATTACK"
+    },
+    {
+      "level": 31,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 37,
+      "moveId": "HORN_DRILL"
+    },
+    {
+      "level": 54,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 65,
+      "moveId": "EARTHQUAKE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "rhydon",
+  "cryId": "rhydon"
+}

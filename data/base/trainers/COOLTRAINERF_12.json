@@ -1,0 +1,21 @@
+{
+  "id": "COOLTRAINERF_12",
+  "classId": "COOLTRAINERF",
+  "name": "BETH",
+  "party": [
+    {
+      "level": 39,
+      "speciesId": "RAPIDASH",
+      "moves": [
+        "STOMP",
+        "FIRE_SPIN",
+        "FURY_ATTACK",
+        "AGILITY"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

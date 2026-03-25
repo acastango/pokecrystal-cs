@@ -1,0 +1,31 @@
+{
+  "id": "PSYCHIC_8",
+  "classId": "PSYCHIC",
+  "name": "PHIL",
+  "party": [
+    {
+      "level": 24,
+      "speciesId": "NATU",
+      "moves": [
+        "LEER",
+        "NIGHT_SHADE",
+        "FUTURE_SIGHT",
+        "CONFUSE_RAY"
+      ]
+    },
+    {
+      "level": 26,
+      "speciesId": "KADABRA",
+      "moves": [
+        "DISABLE",
+        "PSYBEAM",
+        "RECOVER",
+        "FUTURE_SIGHT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

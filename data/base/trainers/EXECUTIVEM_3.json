@@ -1,0 +1,71 @@
+{
+  "id": "EXECUTIVEM_3",
+  "classId": "EXECUTIVEM",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "KOFFING",
+      "moves": [
+        "TACKLE",
+        "SELFDESTRUCT",
+        "SLUDGE",
+        "SMOKESCREEN"
+      ]
+    },
+    {
+      "level": 30,
+      "speciesId": "KOFFING",
+      "moves": [
+        "TACKLE",
+        "SELFDESTRUCT",
+        "SLUDGE",
+        "SMOKESCREEN"
+      ]
+    },
+    {
+      "level": 30,
+      "speciesId": "KOFFING",
+      "moves": [
+        "TACKLE",
+        "SELFDESTRUCT",
+        "SLUDGE",
+        "SMOKESCREEN"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "WEEZING",
+      "moves": [
+        "TACKLE",
+        "EXPLOSION",
+        "SLUDGE",
+        "SMOKESCREEN"
+      ]
+    },
+    {
+      "level": 30,
+      "speciesId": "KOFFING",
+      "moves": [
+        "TACKLE",
+        "SELFDESTRUCT",
+        "SLUDGE",
+        "SMOKESCREEN"
+      ]
+    },
+    {
+      "level": 30,
+      "speciesId": "KOFFING",
+      "moves": [
+        "TACKLE",
+        "SMOG",
+        "SLUDGE",
+        "SMOKESCREEN"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

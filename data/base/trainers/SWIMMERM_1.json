@@ -1,0 +1,19 @@
+{
+  "id": "SWIMMERM_1",
+  "classId": "SWIMMERM",
+  "name": "HAROLD",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "REMORAID"
+    },
+    {
+      "level": 30,
+      "speciesId": "SEADRA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

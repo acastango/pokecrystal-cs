@@ -1,0 +1,13 @@
+{"ts": "2026-03-25T08:02:42.196169+00:00", "layer": "system", "event": "status", "summary": "pkmonet MCP session started \u2014 project: C:\\Users\\Anthony\\pkmonet\\pokecrystal-cs\\.pkmonet, global: C:\\Users\\Anthony/.mnemo/global"}
+{"ts": "2026-03-25T08:02:56.896141+00:00", "layer": "subconscious", "event": "recall", "summary": "turn 60: 8 nodes (density=high)", "detail": {"turns": 60, "relevant": 8}}
+{"ts": "2026-03-25T08:03:05.550502+00:00", "layer": "conscious", "event": "phase_set", "summary": "L9 phase forced to planning", "detail": {"layer": 9, "phase": "planning"}}
+{"ts": "2026-03-25T08:17:48.047050+00:00", "layer": "conscious", "event": "claim_spec", "summary": "L9 cs spec: L9 Data Extraction Tools \u2014 Python scripts in tools/ that par", "addresses": ["1893acea9b5e"], "detail": {"layer": 9, "linked_asm": 0}}
+{"ts": "2026-03-25T08:17:50.555816+00:00", "layer": "conscious", "event": "phase_complete_planning", "summary": "L9 planning complete", "detail": {"layer": 9, "forced": true}}
+{"ts": "2026-03-25T08:17:52.931903+00:00", "layer": "conscious", "event": "phase_begin_impl", "summary": "L9 implementation started", "detail": {"layer": 9, "forced": false}}
+{"ts": "2026-03-25T08:24:57.703362+00:00", "layer": "conscious", "event": "phase_complete", "summary": "L9 complete", "detail": {"layer": 9, "forced": false}}
+{"ts": "2026-03-25T08:25:32.567477+00:00", "layer": "subconscious", "event": "recall", "summary": "turn 62: 8 nodes (density=high)", "detail": {"turns": 62, "relevant": 8}}
+{"ts": "2026-03-25T08:25:35.719047+00:00", "layer": "conscious", "event": "phase_set", "summary": "L10 phase forced to planning", "detail": {"layer": 10, "phase": "planning"}}
+{"ts": "2026-03-25T08:30:54.055501+00:00", "layer": "conscious", "event": "claim_spec", "summary": "L10 cs spec: L10 Integration & QA \u2014 xUnit test suite in tests/PokeCrystal", "addresses": ["c46eac41460b"], "detail": {"layer": 10, "linked_asm": 0}}
+{"ts": "2026-03-25T08:30:57.924881+00:00", "layer": "conscious", "event": "phase_complete_planning", "summary": "L10 planning complete", "detail": {"layer": 10, "forced": true}}
+{"ts": "2026-03-25T08:31:00.461562+00:00", "layer": "conscious", "event": "phase_begin_impl", "summary": "L10 implementation started", "detail": {"layer": 10, "forced": false}}
+{"ts": "2026-03-25T08:52:16.072806+00:00", "layer": "conscious", "event": "phase_complete", "summary": "L10 complete", "detail": {"layer": 10, "forced": false}}

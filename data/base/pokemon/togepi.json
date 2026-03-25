@@ -1,0 +1,100 @@
+{
+  "id": "TOGEPI",
+  "name": "TOGEPI",
+  "baseHp": 35,
+  "baseAttack": 20,
+  "baseDefense": 65,
+  "baseSpeed": 20,
+  "baseSpAtk": 40,
+  "baseSpDef": 65,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 190,
+  "baseExp": 74,
+  "hatchCycles": 10,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "FLASH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "CHARM"
+    },
+    {
+      "level": 7,
+      "moveId": "METRONOME"
+    },
+    {
+      "level": 18,
+      "moveId": "SWEET_KISS"
+    },
+    {
+      "level": 25,
+      "moveId": "ENCORE"
+    },
+    {
+      "level": 31,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 38,
+      "moveId": "DOUBLE_EDGE"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Happiness",
+      "targetSpeciesId": "TOGETIC",
+      "param": "TR_ANYTIME"
+    }
+  ],
+  "eggMoves": [
+    "PRESENT",
+    "MIRROR_MOVE",
+    "PECK",
+    "FORESIGHT",
+    "FUTURE_SIGHT"
+  ],
+  "spriteId": "togepi",
+  "cryId": "togepi"
+}

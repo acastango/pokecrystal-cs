@@ -1,0 +1,41 @@
+{
+  "id": "PICNICKER_25",
+  "classId": "PICNICKER",
+  "name": "GINA",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "JUMPLUFF",
+      "moves": [
+        "STUN_SPORE",
+        "SUNNY_DAY",
+        "LEECH_SEED",
+        "COTTON_SPORE"
+      ]
+    },
+    {
+      "level": 33,
+      "speciesId": "JUMPLUFF",
+      "moves": [
+        "SUNNY_DAY",
+        "SLEEP_POWDER",
+        "LEECH_SEED",
+        "COTTON_SPORE"
+      ]
+    },
+    {
+      "level": 38,
+      "speciesId": "VENUSAUR",
+      "moves": [
+        "SOLARBEAM",
+        "RAZOR_LEAF",
+        "HEADBUTT",
+        "MUD_SLAP"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

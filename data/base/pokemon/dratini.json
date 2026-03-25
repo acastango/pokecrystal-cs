@@ -1,0 +1,109 @@
+{
+  "id": "DRATINI",
+  "name": "DRATINI",
+  "baseHp": 41,
+  "baseAttack": 64,
+  "baseDefense": 45,
+  "baseSpeed": 50,
+  "baseSpAtk": 50,
+  "baseSpDef": 50,
+  "type1Id": "DRAGON",
+  "type2Id": "DRAGON",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_DRAGON"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 67,
+  "hatchCycles": 40,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "WATERFALL",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "WRAP"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 8,
+      "moveId": "THUNDER_WAVE"
+    },
+    {
+      "level": 15,
+      "moveId": "TWISTER"
+    },
+    {
+      "level": 22,
+      "moveId": "DRAGON_RAGE"
+    },
+    {
+      "level": 29,
+      "moveId": "SLAM"
+    },
+    {
+      "level": 36,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 43,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 50,
+      "moveId": "OUTRAGE"
+    },
+    {
+      "level": 57,
+      "moveId": "HYPER_BEAM"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "DRAGONAIR",
+      "param": "30"
+    }
+  ],
+  "eggMoves": [
+    "LIGHT_SCREEN",
+    "MIST",
+    "HAZE",
+    "SUPERSONIC"
+  ],
+  "spriteId": "dratini",
+  "cryId": "dratini"
+}

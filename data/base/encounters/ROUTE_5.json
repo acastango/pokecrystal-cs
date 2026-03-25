@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_5",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 13,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 13,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 15,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 12,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 14,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 14,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 14,
+        "speciesId": "ABRA"
+      }
+    ],
+    "day": [
+      {
+        "level": 13,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 13,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 15,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 12,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 14,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 14,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 14,
+        "speciesId": "ABRA"
+      }
+    ],
+    "nite": [
+      {
+        "level": 13,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 13,
+        "speciesId": "MEOWTH"
+      },
+      {
+        "level": 15,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 12,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 14,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 14,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 14,
+        "speciesId": "ABRA"
+      }
+    ]
+  },
+  "water": null
+}

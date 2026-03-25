@@ -1,0 +1,94 @@
+{
+  "id": "PIDGEOT",
+  "name": "PIDGEOT",
+  "baseHp": 83,
+  "baseAttack": 80,
+  "baseDefense": 75,
+  "baseSpeed": 91,
+  "baseSpAtk": 70,
+  "baseSpDef": 70,
+  "type1Id": "NORMAL",
+  "type2Id": "FLYING",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_FLYING",
+    "EGG_FLYING"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 172,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STEEL_WING",
+    "FLY"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "SAND_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "GUST"
+    },
+    {
+      "level": 1,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 5,
+      "moveId": "SAND_ATTACK"
+    },
+    {
+      "level": 9,
+      "moveId": "GUST"
+    },
+    {
+      "level": 15,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 23,
+      "moveId": "WHIRLWIND"
+    },
+    {
+      "level": 33,
+      "moveId": "WING_ATTACK"
+    },
+    {
+      "level": 46,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 61,
+      "moveId": "MIRROR_MOVE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "pidgeot",
+  "cryId": "pidgeot"
+}

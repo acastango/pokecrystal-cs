@@ -1,0 +1,99 @@
+{
+  "mapId": "RUINS_OF_ALPH_INNER_CHAMBER",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      }
+    ],
+    "day": [
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      }
+    ],
+    "nite": [
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      },
+      {
+        "level": 5,
+        "speciesId": "UNOWN"
+      }
+    ]
+  },
+  "water": null
+}

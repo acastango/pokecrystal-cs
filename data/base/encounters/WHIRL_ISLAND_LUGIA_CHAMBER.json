@@ -1,0 +1,115 @@
+{
+  "mapId": "WHIRL_ISLAND_LUGIA_CHAMBER",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 25,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 26,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 25,
+        "speciesId": "SEEL"
+      },
+      {
+        "level": 27,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 28,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 27,
+        "speciesId": "SEEL"
+      },
+      {
+        "level": 27,
+        "speciesId": "SEEL"
+      }
+    ],
+    "day": [
+      {
+        "level": 25,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 26,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 25,
+        "speciesId": "SEEL"
+      },
+      {
+        "level": 27,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 28,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 27,
+        "speciesId": "SEEL"
+      },
+      {
+        "level": 27,
+        "speciesId": "SEEL"
+      }
+    ],
+    "nite": [
+      {
+        "level": 25,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 26,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 25,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 27,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 28,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 27,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 27,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "HORSEA"
+      },
+      {
+        "level": 20,
+        "speciesId": "TENTACRUEL"
+      },
+      {
+        "level": 20,
+        "speciesId": "SEADRA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "DRAGONAIR",
+  "name": "DRAGONAIR",
+  "baseHp": 61,
+  "baseAttack": 84,
+  "baseDefense": 65,
+  "baseSpeed": 70,
+  "baseSpAtk": 70,
+  "baseSpDef": 70,
+  "type1Id": "DRAGON",
+  "type2Id": "DRAGON",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_DRAGON"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 144,
+  "hatchCycles": 40,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "WATERFALL",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "WRAP"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "THUNDER_WAVE"
+    },
+    {
+      "level": 1,
+      "moveId": "TWISTER"
+    },
+    {
+      "level": 8,
+      "moveId": "THUNDER_WAVE"
+    },
+    {
+      "level": 15,
+      "moveId": "TWISTER"
+    },
+    {
+      "level": 22,
+      "moveId": "DRAGON_RAGE"
+    },
+    {
+      "level": 29,
+      "moveId": "SLAM"
+    },
+    {
+      "level": 38,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 47,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 56,
+      "moveId": "OUTRAGE"
+    },
+    {
+      "level": 65,
+      "moveId": "HYPER_BEAM"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "DRAGONITE",
+      "param": "55"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "dragonair",
+  "cryId": "dragonair"
+}

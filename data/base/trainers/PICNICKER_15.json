@@ -1,0 +1,23 @@
+{
+  "id": "PICNICKER_15",
+  "classId": "PICNICKER",
+  "name": "GINA",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "SKIPLOOM"
+    },
+    {
+      "level": 26,
+      "speciesId": "SKIPLOOM"
+    },
+    {
+      "level": 29,
+      "speciesId": "IVYSAUR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,61 @@
+{
+  "id": "WILL_1",
+  "classId": "WILL",
+  "name": "WILL",
+  "party": [
+    {
+      "level": 40,
+      "speciesId": "XATU",
+      "moves": [
+        "QUICK_ATTACK",
+        "FUTURE_SIGHT",
+        "CONFUSE_RAY",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 41,
+      "speciesId": "JYNX",
+      "moves": [
+        "DOUBLESLAP",
+        "LOVELY_KISS",
+        "ICE_PUNCH",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 41,
+      "speciesId": "EXEGGUTOR",
+      "moves": [
+        "REFLECT",
+        "LEECH_SEED",
+        "EGG_BOMB",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 41,
+      "speciesId": "SLOWBRO",
+      "moves": [
+        "CURSE",
+        "AMNESIA",
+        "BODY_SLAM",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "XATU",
+      "moves": [
+        "QUICK_ATTACK",
+        "FUTURE_SIGHT",
+        "CONFUSE_RAY",
+        "PSYCHIC_M"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

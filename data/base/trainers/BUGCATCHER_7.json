@@ -1,0 +1,15 @@
+{
+  "id": "BUGCATCHER_7",
+  "classId": "BUGCATCHER",
+  "name": "JOSH",
+  "party": [
+    {
+      "level": 13,
+      "speciesId": "PARAS"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

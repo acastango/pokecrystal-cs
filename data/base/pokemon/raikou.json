@@ -1,0 +1,96 @@
+{
+  "id": "RAIKOU",
+  "name": "RAIKOU",
+  "baseHp": 90,
+  "baseAttack": 85,
+  "baseDefense": 75,
+  "baseSpeed": 115,
+  "baseSpAtk": 115,
+  "baseSpDef": 100,
+  "type1Id": "ELECTRIC",
+  "type2Id": "ELECTRIC",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 3,
+  "baseExp": 216,
+  "hatchCycles": 80,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "CUT",
+    "STRENGTH",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BITE"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 11,
+      "moveId": "THUNDERSHOCK"
+    },
+    {
+      "level": 21,
+      "moveId": "ROAR"
+    },
+    {
+      "level": 31,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 41,
+      "moveId": "SPARK"
+    },
+    {
+      "level": 51,
+      "moveId": "REFLECT"
+    },
+    {
+      "level": 61,
+      "moveId": "CRUNCH"
+    },
+    {
+      "level": 71,
+      "moveId": "THUNDER"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "raikou",
+  "cryId": "raikou"
+}

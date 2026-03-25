@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_24",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 8,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 10,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 12,
+        "speciesId": "METAPOD"
+      },
+      {
+        "level": 12,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 10,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 14,
+        "speciesId": "BUTTERFREE"
+      },
+      {
+        "level": 14,
+        "speciesId": "BUTTERFREE"
+      }
+    ],
+    "day": [
+      {
+        "level": 8,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 12,
+        "speciesId": "SUNKERN"
+      },
+      {
+        "level": 10,
+        "speciesId": "CATERPIE"
+      },
+      {
+        "level": 12,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 10,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 14,
+        "speciesId": "BUTTERFREE"
+      },
+      {
+        "level": 14,
+        "speciesId": "BUTTERFREE"
+      }
+    ],
+    "nite": [
+      {
+        "level": 10,
+        "speciesId": "VENONAT"
+      },
+      {
+        "level": 10,
+        "speciesId": "ODDISH"
+      },
+      {
+        "level": 12,
+        "speciesId": "ODDISH"
+      },
+      {
+        "level": 12,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 10,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 14,
+        "speciesId": "GLOOM"
+      },
+      {
+        "level": 14,
+        "speciesId": "GLOOM"
+      }
+    ]
+  },
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 10,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 5,
+        "speciesId": "GOLDEEN"
+      },
+      {
+        "level": 10,
+        "speciesId": "SEAKING"
+      }
+    ]
+  }
+}

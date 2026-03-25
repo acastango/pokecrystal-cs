@@ -1,0 +1,15 @@
+{
+  "id": "KIMONOGIRL_2",
+  "classId": "KIMONOGIRL",
+  "name": "NAOKO",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "FLAREON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

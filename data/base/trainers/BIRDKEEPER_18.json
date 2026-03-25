@@ -1,0 +1,19 @@
+{
+  "id": "BIRDKEEPER_18",
+  "classId": "BIRDKEEPER",
+  "name": "VANCE",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "PIDGEOTTO"
+    },
+    {
+      "level": 32,
+      "speciesId": "PIDGEOTTO"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

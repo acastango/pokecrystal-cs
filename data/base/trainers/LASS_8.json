@@ -1,0 +1,23 @@
+{
+  "id": "LASS_8",
+  "classId": "LASS",
+  "name": "SHANNON",
+  "party": [
+    {
+      "level": 29,
+      "speciesId": "PARAS"
+    },
+    {
+      "level": 29,
+      "speciesId": "PARAS"
+    },
+    {
+      "level": 32,
+      "speciesId": "PARASECT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

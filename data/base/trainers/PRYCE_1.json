@@ -1,0 +1,41 @@
+{
+  "id": "PRYCE_1",
+  "classId": "PRYCE",
+  "name": "PRYCE",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "SEEL",
+      "moves": [
+        "HEADBUTT",
+        "ICY_WIND",
+        "AURORA_BEAM",
+        "REST"
+      ]
+    },
+    {
+      "level": 29,
+      "speciesId": "DEWGONG",
+      "moves": [
+        "HEADBUTT",
+        "ICY_WIND",
+        "AURORA_BEAM",
+        "REST"
+      ]
+    },
+    {
+      "level": 31,
+      "speciesId": "PILOSWINE",
+      "moves": [
+        "ICY_WIND",
+        "FURY_ATTACK",
+        "MIST",
+        "BLIZZARD"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

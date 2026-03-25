@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_37",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 13,
+        "speciesId": "LEDYBA"
+      },
+      {
+        "level": 14,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 15,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 16,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 15,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 15,
+        "speciesId": "LEDIAN"
+      },
+      {
+        "level": 15,
+        "speciesId": "LEDIAN"
+      }
+    ],
+    "day": [
+      {
+        "level": 13,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 14,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 15,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 16,
+        "speciesId": "GROWLITHE"
+      },
+      {
+        "level": 15,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 15,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 15,
+        "speciesId": "PIDGEY"
+      }
+    ],
+    "nite": [
+      {
+        "level": 13,
+        "speciesId": "SPINARAK"
+      },
+      {
+        "level": 14,
+        "speciesId": "STANTLER"
+      },
+      {
+        "level": 15,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 16,
+        "speciesId": "STANTLER"
+      },
+      {
+        "level": 15,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 15,
+        "speciesId": "ARIADOS"
+      },
+      {
+        "level": 15,
+        "speciesId": "ARIADOS"
+      }
+    ]
+  },
+  "water": null
+}

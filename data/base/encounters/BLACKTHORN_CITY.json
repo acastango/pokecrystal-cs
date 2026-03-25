@@ -1,0 +1,21 @@
+{
+  "mapId": "BLACKTHORN_CITY",
+  "grass": null,
+  "water": {
+    "rate": 4,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 10,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 5,
+        "speciesId": "MAGIKARP"
+      }
+    ]
+  }
+}

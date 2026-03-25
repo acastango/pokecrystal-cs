@@ -1,0 +1,23 @@
+{
+  "id": "CAMPER_8",
+  "classId": "CAMPER",
+  "name": "SID",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "DUGTRIO"
+    },
+    {
+      "level": 29,
+      "speciesId": "PRIMEAPE"
+    },
+    {
+      "level": 29,
+      "speciesId": "POLIWRATH"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

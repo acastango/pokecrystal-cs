@@ -1,0 +1,15 @@
+{
+  "id": "SUPERNERD_1",
+  "classId": "SUPERNERD",
+  "name": "STAN",
+  "party": [
+    {
+      "level": 20,
+      "speciesId": "GRIMER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "FIREBREATHER_6",
+  "classId": "FIREBREATHER",
+  "name": "WALT",
+  "party": [
+    {
+      "level": 11,
+      "speciesId": "MAGMAR"
+    },
+    {
+      "level": 13,
+      "speciesId": "MAGMAR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

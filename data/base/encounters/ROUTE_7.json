@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_7",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 17,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 17,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 18,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 18,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 18,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      }
+    ],
+    "day": [
+      {
+        "level": 17,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 17,
+        "speciesId": "SPEAROW"
+      },
+      {
+        "level": 18,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 18,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 18,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      }
+    ],
+    "nite": [
+      {
+        "level": 17,
+        "speciesId": "MEOWTH"
+      },
+      {
+        "level": 17,
+        "speciesId": "MURKROW"
+      },
+      {
+        "level": 18,
+        "speciesId": "HOUNDOUR"
+      },
+      {
+        "level": 18,
+        "speciesId": "PERSIAN"
+      },
+      {
+        "level": 18,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 16,
+        "speciesId": "ABRA"
+      }
+    ]
+  },
+  "water": null
+}

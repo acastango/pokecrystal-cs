@@ -1,0 +1,32 @@
+{
+  "id": "DITTO",
+  "name": "DITTO",
+  "baseHp": 48,
+  "baseAttack": 48,
+  "baseDefense": 48,
+  "baseSpeed": 48,
+  "baseSpAtk": 48,
+  "baseSpDef": 48,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_DITTO",
+    "EGG_DITTO"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 35,
+  "baseExp": 61,
+  "hatchCycles": 20,
+  "tmHmMoves": [],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TRANSFORM"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "ditto",
+  "cryId": "ditto"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLOWBRO",
+  "name": "SLOWBRO",
+  "baseHp": 95,
+  "baseAttack": 75,
+  "baseDefense": 110,
+  "baseSpeed": 30,
+  "baseSpAtk": 100,
+  "baseSpDef": 80,
+  "type1Id": "WATER",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_WATER_1"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 164,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "FURY_CUTTER",
+    "NIGHTMARE",
+    "SURF",
+    "STRENGTH",
+    "FLASH",
+    "FLAMETHROWER",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "CURSE"
+    },
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 6,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 15,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 20,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 29,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 34,
+      "moveId": "HEADBUTT"
+    },
+    {
+      "level": 37,
+      "moveId": "WITHDRAW"
+    },
+    {
+      "level": 46,
+      "moveId": "AMNESIA"
+    },
+    {
+      "level": 54,
+      "moveId": "PSYCHIC_M"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "slowbro",
+  "cryId": "slowbro"
+}

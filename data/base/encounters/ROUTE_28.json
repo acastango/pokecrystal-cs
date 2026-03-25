@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_28",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 39,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 40,
+        "speciesId": "PONYTA"
+      },
+      {
+        "level": 40,
+        "speciesId": "RAPIDASH"
+      },
+      {
+        "level": 42,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 41,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 43,
+        "speciesId": "DODRIO"
+      },
+      {
+        "level": 43,
+        "speciesId": "DODRIO"
+      }
+    ],
+    "day": [
+      {
+        "level": 39,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 40,
+        "speciesId": "PONYTA"
+      },
+      {
+        "level": 40,
+        "speciesId": "RAPIDASH"
+      },
+      {
+        "level": 42,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 41,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 43,
+        "speciesId": "DODRIO"
+      },
+      {
+        "level": 43,
+        "speciesId": "DODRIO"
+      }
+    ],
+    "nite": [
+      {
+        "level": 39,
+        "speciesId": "TANGELA"
+      },
+      {
+        "level": 40,
+        "speciesId": "POLIWHIRL"
+      },
+      {
+        "level": 40,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 40,
+        "speciesId": "POLIWHIRL"
+      },
+      {
+        "level": 42,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 42,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 42,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 40,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 35,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 40,
+        "speciesId": "POLIWHIRL"
+      }
+    ]
+  }
+}

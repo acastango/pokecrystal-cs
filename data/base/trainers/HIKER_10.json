@@ -1,0 +1,31 @@
+{
+  "id": "HIKER_10",
+  "classId": "HIKER",
+  "name": "TIMOTHY",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "DIGLETT",
+      "moves": [
+        "MAGNITUDE",
+        "DIG",
+        "SAND_ATTACK",
+        "SLASH"
+      ]
+    },
+    {
+      "level": 27,
+      "speciesId": "DUGTRIO",
+      "moves": [
+        "MAGNITUDE",
+        "DIG",
+        "SAND_ATTACK",
+        "SLASH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

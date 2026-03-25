@@ -1,0 +1,27 @@
+{
+  "id": "BLACKBELT_1",
+  "classId": "BLACKBELT",
+  "name": "KENJI",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "ONIX"
+    },
+    {
+      "level": 30,
+      "speciesId": "HITMONLEE"
+    },
+    {
+      "level": 27,
+      "speciesId": "ONIX"
+    },
+    {
+      "level": 32,
+      "speciesId": "MACHOKE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

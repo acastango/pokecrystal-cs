@@ -1,0 +1,31 @@
+{
+  "id": "BURGLAR_2",
+  "classId": "BURGLAR",
+  "name": "EDDIE",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "GROWLITHE",
+      "moves": [
+        "ROAR",
+        "EMBER",
+        "LEER",
+        "TAKE_DOWN"
+      ]
+    },
+    {
+      "level": 24,
+      "speciesId": "KOFFING",
+      "moves": [
+        "TACKLE",
+        "SMOG",
+        "SLUDGE",
+        "SMOKESCREEN"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

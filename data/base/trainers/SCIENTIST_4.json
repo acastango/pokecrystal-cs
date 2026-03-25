@@ -1,0 +1,23 @@
+{
+  "id": "SCIENTIST_4",
+  "classId": "SCIENTIST",
+  "name": "MARC",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 27,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 27,
+      "speciesId": "MAGNEMITE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

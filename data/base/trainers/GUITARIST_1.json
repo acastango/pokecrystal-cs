@@ -1,0 +1,15 @@
+{
+  "id": "GUITARIST_1",
+  "classId": "GUITARIST",
+  "name": "CLYDE",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "ELECTABUZZ"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

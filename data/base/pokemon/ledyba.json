@@ -1,0 +1,105 @@
+{
+  "id": "LEDYBA",
+  "name": "LEDYBA",
+  "baseHp": 40,
+  "baseAttack": 20,
+  "baseDefense": 30,
+  "baseSpeed": 55,
+  "baseSpAtk": 40,
+  "baseSpDef": 80,
+  "type1Id": "BUG",
+  "type2Id": "FLYING",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 255,
+  "baseExp": 54,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DIG",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 8,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 15,
+      "moveId": "COMET_PUNCH"
+    },
+    {
+      "level": 22,
+      "moveId": "LIGHT_SCREEN"
+    },
+    {
+      "level": 22,
+      "moveId": "REFLECT"
+    },
+    {
+      "level": 22,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 29,
+      "moveId": "BATON_PASS"
+    },
+    {
+      "level": 36,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 43,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 50,
+      "moveId": "DOUBLE_EDGE"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "LEDIAN",
+      "param": "18"
+    }
+  ],
+  "eggMoves": [
+    "PSYBEAM",
+    "BIDE",
+    "LIGHT_SCREEN"
+  ],
+  "spriteId": "ledyba",
+  "cryId": "ledyba"
+}

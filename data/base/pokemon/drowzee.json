@@ -1,0 +1,105 @@
+{
+  "id": "DROWZEE",
+  "name": "DROWZEE",
+  "baseHp": 60,
+  "baseAttack": 48,
+  "baseDefense": 45,
+  "baseSpeed": 42,
+  "baseSpAtk": 43,
+  "baseSpDef": 90,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 102,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "THUNDERPUNCH",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "NIGHTMARE",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POUND"
+    },
+    {
+      "level": 1,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 10,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 18,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 25,
+      "moveId": "HEADBUTT"
+    },
+    {
+      "level": 31,
+      "moveId": "POISON_GAS"
+    },
+    {
+      "level": 36,
+      "moveId": "MEDITATE"
+    },
+    {
+      "level": 40,
+      "moveId": "PSYCHIC_M"
+    },
+    {
+      "level": 43,
+      "moveId": "PSYCH_UP"
+    },
+    {
+      "level": 45,
+      "moveId": "FUTURE_SIGHT"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "HYPNO",
+      "param": "26"
+    }
+  ],
+  "eggMoves": [
+    "LIGHT_SCREEN",
+    "BARRIER"
+  ],
+  "spriteId": "drowzee",
+  "cryId": "drowzee"
+}

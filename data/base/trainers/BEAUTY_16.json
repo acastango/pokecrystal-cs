@@ -1,0 +1,31 @@
+{
+  "id": "BEAUTY_16",
+  "classId": "BEAUTY",
+  "name": "VALERIE",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "HOPPIP",
+      "moves": [
+        "SYNTHESIS",
+        "TAIL_WHIP",
+        "TACKLE",
+        "POISONPOWDER"
+      ]
+    },
+    {
+      "level": 17,
+      "speciesId": "SKIPLOOM",
+      "moves": [
+        "SYNTHESIS",
+        "TAIL_WHIP",
+        "TACKLE",
+        "STUN_SPORE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

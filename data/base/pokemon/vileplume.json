@@ -1,0 +1,66 @@
+{
+  "id": "VILEPLUME",
+  "name": "VILEPLUME",
+  "baseHp": 75,
+  "baseAttack": 80,
+  "baseDefense": 85,
+  "baseSpeed": 50,
+  "baseSpAtk": 100,
+  "baseSpDef": 90,
+  "type1Id": "GRASS",
+  "type2Id": "POISON",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 184,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "ABSORB"
+    },
+    {
+      "level": 1,
+      "moveId": "SWEET_SCENT"
+    },
+    {
+      "level": 1,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 1,
+      "moveId": "PETAL_DANCE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "vileplume",
+  "cryId": "vileplume"
+}

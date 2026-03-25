@@ -1,0 +1,19 @@
+{
+  "id": "YOUNGSTER_10",
+  "classId": "YOUNGSTER",
+  "name": "JIMMY",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "RATICATE"
+    },
+    {
+      "level": 33,
+      "speciesId": "ARBOK"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

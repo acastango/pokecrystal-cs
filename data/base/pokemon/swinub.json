@@ -1,0 +1,94 @@
+{
+  "id": "SWINUB",
+  "name": "SWINUB",
+  "baseHp": 50,
+  "baseAttack": 50,
+  "baseDefense": 40,
+  "baseSpeed": 50,
+  "baseSpAtk": 30,
+  "baseSpDef": 30,
+  "type1Id": "ICE",
+  "type2Id": "GROUND",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 225,
+  "baseExp": 78,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "STRENGTH",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 10,
+      "moveId": "POWDER_SNOW"
+    },
+    {
+      "level": 19,
+      "moveId": "ENDURE"
+    },
+    {
+      "level": 28,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 37,
+      "moveId": "MIST"
+    },
+    {
+      "level": 46,
+      "moveId": "BLIZZARD"
+    },
+    {
+      "level": 55,
+      "moveId": "AMNESIA"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "PILOSWINE",
+      "param": "33"
+    }
+  ],
+  "eggMoves": [
+    "TAKE_DOWN",
+    "BITE",
+    "BODY_SLAM",
+    "ROCK_SLIDE",
+    "ANCIENTPOWER"
+  ],
+  "spriteId": "swinub",
+  "cryId": "swinub"
+}

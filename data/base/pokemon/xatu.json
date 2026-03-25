@@ -1,0 +1,87 @@
+{
+  "id": "XATU",
+  "name": "XATU",
+  "baseHp": 65,
+  "baseAttack": 75,
+  "baseDefense": 70,
+  "baseSpeed": 95,
+  "baseSpAtk": 95,
+  "baseSpDef": 70,
+  "type1Id": "PSYCHIC_TYPE",
+  "type2Id": "FLYING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_FLYING",
+    "EGG_FLYING"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 171,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "FLY",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "PECK"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "NIGHT_SHADE"
+    },
+    {
+      "level": 10,
+      "moveId": "NIGHT_SHADE"
+    },
+    {
+      "level": 20,
+      "moveId": "TELEPORT"
+    },
+    {
+      "level": 35,
+      "moveId": "FUTURE_SIGHT"
+    },
+    {
+      "level": 50,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 65,
+      "moveId": "PSYCHIC_M"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "xatu",
+  "cryId": "xatu"
+}

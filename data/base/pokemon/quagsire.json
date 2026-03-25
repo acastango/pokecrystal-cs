@@ -1,0 +1,93 @@
+{
+  "id": "QUAGSIRE",
+  "name": "QUAGSIRE",
+  "baseHp": 95,
+  "baseAttack": 85,
+  "baseDefense": 85,
+  "baseSpeed": 35,
+  "baseSpAtk": 65,
+  "baseSpDef": 65,
+  "type1Id": "WATER",
+  "type2Id": "GROUND",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 90,
+  "baseExp": 137,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "SANDSTORM",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "STRENGTH",
+    "FLASH",
+    "WHIRLPOOL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 11,
+      "moveId": "SLAM"
+    },
+    {
+      "level": 23,
+      "moveId": "AMNESIA"
+    },
+    {
+      "level": 35,
+      "moveId": "EARTHQUAKE"
+    },
+    {
+      "level": 47,
+      "moveId": "RAIN_DANCE"
+    },
+    {
+      "level": 59,
+      "moveId": "MIST"
+    },
+    {
+      "level": 59,
+      "moveId": "HAZE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "quagsire",
+  "cryId": "quagsire"
+}

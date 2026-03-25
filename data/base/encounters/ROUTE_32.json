@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_32",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 4,
+        "speciesId": "EKANS"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 6,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 7,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOPPIP"
+      }
+    ],
+    "day": [
+      {
+        "level": 4,
+        "speciesId": "EKANS"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 6,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 7,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOPPIP"
+      }
+    ],
+    "nite": [
+      {
+        "level": 4,
+        "speciesId": "WOOPER"
+      },
+      {
+        "level": 5,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 7,
+        "speciesId": "BELLSPROUT"
+      },
+      {
+        "level": 6,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 7,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 7,
+        "speciesId": "GASTLY"
+      },
+      {
+        "level": 7,
+        "speciesId": "GASTLY"
+      }
+    ]
+  },
+  "water": {
+    "rate": 6,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 20,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 20,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

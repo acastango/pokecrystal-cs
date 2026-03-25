@@ -1,0 +1,94 @@
+{
+  "id": "HITMONCHAN",
+  "name": "HITMONCHAN",
+  "baseHp": 50,
+  "baseAttack": 105,
+  "baseDefense": 79,
+  "baseSpeed": 76,
+  "baseSpAtk": 35,
+  "baseSpDef": 110,
+  "type1Id": "FIGHTING",
+  "type2Id": "FIGHTING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 0.0,
+  "catchRate": 45,
+  "baseExp": 140,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "COMET_PUNCH"
+    },
+    {
+      "level": 7,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 13,
+      "moveId": "PURSUIT"
+    },
+    {
+      "level": 26,
+      "moveId": "THUNDERPUNCH"
+    },
+    {
+      "level": 26,
+      "moveId": "ICE_PUNCH"
+    },
+    {
+      "level": 26,
+      "moveId": "FIRE_PUNCH"
+    },
+    {
+      "level": 32,
+      "moveId": "MACH_PUNCH"
+    },
+    {
+      "level": 38,
+      "moveId": "MEGA_PUNCH"
+    },
+    {
+      "level": 44,
+      "moveId": "DETECT"
+    },
+    {
+      "level": 50,
+      "moveId": "COUNTER"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "hitmonchan",
+  "cryId": "hitmonchan"
+}

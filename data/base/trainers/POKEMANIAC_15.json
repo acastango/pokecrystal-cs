@@ -1,0 +1,19 @@
+{
+  "id": "POKEMANIAC_15",
+  "classId": "POKEMANIAC",
+  "name": "MILLER",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "NIDOKING"
+    },
+    {
+      "level": 17,
+      "speciesId": "NIDOQUEEN"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

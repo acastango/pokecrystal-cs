@@ -1,0 +1,61 @@
+{
+  "id": "KAREN_1",
+  "classId": "KAREN",
+  "name": "KAREN",
+  "party": [
+    {
+      "level": 42,
+      "speciesId": "UMBREON",
+      "moves": [
+        "SAND_ATTACK",
+        "CONFUSE_RAY",
+        "FAINT_ATTACK",
+        "MEAN_LOOK"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "VILEPLUME",
+      "moves": [
+        "STUN_SPORE",
+        "ACID",
+        "MOONLIGHT",
+        "PETAL_DANCE"
+      ]
+    },
+    {
+      "level": 45,
+      "speciesId": "GENGAR",
+      "moves": [
+        "LICK",
+        "SPITE",
+        "CURSE",
+        "DESTINY_BOND"
+      ]
+    },
+    {
+      "level": 44,
+      "speciesId": "MURKROW",
+      "moves": [
+        "QUICK_ATTACK",
+        "WHIRLWIND",
+        "PURSUIT",
+        "FAINT_ATTACK"
+      ]
+    },
+    {
+      "level": 47,
+      "speciesId": "HOUNDOOM",
+      "moves": [
+        "ROAR",
+        "PURSUIT",
+        "FLAMETHROWER",
+        "CRUNCH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

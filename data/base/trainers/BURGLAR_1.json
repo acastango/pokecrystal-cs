@@ -1,0 +1,23 @@
+{
+  "id": "BURGLAR_1",
+  "classId": "BURGLAR",
+  "name": "DUNCAN",
+  "party": [
+    {
+      "level": 23,
+      "speciesId": "KOFFING"
+    },
+    {
+      "level": 25,
+      "speciesId": "MAGMAR"
+    },
+    {
+      "level": 23,
+      "speciesId": "KOFFING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

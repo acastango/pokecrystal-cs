@@ -1,0 +1,85 @@
+{
+  "id": "MURKROW",
+  "name": "MURKROW",
+  "baseHp": 60,
+  "baseAttack": 85,
+  "baseDefense": 42,
+  "baseSpeed": 91,
+  "baseSpAtk": 85,
+  "baseSpDef": 42,
+  "type1Id": "DARK",
+  "type2Id": "FLYING",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_FLYING",
+    "EGG_FLYING"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 30,
+  "baseExp": 107,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "ICY_WIND",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STEEL_WING",
+    "NIGHTMARE",
+    "FLY"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "PECK"
+    },
+    {
+      "level": 11,
+      "moveId": "PURSUIT"
+    },
+    {
+      "level": 16,
+      "moveId": "HAZE"
+    },
+    {
+      "level": 26,
+      "moveId": "NIGHT_SHADE"
+    },
+    {
+      "level": 31,
+      "moveId": "FAINT_ATTACK"
+    },
+    {
+      "level": 41,
+      "moveId": "MEAN_LOOK"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "WHIRLWIND",
+    "DRILL_PECK",
+    "QUICK_ATTACK",
+    "MIRROR_MOVE",
+    "WING_ATTACK",
+    "SKY_ATTACK"
+  ],
+  "spriteId": "murkrow",
+  "cryId": "murkrow"
+}

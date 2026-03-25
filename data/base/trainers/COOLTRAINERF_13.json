@@ -1,0 +1,23 @@
+{
+  "id": "COOLTRAINERF_13",
+  "classId": "COOLTRAINERF",
+  "name": "CAROL",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "ELECTRODE"
+    },
+    {
+      "level": 35,
+      "speciesId": "STARMIE"
+    },
+    {
+      "level": 35,
+      "speciesId": "NINETALES"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,15 @@
+{
+  "id": "CAMPER_1",
+  "classId": "CAMPER",
+  "name": "ROLAND",
+  "party": [
+    {
+      "level": 9,
+      "speciesId": "NIDORAN_M"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

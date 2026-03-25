@@ -1,0 +1,31 @@
+{
+  "id": "BIRDKEEPER_4",
+  "classId": "BIRDKEEPER",
+  "name": "THEO",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "PIDGEY"
+    },
+    {
+      "level": 15,
+      "speciesId": "PIDGEY"
+    },
+    {
+      "level": 19,
+      "speciesId": "PIDGEY"
+    },
+    {
+      "level": 15,
+      "speciesId": "PIDGEY"
+    },
+    {
+      "level": 15,
+      "speciesId": "PIDGEY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

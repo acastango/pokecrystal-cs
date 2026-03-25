@@ -1,0 +1,19 @@
+{
+  "id": "SAGE_10",
+  "classId": "SAGE",
+  "name": "GAKU",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "NOCTOWL"
+    },
+    {
+      "level": 32,
+      "speciesId": "FLAREON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

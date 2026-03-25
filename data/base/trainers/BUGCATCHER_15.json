@@ -1,0 +1,51 @@
+{
+  "id": "BUGCATCHER_15",
+  "classId": "BUGCATCHER",
+  "name": "WADE",
+  "party": [
+    {
+      "level": 24,
+      "speciesId": "BUTTERFREE",
+      "moves": [
+        "CONFUSION",
+        "POISONPOWDER",
+        "SUPERSONIC",
+        "WHIRLWIND"
+      ]
+    },
+    {
+      "level": 24,
+      "speciesId": "BUTTERFREE",
+      "moves": [
+        "CONFUSION",
+        "STUN_SPORE",
+        "SUPERSONIC",
+        "WHIRLWIND"
+      ]
+    },
+    {
+      "level": 25,
+      "speciesId": "BEEDRILL",
+      "moves": [
+        "FURY_ATTACK",
+        "FOCUS_ENERGY",
+        "TWINEEDLE",
+        "RAGE"
+      ]
+    },
+    {
+      "level": 24,
+      "speciesId": "BUTTERFREE",
+      "moves": [
+        "CONFUSION",
+        "SLEEP_POWDER",
+        "SUPERSONIC",
+        "WHIRLWIND"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "POKEMANIAC_11",
+  "classId": "POKEMANIAC",
+  "name": "ISSAC",
+  "party": [
+    {
+      "level": 12,
+      "speciesId": "LICKITUNG",
+      "moves": [
+        "LICK",
+        "SUPERSONIC",
+        "CUT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

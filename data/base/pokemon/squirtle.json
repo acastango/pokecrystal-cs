@@ -1,0 +1,116 @@
+{
+  "id": "SQUIRTLE",
+  "name": "SQUIRTLE",
+  "baseHp": 44,
+  "baseAttack": 48,
+  "baseDefense": 65,
+  "baseSpeed": 43,
+  "baseSpAtk": 50,
+  "baseSpDef": 64,
+  "type1Id": "WATER",
+  "type2Id": "WATER",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_WATER_1"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 66,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "STRENGTH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 4,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 7,
+      "moveId": "BUBBLE"
+    },
+    {
+      "level": 10,
+      "moveId": "WITHDRAW"
+    },
+    {
+      "level": 13,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 18,
+      "moveId": "BITE"
+    },
+    {
+      "level": 23,
+      "moveId": "RAPID_SPIN"
+    },
+    {
+      "level": 28,
+      "moveId": "PROTECT"
+    },
+    {
+      "level": 33,
+      "moveId": "RAIN_DANCE"
+    },
+    {
+      "level": 40,
+      "moveId": "SKULL_BASH"
+    },
+    {
+      "level": 47,
+      "moveId": "HYDRO_PUMP"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "WARTORTLE",
+      "param": "16"
+    }
+  ],
+  "eggMoves": [
+    "MIRROR_COAT",
+    "HAZE",
+    "MIST",
+    "CONFUSION",
+    "FORESIGHT",
+    "FLAIL"
+  ],
+  "spriteId": "squirtle",
+  "cryId": "squirtle"
+}

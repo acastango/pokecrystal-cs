@@ -1,0 +1,23 @@
+{
+  "id": "BEAUTY_14",
+  "classId": "BEAUTY",
+  "name": "JULIA",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "PARAS"
+    },
+    {
+      "level": 32,
+      "speciesId": "EXEGGCUTE"
+    },
+    {
+      "level": 35,
+      "speciesId": "PARASECT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

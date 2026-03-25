@@ -1,0 +1,31 @@
+{
+  "id": "BIRDKEEPER_19",
+  "classId": "BIRDKEEPER",
+  "name": "VANCE",
+  "party": [
+    {
+      "level": 38,
+      "speciesId": "PIDGEOT",
+      "moves": [
+        "TOXIC",
+        "QUICK_ATTACK",
+        "WHIRLWIND",
+        "FLY"
+      ]
+    },
+    {
+      "level": 38,
+      "speciesId": "PIDGEOT",
+      "moves": [
+        "SWIFT",
+        "DETECT",
+        "STEEL_WING",
+        "FLY"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

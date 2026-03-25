@@ -1,0 +1,76 @@
+{
+  "id": "EXEGGUTOR",
+  "name": "EXEGGUTOR",
+  "baseHp": 95,
+  "baseAttack": 95,
+  "baseDefense": 85,
+  "baseSpeed": 55,
+  "baseSpAtk": 125,
+  "baseSpDef": 65,
+  "type1Id": "GRASS",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 212,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "STRENGTH",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BARRAGE"
+    },
+    {
+      "level": 1,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 1,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 19,
+      "moveId": "STOMP"
+    },
+    {
+      "level": 31,
+      "moveId": "EGG_BOMB"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "exeggutor",
+  "cryId": "exeggutor"
+}

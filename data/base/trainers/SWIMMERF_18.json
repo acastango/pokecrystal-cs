@@ -1,0 +1,15 @@
+{
+  "id": "SWIMMERF_18",
+  "classId": "SWIMMERF",
+  "name": "DIANA",
+  "party": [
+    {
+      "level": 37,
+      "speciesId": "GOLDUCK"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

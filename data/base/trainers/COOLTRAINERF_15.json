@@ -1,0 +1,15 @@
+{
+  "id": "COOLTRAINERF_15",
+  "classId": "COOLTRAINERF",
+  "name": "EMMA",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "POLIWHIRL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

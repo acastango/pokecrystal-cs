@@ -1,0 +1,107 @@
+{
+  "id": "SKIPLOOM",
+  "name": "SKIPLOOM",
+  "baseHp": 55,
+  "baseAttack": 45,
+  "baseDefense": 50,
+  "baseSpeed": 80,
+  "baseSpAtk": 45,
+  "baseSpDef": 65,
+  "type1Id": "GRASS",
+  "type2Id": "FLYING",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_FAIRY",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 120,
+  "baseExp": 136,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SPLASH"
+    },
+    {
+      "level": 1,
+      "moveId": "SYNTHESIS"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 5,
+      "moveId": "SYNTHESIS"
+    },
+    {
+      "level": 5,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 10,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 13,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 15,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 17,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 22,
+      "moveId": "LEECH_SEED"
+    },
+    {
+      "level": 29,
+      "moveId": "COTTON_SPORE"
+    },
+    {
+      "level": 36,
+      "moveId": "MEGA_DRAIN"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "JUMPLUFF",
+      "param": "27"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "skiploom",
+  "cryId": "skiploom"
+}

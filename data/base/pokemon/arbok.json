@@ -1,0 +1,91 @@
+{
+  "id": "ARBOK",
+  "name": "ARBOK",
+  "baseHp": 60,
+  "baseAttack": 85,
+  "baseDefense": 69,
+  "baseSpeed": 80,
+  "baseSpAtk": 65,
+  "baseSpDef": 79,
+  "type1Id": "POISON",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_DRAGON"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 90,
+  "baseExp": 147,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "WRAP"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "POISON_STING"
+    },
+    {
+      "level": 1,
+      "moveId": "BITE"
+    },
+    {
+      "level": 9,
+      "moveId": "POISON_STING"
+    },
+    {
+      "level": 15,
+      "moveId": "BITE"
+    },
+    {
+      "level": 25,
+      "moveId": "GLARE"
+    },
+    {
+      "level": 33,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 43,
+      "moveId": "ACID"
+    },
+    {
+      "level": 51,
+      "moveId": "HAZE"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "arbok",
+  "cryId": "arbok"
+}

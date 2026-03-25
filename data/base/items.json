@@ -1,0 +1,2045 @@
+[
+  {
+    "id": "MASTER_BALL",
+    "name": "MASTER BALL",
+    "pocket": "Balls",
+    "price": 0,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ULTRA_BALL",
+    "name": "ULTRA BALL",
+    "pocket": "Balls",
+    "price": 1200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BRIGHTPOWDER",
+    "name": "BRIGHTPOWDER",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 16,
+    "effectKey": "HELD_BRIGHTPOWDER",
+    "flingPower": 0
+  },
+  {
+    "id": "GREAT_BALL",
+    "name": "GREAT BALL",
+    "pocket": "Balls",
+    "price": 600,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "POKE_BALL",
+    "name": "# BALL",
+    "pocket": "Balls",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TOWN_MAP",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BICYCLE",
+    "name": "BICYCLE",
+    "pocket": "KeyItems",
+    "price": 0,
+    "flags": 1,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MOON_STONE",
+    "name": "MOON STONE",
+    "pocket": "Items",
+    "price": 0,
+    "flags": 5,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ANTIDOTE",
+    "name": "ANTIDOTE",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BURN_HEAL",
+    "name": "BURN HEAL",
+    "pocket": "Items",
+    "price": 250,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ICE_HEAL",
+    "name": "ICE HEAL",
+    "pocket": "Items",
+    "price": 250,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "AWAKENING",
+    "name": "AWAKENING",
+    "pocket": "Items",
+    "price": 250,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "PARLYZ_HEAL",
+    "name": "PARLYZ HEAL",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "HYPER_POTION",
+    "name": "FULL RESTORE",
+    "pocket": "Items",
+    "price": 1200,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SUPER_POTION",
+    "name": "MAX POTION",
+    "pocket": "Items",
+    "price": 700,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "POTION",
+    "name": "HYPER POTION",
+    "pocket": "Items",
+    "price": 300,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ESCAPE_ROPE",
+    "name": "SUPER POTION",
+    "pocket": "Items",
+    "price": 550,
+    "flags": 17,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "REPEL",
+    "name": "POTION",
+    "pocket": "Items",
+    "price": 350,
+    "flags": 17,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "FIRE_STONE",
+    "name": "ESCAPE ROPE",
+    "pocket": "Items",
+    "price": 2100,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "THUNDERSTONE",
+    "name": "REPEL",
+    "pocket": "Items",
+    "price": 2100,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "WATER_STONE",
+    "name": "MAX ELIXER",
+    "pocket": "Items",
+    "price": 2100,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_19",
+    "name": "FIRE STONE",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "HP_UP",
+    "name": "THUNDERSTONE",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "PROTEIN",
+    "name": "WATER STONE",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "IRON",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "CARBOS",
+    "name": "HP UP",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LUCKY_PUNCH",
+    "name": "PROTEIN",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "CALCIUM",
+    "name": "IRON",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "RARE_CANDY",
+    "name": "CARBOS",
+    "pocket": "Items",
+    "price": 4800,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "X_ACCURACY",
+    "name": "LUCKY PUNCH",
+    "pocket": "Items",
+    "price": 950,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LEAF_STONE",
+    "name": "CALCIUM",
+    "pocket": "Items",
+    "price": 2100,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "METAL_POWDER",
+    "name": "RARE CANDY",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 16,
+    "effectKey": "HELD_METAL_POWDER",
+    "flingPower": 0
+  },
+  {
+    "id": "NUGGET",
+    "name": "X ACCURACY",
+    "pocket": "Items",
+    "price": 10000,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "POKE_DOLL",
+    "name": "LEAF STONE",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "FULL_HEAL",
+    "name": "METAL POWDER",
+    "pocket": "Items",
+    "price": 600,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "REVIVE",
+    "name": "NUGGET",
+    "pocket": "Items",
+    "price": 1500,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MAX_REVIVE",
+    "name": "# DOLL",
+    "pocket": "Items",
+    "price": 4000,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "GUARD_SPEC",
+    "name": "FULL HEAL",
+    "pocket": "Items",
+    "price": 700,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SUPER_REPEL",
+    "name": "REVIVE",
+    "pocket": "Items",
+    "price": 500,
+    "flags": 17,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MAX_REPEL",
+    "name": "MAX REVIVE",
+    "pocket": "Items",
+    "price": 700,
+    "flags": 17,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "DIRE_HIT",
+    "name": "GUARD SPEC.",
+    "pocket": "Items",
+    "price": 650,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_2D",
+    "name": "SUPER REPEL",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "FRESH_WATER",
+    "name": "MAX REPEL",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SODA_POP",
+    "name": "DIRE HIT",
+    "pocket": "Items",
+    "price": 300,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LEMONADE",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 350,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "X_ATTACK",
+    "name": "FRESH WATER",
+    "pocket": "Items",
+    "price": 500,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_32",
+    "name": "SODA POP",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "X_DEFEND",
+    "name": "LEMONADE",
+    "pocket": "Items",
+    "price": 550,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "X_SPEED",
+    "name": "X ATTACK",
+    "pocket": "Items",
+    "price": 350,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "X_SPECIAL",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 350,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEMFINDER",
+    "name": "X DEFEND",
+    "pocket": "KeyItems",
+    "price": 0,
+    "flags": 1,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "POKE_FLUTE",
+    "name": "X SPEED",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "EXP_SHARE",
+    "name": "X SPECIAL",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "OLD_ROD",
+    "name": "COIN CASE",
+    "pocket": "KeyItems",
+    "price": 0,
+    "flags": 1,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "GOOD_ROD",
+    "name": "ITEMFINDER",
+    "pocket": "KeyItems",
+    "price": 0,
+    "flags": 1,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SILVER_LEAF",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SUPER_ROD",
+    "name": "EXP.SHARE",
+    "pocket": "KeyItems",
+    "price": 0,
+    "flags": 1,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "PP_UP",
+    "name": "OLD ROD",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ETHER",
+    "name": "GOOD ROD",
+    "pocket": "Items",
+    "price": 1200,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ELIXER",
+    "name": "SILVER LEAF",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MOOMOO_MILK",
+    "name": "SUPER ROD",
+    "pocket": "Items",
+    "price": 500,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "QUICK_CLAW",
+    "name": "PP UP",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_QUICK_CLAW",
+    "flingPower": 0
+  },
+  {
+    "id": "PSNCUREBERRY",
+    "name": "ETHER",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 23,
+    "effectKey": "HELD_HEAL_POISON",
+    "flingPower": 0
+  },
+  {
+    "id": "GOLD_LEAF",
+    "name": "MAX ETHER",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SOFT_SAND",
+    "name": "ELIXER",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_GROUND_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "SHARP_BEAK",
+    "name": "RED SCALE",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_FLYING_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "PRZCUREBERRY",
+    "name": "SECRETPOTION",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 23,
+    "effectKey": "HELD_HEAL_PARALYZE",
+    "flingPower": 0
+  },
+  {
+    "id": "BURNT_BERRY",
+    "name": "S.S.TICKET",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 23,
+    "effectKey": "HELD_HEAL_FREEZE",
+    "flingPower": 0
+  },
+  {
+    "id": "ICE_BERRY",
+    "name": "MYSTERY EGG",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 23,
+    "effectKey": "HELD_HEAL_BURN",
+    "flingPower": 0
+  },
+  {
+    "id": "POISON_BARB",
+    "name": "CLEAR BELL",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_POISON_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "KINGS_ROCK",
+    "name": "SILVER WING",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_FLINCH",
+    "flingPower": 0
+  },
+  {
+    "id": "BITTER_BERRY",
+    "name": "MOOMOO MILK",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 22,
+    "effectKey": "HELD_HEAL_CONFUSION",
+    "flingPower": 0
+  },
+  {
+    "id": "MINT_BERRY",
+    "name": "QUICK CLAW",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 23,
+    "effectKey": "HELD_HEAL_SLEEP",
+    "flingPower": 0
+  },
+  {
+    "id": "RED_APRICORN",
+    "name": "PSNCUREBERRY",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TINYMUSHROOM",
+    "name": "GOLD LEAF",
+    "pocket": "Items",
+    "price": 500,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BIG_MUSHROOM",
+    "name": "SOFT SAND",
+    "pocket": "Items",
+    "price": 5000,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SILVERPOWDER",
+    "name": "SHARP BEAK",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_BUG_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "BLU_APRICORN",
+    "name": "PRZCUREBERRY",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_5A",
+    "name": "BURNT BERRY",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "AMULET_COIN",
+    "name": "ICE BERRY",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_AMULET_COIN",
+    "flingPower": 0
+  },
+  {
+    "id": "YLW_APRICORN",
+    "name": "POISON BARB",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "GRN_APRICORN",
+    "name": "KING'S ROCK",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "CLEANSE_TAG",
+    "name": "BITTER BERRY",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_CLEANSE_TAG",
+    "flingPower": 0
+  },
+  {
+    "id": "MYSTIC_WATER",
+    "name": "MINT BERRY",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_WATER_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "TWISTEDSPOON",
+    "name": "RED APRICORN",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_PSYCHIC_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "WHT_APRICORN",
+    "name": "TINYMUSHROOM",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BLACKBELT_I",
+    "name": "BIG MUSHROOM",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_FIGHTING_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "BLK_APRICORN",
+    "name": "SILVERPOWDER",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_64",
+    "name": "BLU APRICORN",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "PNK_APRICORN",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BLACKGLASSES",
+    "name": "AMULET COIN",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_DARK_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "SLOWPOKETAIL",
+    "name": "YLW APRICORN",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "PINK_BOW",
+    "name": "GRN APRICORN",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_NORMAL_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "STICK",
+    "name": "CLEANSE TAG",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SMOKE_BALL",
+    "name": "MYSTIC WATER",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_ESCAPE",
+    "flingPower": 0
+  },
+  {
+    "id": "NEVERMELTICE",
+    "name": "TWISTEDSPOON",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_ICE_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "MAGNET",
+    "name": "WHT APRICORN",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_ELECTRIC_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "MIRACLEBERRY",
+    "name": "BLACKBELT",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 23,
+    "effectKey": "HELD_HEAL_STATUS",
+    "flingPower": 0
+  },
+  {
+    "id": "PEARL",
+    "name": "BLK APRICORN",
+    "pocket": "Items",
+    "price": 1400,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BIG_PEARL",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 7500,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "EVERSTONE",
+    "name": "PNK APRICORN",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SPELL_TAG",
+    "name": "BLACKGLASSES",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_GHOST_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "RAGECANDYBAR",
+    "name": "SLOWPOKETAIL",
+    "pocket": "Items",
+    "price": 300,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MIRACLE_SEED",
+    "name": "PINK BOW",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_GRASS_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "THICK_CLUB",
+    "name": "STICK",
+    "pocket": "Items",
+    "price": 500,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "FOCUS_BAND",
+    "name": "SMOKE BALL",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_FOCUS_BAND",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_78",
+    "name": "NEVERMELTICE",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ENERGYPOWDER",
+    "name": "MAGNET",
+    "pocket": "Items",
+    "price": 500,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ENERGY_ROOT",
+    "name": "MIRACLEBERRY",
+    "pocket": "Items",
+    "price": 800,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "HEAL_POWDER",
+    "name": "PEARL",
+    "pocket": "Items",
+    "price": 450,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "REVIVAL_HERB",
+    "name": "BIG PEARL",
+    "pocket": "Items",
+    "price": 2800,
+    "flags": 23,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "HARD_STONE",
+    "name": "EVERSTONE",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_ROCK_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "LUCKY_EGG",
+    "name": "SPELL TAG",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "STARDUST",
+    "name": "RAGECANDYBAR",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "STAR_PIECE",
+    "name": "GS BALL",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_87",
+    "name": "BLUE CARD",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_88",
+    "name": "MIRACLE SEED",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_89",
+    "name": "THICK CLUB",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "CHARCOAL",
+    "name": "FOCUS BAND",
+    "pocket": "Items",
+    "price": 9800,
+    "flags": 16,
+    "effectKey": "HELD_FIRE_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "BERRY_JUICE",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 23,
+    "effectKey": "HELD_BERRY",
+    "flingPower": 0
+  },
+  {
+    "id": "SCOPE_LENS",
+    "name": "ENERGYPOWDER",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_CRITICAL_UP",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_8D",
+    "name": "ENERGY ROOT",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_8E",
+    "name": "HEAL POWDER",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "METAL_COAT",
+    "name": "REVIVAL HERB",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_STEEL_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "DRAGON_FANG",
+    "name": "HARD STONE",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_91",
+    "name": "LUCKY EGG",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LEFTOVERS",
+    "name": "CARD KEY",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_LEFTOVERS",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_93",
+    "name": "MACHINE PART",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_94",
+    "name": "EGG TICKET",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_95",
+    "name": "LOST ITEM",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "DRAGON_SCALE",
+    "name": "STARDUST",
+    "pocket": "Items",
+    "price": 2100,
+    "flags": 16,
+    "effectKey": "HELD_DRAGON_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "BERSERK_GENE",
+    "name": "STAR PIECE",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_99",
+    "name": "BASEMENT KEY",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_9A",
+    "name": "PASS",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_9B",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SACRED_ASH",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 200,
+    "flags": 17,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "HEAVY_BALL",
+    "name": "TERU-SAMA",
+    "pocket": "Balls",
+    "price": 150,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "FLOWER_MAIL",
+    "name": "CHARCOAL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LEVEL_BALL",
+    "name": "BERRY JUICE",
+    "pocket": "Balls",
+    "price": 150,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LURE_BALL",
+    "name": "SCOPE LENS",
+    "pocket": "Balls",
+    "price": 150,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "FAST_BALL",
+    "name": "TERU-SAMA",
+    "pocket": "Balls",
+    "price": 150,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_A2",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LIGHT_BALL",
+    "name": "METAL COAT",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "FRIEND_BALL",
+    "name": "DRAGON FANG",
+    "pocket": "Balls",
+    "price": 150,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MOON_BALL",
+    "name": "TERU-SAMA",
+    "pocket": "Balls",
+    "price": 150,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LOVE_BALL",
+    "name": "LEFTOVERS",
+    "pocket": "Balls",
+    "price": 150,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "NORMAL_BOX",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 17,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "GORGEOUS_BOX",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 17,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SUN_STONE",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 2100,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "POLKADOT_BOW",
+    "name": "MYSTERYBERRY",
+    "pocket": "Items",
+    "price": 100,
+    "flags": 16,
+    "effectKey": "HELD_NORMAL_BOOST",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_AB",
+    "name": "DRAGON SCALE",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "UP_GRADE",
+    "name": "BERSERK GENE",
+    "pocket": "Items",
+    "price": 2100,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BERRY",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 23,
+    "effectKey": "HELD_BERRY",
+    "flingPower": 0
+  },
+  {
+    "id": "GOLD_BERRY",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 10,
+    "flags": 23,
+    "effectKey": "HELD_BERRY",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_B0",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "PARK_BALL",
+    "name": "SACRED ASH",
+    "pocket": "Balls",
+    "price": 0,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_B3",
+    "name": "HEAVY BALL",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BRICK_PIECE",
+    "name": "FLOWER MAIL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "SURF_MAIL",
+    "name": "LEVEL BALL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LITEBLUEMAIL",
+    "name": "LURE BALL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "PORTRAITMAIL",
+    "name": "FAST BALL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "LOVELY_MAIL",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "EON_MAIL",
+    "name": "LIGHT BALL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MORPH_MAIL",
+    "name": "FRIEND BALL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "BLUESKY_MAIL",
+    "name": "MOON BALL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MUSIC_MAIL",
+    "name": "LOVE BALL",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "MIRAGE_MAIL",
+    "name": "NORMAL BOX",
+    "pocket": "Items",
+    "price": 50,
+    "flags": 16,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_BE",
+    "name": "GORGEOUS BOX",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM01",
+    "name": "SUN STONE",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM02",
+    "name": "POLKADOT BOW",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM03",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM04",
+    "name": "UP-GRADE",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_C3",
+    "name": "BERRY",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM05",
+    "name": "GOLD BERRY",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM06",
+    "name": "SQUIRTBOTTLE",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM07",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM08",
+    "name": "PARK BALL",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM09",
+    "name": "RAINBOW WING",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM10",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM11",
+    "name": "BRICK PIECE",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM12",
+    "name": "SURF MAIL",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM13",
+    "name": "LITEBLUEMAIL",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM14",
+    "name": "PORTRAITMAIL",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM15",
+    "name": "LOVELY MAIL",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM16",
+    "name": "EON MAIL",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM17",
+    "name": "MORPH MAIL",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM18",
+    "name": "BLUESKY MAIL",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM19",
+    "name": "MUSIC MAIL",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM20",
+    "name": "MIRAGE MAIL",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM21",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM22",
+    "name": "TM01",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM23",
+    "name": "TM02",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM24",
+    "name": "TM03",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM25",
+    "name": "TM04",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM26",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM27",
+    "name": "TM05",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM28",
+    "name": "TM06",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_DC",
+    "name": "TM07",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM29",
+    "name": "TM08",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM30",
+    "name": "TM09",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM31",
+    "name": "TM10",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM32",
+    "name": "TM11",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM33",
+    "name": "TM12",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM34",
+    "name": "TM13",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM35",
+    "name": "TM14",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM36",
+    "name": "TM15",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM37",
+    "name": "TM16",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM38",
+    "name": "TM17",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM39",
+    "name": "TM18",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM40",
+    "name": "TM19",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM41",
+    "name": "TM20",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM42",
+    "name": "TM21",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM43",
+    "name": "TM22",
+    "pocket": "Items",
+    "price": 1000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM44",
+    "name": "TM23",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM45",
+    "name": "TM24",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM46",
+    "name": "TM25",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM47",
+    "name": "TM26",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM48",
+    "name": "TM27",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM49",
+    "name": "TM28",
+    "pocket": "Items",
+    "price": 3000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "TM50",
+    "name": "TERU-SAMA",
+    "pocket": "Items",
+    "price": 2000,
+    "flags": 21,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_FA",
+    "name": "TM29",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_222",
+    "name": "TM30",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_223",
+    "name": "TM31",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_224",
+    "name": "TM32",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_225",
+    "name": "TM33",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_226",
+    "name": "TM34",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  },
+  {
+    "id": "ITEM_227",
+    "name": "TM35",
+    "pocket": "Items",
+    "price": -1,
+    "flags": 0,
+    "effectKey": "HELD_NONE",
+    "flingPower": 0
+  }
+]

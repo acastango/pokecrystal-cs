@@ -1,0 +1,19 @@
+{
+  "id": "SCHOOLBOY_14",
+  "classId": "SCHOOLBOY",
+  "name": "JACK",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "GLOOM"
+    },
+    {
+      "level": 31,
+      "speciesId": "ELECTRODE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,3 @@
+[submodule "pokecrystal-master"]
+	path = pokecrystal-master
+	url = https://github.com/pret/pokecrystal

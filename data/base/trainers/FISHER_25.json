@@ -1,0 +1,41 @@
+{
+  "id": "FISHER_25",
+  "classId": "FISHER",
+  "name": "TULLY",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "SEAKING",
+      "moves": [
+        "SUPERSONIC",
+        "RAIN_DANCE",
+        "WATERFALL",
+        "FURY_ATTACK"
+      ]
+    },
+    {
+      "level": 34,
+      "speciesId": "SEAKING",
+      "moves": [
+        "SUPERSONIC",
+        "RAIN_DANCE",
+        "WATERFALL",
+        "FURY_ATTACK"
+      ]
+    },
+    {
+      "level": 37,
+      "speciesId": "QWILFISH",
+      "moves": [
+        "ROLLOUT",
+        "SURF",
+        "PIN_MISSILE",
+        "TAKE_DOWN"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

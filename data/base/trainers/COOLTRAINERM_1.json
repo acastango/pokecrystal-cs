@@ -1,0 +1,41 @@
+{
+  "id": "COOLTRAINERM_1",
+  "classId": "COOLTRAINERM",
+  "name": "NICK",
+  "party": [
+    {
+      "level": 26,
+      "speciesId": "CHARMANDER",
+      "moves": [
+        "EMBER",
+        "SMOKESCREEN",
+        "RAGE",
+        "SCARY_FACE"
+      ]
+    },
+    {
+      "level": 26,
+      "speciesId": "SQUIRTLE",
+      "moves": [
+        "WITHDRAW",
+        "WATER_GUN",
+        "BITE",
+        "CURSE"
+      ]
+    },
+    {
+      "level": 26,
+      "speciesId": "BULBASAUR",
+      "moves": [
+        "LEECH_SEED",
+        "POISONPOWDER",
+        "SLEEP_POWDER",
+        "RAZOR_LEAF"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

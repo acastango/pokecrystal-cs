@@ -1,0 +1,21 @@
+{
+  "id": "PICNICKER_20",
+  "classId": "PICNICKER",
+  "name": "TIFFANY",
+  "party": [
+    {
+      "level": 20,
+      "speciesId": "CLEFAIRY",
+      "moves": [
+        "ENCORE",
+        "SING",
+        "DOUBLESLAP",
+        "MINIMIZE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

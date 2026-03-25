@@ -1,0 +1,15 @@
+{
+  "id": "PICNICKER_4",
+  "classId": "PICNICKER",
+  "name": "KIM",
+  "party": [
+    {
+      "level": 15,
+      "speciesId": "VULPIX"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

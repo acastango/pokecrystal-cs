@@ -1,0 +1,23 @@
+{
+  "id": "JUGGLER_2",
+  "classId": "JUGGLER",
+  "name": "FRITZ",
+  "party": [
+    {
+      "level": 29,
+      "speciesId": "MR__MIME"
+    },
+    {
+      "level": 29,
+      "speciesId": "MAGMAR"
+    },
+    {
+      "level": 29,
+      "speciesId": "MACHOKE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

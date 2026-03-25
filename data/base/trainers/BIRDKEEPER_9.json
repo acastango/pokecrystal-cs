@@ -1,0 +1,19 @@
+{
+  "id": "BIRDKEEPER_9",
+  "classId": "BIRDKEEPER",
+  "name": "ROY",
+  "party": [
+    {
+      "level": 29,
+      "speciesId": "FEAROW"
+    },
+    {
+      "level": 35,
+      "speciesId": "FEAROW"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

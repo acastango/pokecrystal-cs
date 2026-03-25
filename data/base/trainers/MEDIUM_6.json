@@ -1,0 +1,19 @@
+{
+  "id": "MEDIUM_6",
+  "classId": "MEDIUM",
+  "name": "REBECCA",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "DROWZEE"
+    },
+    {
+      "level": 35,
+      "speciesId": "HYPNO"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

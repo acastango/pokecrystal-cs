@@ -1,0 +1,42 @@
+{
+  "id": "WEEDLE",
+  "name": "WEEDLE",
+  "baseHp": 40,
+  "baseAttack": 35,
+  "baseDefense": 30,
+  "baseSpeed": 50,
+  "baseSpAtk": 20,
+  "baseSpDef": 20,
+  "type1Id": "BUG",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 255,
+  "baseExp": 52,
+  "hatchCycles": 15,
+  "tmHmMoves": [],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POISON_STING"
+    },
+    {
+      "level": 1,
+      "moveId": "STRING_SHOT"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "KAKUNA",
+      "param": "7"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "weedle",
+  "cryId": "weedle"
+}

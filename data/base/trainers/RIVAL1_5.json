@@ -1,0 +1,23 @@
+{
+  "id": "RIVAL1_5",
+  "classId": "RIVAL1",
+  "name": "?",
+  "party": [
+    {
+      "level": 12,
+      "speciesId": "GASTLY"
+    },
+    {
+      "level": 14,
+      "speciesId": "ZUBAT"
+    },
+    {
+      "level": 16,
+      "speciesId": "QUILAVA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": "COOLTRAINERM_19",
+  "classId": "COOLTRAINERM",
+  "name": "ALLEN",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "CHARMELEON",
+      "moves": [
+        "EMBER",
+        "SMOKESCREEN",
+        "RAGE",
+        "SCARY_FACE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

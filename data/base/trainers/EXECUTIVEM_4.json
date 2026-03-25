@@ -1,0 +1,23 @@
+{
+  "id": "EXECUTIVEM_4",
+  "classId": "EXECUTIVEM",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 22,
+      "speciesId": "ZUBAT"
+    },
+    {
+      "level": 24,
+      "speciesId": "RATICATE"
+    },
+    {
+      "level": 22,
+      "speciesId": "KOFFING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

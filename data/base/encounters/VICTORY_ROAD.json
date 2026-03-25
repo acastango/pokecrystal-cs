@@ -1,0 +1,99 @@
+{
+  "mapId": "VICTORY_ROAD",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 34,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 32,
+        "speciesId": "RHYHORN"
+      },
+      {
+        "level": 33,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 34,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 35,
+        "speciesId": "SANDSLASH"
+      },
+      {
+        "level": 35,
+        "speciesId": "RHYDON"
+      },
+      {
+        "level": 35,
+        "speciesId": "RHYDON"
+      }
+    ],
+    "day": [
+      {
+        "level": 34,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 32,
+        "speciesId": "RHYHORN"
+      },
+      {
+        "level": 33,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 34,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 35,
+        "speciesId": "SANDSLASH"
+      },
+      {
+        "level": 35,
+        "speciesId": "RHYDON"
+      },
+      {
+        "level": 35,
+        "speciesId": "RHYDON"
+      }
+    ],
+    "nite": [
+      {
+        "level": 34,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 34,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 32,
+        "speciesId": "ONIX"
+      },
+      {
+        "level": 36,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 38,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 40,
+        "speciesId": "GRAVELER"
+      },
+      {
+        "level": 40,
+        "speciesId": "GRAVELER"
+      }
+    ]
+  },
+  "water": null
+}

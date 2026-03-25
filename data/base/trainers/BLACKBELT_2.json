@@ -1,0 +1,21 @@
+{
+  "id": "BLACKBELT_2",
+  "classId": "BLACKBELT",
+  "name": "YOSHI",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "HITMONLEE",
+      "moves": [
+        "DOUBLE_KICK",
+        "MEDITATE",
+        "JUMP_KICK",
+        "FOCUS_ENERGY"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

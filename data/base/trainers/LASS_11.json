@@ -1,0 +1,19 @@
+{
+  "id": "LASS_11",
+  "classId": "LASS",
+  "name": "ELLEN",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "WIGGLYTUFF"
+    },
+    {
+      "level": 34,
+      "speciesId": "GRANBULL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

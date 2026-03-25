@@ -1,0 +1,108 @@
+{
+  "id": "HO_OH",
+  "name": "HO-OH",
+  "baseHp": 106,
+  "baseAttack": 130,
+  "baseDefense": 90,
+  "baseSpeed": 90,
+  "baseSpAtk": 110,
+  "baseSpDef": 154,
+  "type1Id": "FIRE",
+  "type2Id": "FLYING",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": -1.0,
+  "catchRate": 3,
+  "baseExp": 220,
+  "hatchCycles": 120,
+  "tmHmMoves": [
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "DRAGONBREATH",
+    "THUNDER",
+    "EARTHQUAKE",
+    "RETURN",
+    "PSYCHIC_M",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DREAM_EATER",
+    "DETECT",
+    "REST",
+    "STEEL_WING",
+    "NIGHTMARE",
+    "FLY",
+    "STRENGTH",
+    "FLASH",
+    "FLAMETHROWER",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SACRED_FIRE"
+    },
+    {
+      "level": 11,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 22,
+      "moveId": "GUST"
+    },
+    {
+      "level": 33,
+      "moveId": "RECOVER"
+    },
+    {
+      "level": 44,
+      "moveId": "FIRE_BLAST"
+    },
+    {
+      "level": 55,
+      "moveId": "SUNNY_DAY"
+    },
+    {
+      "level": 66,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 77,
+      "moveId": "WHIRLWIND"
+    },
+    {
+      "level": 88,
+      "moveId": "ANCIENTPOWER"
+    },
+    {
+      "level": 99,
+      "moveId": "FUTURE_SIGHT"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "ho_oh",
+  "cryId": "ho_oh"
+}

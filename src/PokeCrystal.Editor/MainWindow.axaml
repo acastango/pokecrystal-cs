@@ -1,0 +1,55 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:PokeCrystal.Editor.ViewModels"
+        xmlns:views="using:PokeCrystal.Editor.Views"
+        x:Class="PokeCrystal.Editor.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Title="PokeCrystal Editor"
+        Width="1280" Height="800"
+        MinWidth="800" MinHeight="600">
+
+    <DockPanel>
+
+        <!-- Menu bar -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Open Project…" Command="{Binding OpenProjectCommand}" />
+                <Separator />
+                <MenuItem Header="_Exit" Click="OnExitClick" />
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Header="_Undo" Command="{Binding MapEditor.UndoCommand}" />
+                <MenuItem Header="_Redo" Command="{Binding MapEditor.RedoCommand}" />
+            </MenuItem>
+        </Menu>
+
+        <!-- Status bar -->
+        <Border DockPanel.Dock="Bottom" BorderThickness="0,1,0,0"
+                BorderBrush="{DynamicResource SystemControlForegroundBaseMediumBrush}"
+                Padding="8,4">
+            <TextBlock Text="{Binding StatusMessage}" />
+        </Border>
+
+        <!-- Tab area -->
+        <TabControl SelectedIndex="{Binding SelectedTabIndex}">
+
+            <TabItem Header="Map Editor">
+                <views:MapEditorView DataContext="{Binding MapEditor}" />
+            </TabItem>
+
+            <TabItem Header="Events">
+                <views:EventEditorView DataContext="{Binding EventEditor}" />
+            </TabItem>
+
+            <TabItem Header="Encounters">
+                <views:EncounterEditorView DataContext="{Binding EncounterEditor}" />
+            </TabItem>
+
+            <TabItem Header="Tilesets">
+                <views:TilesetEditorView DataContext="{Binding TilesetEditor}" />
+            </TabItem>
+
+        </TabControl>
+
+    </DockPanel>
+</Window>

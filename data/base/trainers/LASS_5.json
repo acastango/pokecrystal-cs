@@ -1,0 +1,15 @@
+{
+  "id": "LASS_5",
+  "classId": "LASS",
+  "name": "CONNIE",
+  "party": [
+    {
+      "level": 21,
+      "speciesId": "MARILL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

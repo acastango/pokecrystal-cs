@@ -1,0 +1,31 @@
+{
+  "id": "SWIMMERF_7",
+  "classId": "SWIMMERF",
+  "name": "WENDY",
+  "party": [
+    {
+      "level": 21,
+      "speciesId": "HORSEA",
+      "moves": [
+        "BUBBLE",
+        "SMOKESCREEN",
+        "LEER",
+        "WATER_GUN"
+      ]
+    },
+    {
+      "level": 21,
+      "speciesId": "HORSEA",
+      "moves": [
+        "DRAGON_RAGE",
+        "SMOKESCREEN",
+        "LEER",
+        "WATER_GUN"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

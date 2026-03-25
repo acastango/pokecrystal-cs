@@ -1,0 +1,15 @@
+{
+  "id": "PSYCHIC_2",
+  "classId": "PSYCHIC",
+  "name": "FRANKLIN",
+  "party": [
+    {
+      "level": 37,
+      "speciesId": "KADABRA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

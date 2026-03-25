@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_27",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 28,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 28,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 30,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 30,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 32,
+        "speciesId": "PONYTA"
+      },
+      {
+        "level": 30,
+        "speciesId": "DODRIO"
+      },
+      {
+        "level": 30,
+        "speciesId": "DODRIO"
+      }
+    ],
+    "day": [
+      {
+        "level": 28,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 28,
+        "speciesId": "ARBOK"
+      },
+      {
+        "level": 30,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 30,
+        "speciesId": "DODUO"
+      },
+      {
+        "level": 32,
+        "speciesId": "PONYTA"
+      },
+      {
+        "level": 30,
+        "speciesId": "DODRIO"
+      },
+      {
+        "level": 30,
+        "speciesId": "DODRIO"
+      }
+    ],
+    "nite": [
+      {
+        "level": 28,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 28,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 30,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 30,
+        "speciesId": "QUAGSIRE"
+      },
+      {
+        "level": 32,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 32,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 32,
+        "speciesId": "NOCTOWL"
+      }
+    ]
+  },
+  "water": {
+    "rate": 6,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 15,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 20,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

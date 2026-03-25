@@ -1,0 +1,19 @@
+{
+  "id": "OFFICER_2",
+  "classId": "OFFICER",
+  "name": "DIRK",
+  "party": [
+    {
+      "level": 14,
+      "speciesId": "GROWLITHE"
+    },
+    {
+      "level": 14,
+      "speciesId": "GROWLITHE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

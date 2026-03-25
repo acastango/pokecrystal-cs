@@ -1,0 +1,21 @@
+{
+  "id": "PICNICKER_3",
+  "classId": "PICNICKER",
+  "name": "BROOKE",
+  "party": [
+    {
+      "level": 16,
+      "speciesId": "PIKACHU",
+      "moves": [
+        "THUNDERSHOCK",
+        "GROWL",
+        "QUICK_ATTACK",
+        "DOUBLE_TEAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

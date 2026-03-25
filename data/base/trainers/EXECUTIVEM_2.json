@@ -1,0 +1,21 @@
+{
+  "id": "EXECUTIVEM_2",
+  "classId": "EXECUTIVEM",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 36,
+      "speciesId": "GOLBAT",
+      "moves": [
+        "LEECH_LIFE",
+        "BITE",
+        "CONFUSE_RAY",
+        "WING_ATTACK"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

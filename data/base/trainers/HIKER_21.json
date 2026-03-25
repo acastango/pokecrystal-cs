@@ -1,0 +1,23 @@
+{
+  "id": "HIKER_21",
+  "classId": "HIKER",
+  "name": "ANTHONY",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "GRAVELER"
+    },
+    {
+      "level": 30,
+      "speciesId": "GRAVELER"
+    },
+    {
+      "level": 32,
+      "speciesId": "MACHOKE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

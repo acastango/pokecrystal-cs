@@ -1,0 +1,110 @@
+{
+  "id": "KANGASKHAN",
+  "name": "KANGASKHAN",
+  "baseHp": 105,
+  "baseAttack": 95,
+  "baseDefense": 80,
+  "baseSpeed": 90,
+  "baseSpAtk": 40,
+  "baseSpDef": 80,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_MONSTER"
+  ],
+  "genderRatio": 1.0,
+  "catchRate": 45,
+  "baseExp": 175,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "BLIZZARD",
+    "HYPER_BEAM",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "EARTHQUAKE",
+    "RETURN",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "SURF",
+    "STRENGTH",
+    "FLAMETHROWER",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "COMET_PUNCH"
+    },
+    {
+      "level": 7,
+      "moveId": "LEER"
+    },
+    {
+      "level": 13,
+      "moveId": "BITE"
+    },
+    {
+      "level": 19,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 25,
+      "moveId": "MEGA_PUNCH"
+    },
+    {
+      "level": 31,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 37,
+      "moveId": "ENDURE"
+    },
+    {
+      "level": 43,
+      "moveId": "DIZZY_PUNCH"
+    },
+    {
+      "level": 49,
+      "moveId": "REVERSAL"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "STOMP",
+    "FORESIGHT",
+    "FOCUS_ENERGY",
+    "SAFEGUARD",
+    "DISABLE"
+  ],
+  "spriteId": "kangaskhan",
+  "cryId": "kangaskhan"
+}

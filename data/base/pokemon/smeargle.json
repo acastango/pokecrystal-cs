@@ -1,0 +1,68 @@
+{
+  "id": "SMEARGLE",
+  "name": "SMEARGLE",
+  "baseHp": 55,
+  "baseAttack": 20,
+  "baseDefense": 35,
+  "baseSpeed": 75,
+  "baseSpAtk": 20,
+  "baseSpDef": 45,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "Fast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 45,
+  "baseExp": 106,
+  "hatchCycles": 20,
+  "tmHmMoves": [],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 11,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 21,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 31,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 41,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 51,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 61,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 71,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 81,
+      "moveId": "SKETCH"
+    },
+    {
+      "level": 91,
+      "moveId": "SKETCH"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "smeargle",
+  "cryId": "smeargle"
+}

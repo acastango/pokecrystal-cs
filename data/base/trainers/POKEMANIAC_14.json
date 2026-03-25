@@ -1,0 +1,21 @@
+{
+  "id": "POKEMANIAC_14",
+  "classId": "POKEMANIAC",
+  "name": "BRENT",
+  "party": [
+    {
+      "level": 41,
+      "speciesId": "CHANSEY",
+      "moves": [
+        "ROLLOUT",
+        "ATTRACT",
+        "EGG_BOMB",
+        "SOFTBOILED"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

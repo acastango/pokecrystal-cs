@@ -1,0 +1,23 @@
+{
+  "id": "BLACKBELT_7",
+  "classId": "BLACKBELT",
+  "name": "LUNG",
+  "party": [
+    {
+      "level": 23,
+      "speciesId": "MANKEY"
+    },
+    {
+      "level": 23,
+      "speciesId": "MANKEY"
+    },
+    {
+      "level": 25,
+      "speciesId": "PRIMEAPE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

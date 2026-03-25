@@ -1,0 +1,21 @@
+{
+  "id": "SUPERNERD_14",
+  "classId": "SUPERNERD",
+  "name": "MARKUS",
+  "party": [
+    {
+      "level": 19,
+      "speciesId": "SLOWPOKE",
+      "moves": [
+        "CURSE",
+        "WATER_GUN",
+        "GROWL",
+        "STRENGTH"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

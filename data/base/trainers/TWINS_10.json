@@ -1,0 +1,31 @@
+{
+  "id": "TWINS_10",
+  "classId": "TWINS",
+  "name": "LEA & PIA",
+  "party": [
+    {
+      "level": 38,
+      "speciesId": "DRATINI",
+      "moves": [
+        "THUNDER_WAVE",
+        "TWISTER",
+        "ICE_BEAM",
+        "HEADBUTT"
+      ]
+    },
+    {
+      "level": 38,
+      "speciesId": "DRATINI",
+      "moves": [
+        "THUNDER_WAVE",
+        "TWISTER",
+        "FLAMETHROWER",
+        "HEADBUTT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,557 @@
+[
+  {
+    "attackerTypeId": "NORMAL",
+    "defenderTypeId": "ROCK",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "NORMAL",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIRE",
+    "defenderTypeId": "FIRE",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIRE",
+    "defenderTypeId": "WATER",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIRE",
+    "defenderTypeId": "GRASS",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FIRE",
+    "defenderTypeId": "ICE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FIRE",
+    "defenderTypeId": "BUG",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FIRE",
+    "defenderTypeId": "ROCK",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIRE",
+    "defenderTypeId": "DRAGON",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIRE",
+    "defenderTypeId": "STEEL",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "WATER",
+    "defenderTypeId": "FIRE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "WATER",
+    "defenderTypeId": "WATER",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "WATER",
+    "defenderTypeId": "GRASS",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "WATER",
+    "defenderTypeId": "GROUND",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "WATER",
+    "defenderTypeId": "ROCK",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "WATER",
+    "defenderTypeId": "DRAGON",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ELECTRIC",
+    "defenderTypeId": "WATER",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ELECTRIC",
+    "defenderTypeId": "ELECTRIC",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ELECTRIC",
+    "defenderTypeId": "GRASS",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ELECTRIC",
+    "defenderTypeId": "FLYING",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ELECTRIC",
+    "defenderTypeId": "DRAGON",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "FIRE",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "WATER",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "GRASS",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "POISON",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "GROUND",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "FLYING",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "BUG",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "ROCK",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "DRAGON",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GRASS",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ICE",
+    "defenderTypeId": "WATER",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ICE",
+    "defenderTypeId": "GRASS",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ICE",
+    "defenderTypeId": "ICE",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ICE",
+    "defenderTypeId": "GROUND",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ICE",
+    "defenderTypeId": "FLYING",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ICE",
+    "defenderTypeId": "DRAGON",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ICE",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ICE",
+    "defenderTypeId": "FIRE",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "NORMAL",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "ICE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "POISON",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "FLYING",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "PSYCHIC_TYPE",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "BUG",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "ROCK",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "DARK",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "STEEL",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "POISON",
+    "defenderTypeId": "GRASS",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "POISON",
+    "defenderTypeId": "POISON",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "POISON",
+    "defenderTypeId": "GROUND",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "POISON",
+    "defenderTypeId": "ROCK",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "POISON",
+    "defenderTypeId": "GHOST",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GROUND",
+    "defenderTypeId": "FIRE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "GROUND",
+    "defenderTypeId": "ELECTRIC",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "GROUND",
+    "defenderTypeId": "GRASS",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GROUND",
+    "defenderTypeId": "POISON",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "GROUND",
+    "defenderTypeId": "BUG",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GROUND",
+    "defenderTypeId": "ROCK",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "GROUND",
+    "defenderTypeId": "STEEL",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FLYING",
+    "defenderTypeId": "ELECTRIC",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FLYING",
+    "defenderTypeId": "GRASS",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FLYING",
+    "defenderTypeId": "FIGHTING",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FLYING",
+    "defenderTypeId": "BUG",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "FLYING",
+    "defenderTypeId": "ROCK",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "FLYING",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "PSYCHIC_TYPE",
+    "defenderTypeId": "FIGHTING",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "PSYCHIC_TYPE",
+    "defenderTypeId": "POISON",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "PSYCHIC_TYPE",
+    "defenderTypeId": "PSYCHIC_TYPE",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "PSYCHIC_TYPE",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "FIRE",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "GRASS",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "FIGHTING",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "POISON",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "FLYING",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "PSYCHIC_TYPE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "GHOST",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "DARK",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "BUG",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ROCK",
+    "defenderTypeId": "FIRE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ROCK",
+    "defenderTypeId": "ICE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ROCK",
+    "defenderTypeId": "FIGHTING",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ROCK",
+    "defenderTypeId": "GROUND",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "ROCK",
+    "defenderTypeId": "FLYING",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ROCK",
+    "defenderTypeId": "BUG",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "ROCK",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GHOST",
+    "defenderTypeId": "PSYCHIC_TYPE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "GHOST",
+    "defenderTypeId": "DARK",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GHOST",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "GHOST",
+    "defenderTypeId": "GHOST",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "DRAGON",
+    "defenderTypeId": "DRAGON",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "DRAGON",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "DARK",
+    "defenderTypeId": "FIGHTING",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "DARK",
+    "defenderTypeId": "PSYCHIC_TYPE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "DARK",
+    "defenderTypeId": "GHOST",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "DARK",
+    "defenderTypeId": "DARK",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "DARK",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "STEEL",
+    "defenderTypeId": "FIRE",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "STEEL",
+    "defenderTypeId": "WATER",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "STEEL",
+    "defenderTypeId": "ELECTRIC",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "STEEL",
+    "defenderTypeId": "ICE",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "STEEL",
+    "defenderTypeId": "ROCK",
+    "multiplier": 2.0
+  },
+  {
+    "attackerTypeId": "STEEL",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.5
+  },
+  {
+    "attackerTypeId": "NORMAL",
+    "defenderTypeId": "GHOST",
+    "multiplier": 0.0
+  },
+  {
+    "attackerTypeId": "FIGHTING",
+    "defenderTypeId": "GHOST",
+    "multiplier": 0.0
+  },
+  {
+    "attackerTypeId": "ELECTRIC",
+    "defenderTypeId": "GROUND",
+    "multiplier": 0.0
+  },
+  {
+    "attackerTypeId": "POISON",
+    "defenderTypeId": "STEEL",
+    "multiplier": 0.0
+  },
+  {
+    "attackerTypeId": "GROUND",
+    "defenderTypeId": "FLYING",
+    "multiplier": 0.0
+  },
+  {
+    "attackerTypeId": "PSYCHIC",
+    "defenderTypeId": "DARK",
+    "multiplier": 0.0
+  },
+  {
+    "attackerTypeId": "GHOST",
+    "defenderTypeId": "NORMAL",
+    "multiplier": 0.0
+  },
+  {
+    "attackerTypeId": "GHOST",
+    "defenderTypeId": "PSYCHIC",
+    "multiplier": 0.0
+  }
+]

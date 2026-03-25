@@ -1,0 +1,78 @@
+{
+  "id": "TYROGUE",
+  "name": "TYROGUE",
+  "baseHp": 35,
+  "baseAttack": 35,
+  "baseDefense": 35,
+  "baseSpeed": 35,
+  "baseSpAtk": 35,
+  "baseSpDef": 35,
+  "type1Id": "FIGHTING",
+  "type2Id": "FIGHTING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_NONE",
+    "EGG_NONE"
+  ],
+  "genderRatio": 0.0,
+  "catchRate": 75,
+  "baseExp": 91,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STRENGTH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Stat",
+      "targetSpeciesId": "HITMONCHAN",
+      "param": "20",
+      "statCondition": "ATK_LT_DEF"
+    },
+    {
+      "method": "Stat",
+      "targetSpeciesId": "HITMONLEE",
+      "param": "20",
+      "statCondition": "ATK_GT_DEF"
+    },
+    {
+      "method": "Stat",
+      "targetSpeciesId": "HITMONTOP",
+      "param": "20",
+      "statCondition": "ATK_EQ_DEF"
+    }
+  ],
+  "eggMoves": [
+    "RAPID_SPIN",
+    "HI_JUMP_KICK",
+    "MACH_PUNCH",
+    "MIND_READER"
+  ],
+  "spriteId": "tyrogue",
+  "cryId": "tyrogue"
+}

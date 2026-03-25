@@ -1,0 +1,23 @@
+{
+  "id": "SAILOR_1",
+  "classId": "SAILOR",
+  "name": "EUGENE",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "POLIWHIRL"
+    },
+    {
+      "level": 17,
+      "speciesId": "RATICATE"
+    },
+    {
+      "level": 19,
+      "speciesId": "KRABBY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

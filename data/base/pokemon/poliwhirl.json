@@ -1,0 +1,110 @@
+{
+  "id": "POLIWHIRL",
+  "name": "POLIWHIRL",
+  "baseHp": 65,
+  "baseAttack": 65,
+  "baseDefense": 65,
+  "baseSpeed": 90,
+  "baseSpAtk": 50,
+  "baseSpDef": 50,
+  "type1Id": "WATER",
+  "type2Id": "WATER",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_WATER_1"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 120,
+  "baseExp": 131,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "PSYCHIC_M",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "SURF",
+    "STRENGTH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BUBBLE"
+    },
+    {
+      "level": 1,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 1,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 7,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 13,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 19,
+      "moveId": "DOUBLESLAP"
+    },
+    {
+      "level": 27,
+      "moveId": "RAIN_DANCE"
+    },
+    {
+      "level": 35,
+      "moveId": "BODY_SLAM"
+    },
+    {
+      "level": 43,
+      "moveId": "BELLY_DRUM"
+    },
+    {
+      "level": 51,
+      "moveId": "HYDRO_PUMP"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "POLIWRATH",
+      "param": "WATER_STONE"
+    },
+    {
+      "method": "Trade",
+      "targetSpeciesId": "POLITOED",
+      "param": "KINGS_ROCK"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "poliwhirl",
+  "cryId": "poliwhirl"
+}

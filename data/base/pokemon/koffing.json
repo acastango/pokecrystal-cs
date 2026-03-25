@@ -1,0 +1,99 @@
+{
+  "id": "KOFFING",
+  "name": "KOFFING",
+  "baseHp": 40,
+  "baseAttack": 65,
+  "baseDefense": 95,
+  "baseSpeed": 35,
+  "baseSpAtk": 60,
+  "baseSpDef": 45,
+  "type1Id": "POISON",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 114,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "FIRE_BLAST",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FLAMETHROWER",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POISON_GAS"
+    },
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 9,
+      "moveId": "SMOG"
+    },
+    {
+      "level": 17,
+      "moveId": "SELFDESTRUCT"
+    },
+    {
+      "level": 21,
+      "moveId": "SLUDGE"
+    },
+    {
+      "level": 25,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 33,
+      "moveId": "HAZE"
+    },
+    {
+      "level": 41,
+      "moveId": "EXPLOSION"
+    },
+    {
+      "level": 45,
+      "moveId": "DESTINY_BOND"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "WEEZING",
+      "param": "35"
+    }
+  ],
+  "eggMoves": [
+    "SCREECH",
+    "PSYWAVE",
+    "PSYBEAM",
+    "DESTINY_BOND",
+    "PAIN_SPLIT"
+  ],
+  "spriteId": "koffing",
+  "cryId": "koffing"
+}

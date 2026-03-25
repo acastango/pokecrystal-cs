@@ -1,0 +1,110 @@
+{
+  "id": "IVYSAUR",
+  "name": "IVYSAUR",
+  "baseHp": 60,
+  "baseAttack": 62,
+  "baseDefense": 63,
+  "baseSpeed": 60,
+  "baseSpAtk": 80,
+  "baseSpDef": 80,
+  "type1Id": "GRASS",
+  "type2Id": "POISON",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 141,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "FURY_CUTTER",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "LEECH_SEED"
+    },
+    {
+      "level": 4,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 7,
+      "moveId": "LEECH_SEED"
+    },
+    {
+      "level": 10,
+      "moveId": "VINE_WHIP"
+    },
+    {
+      "level": 15,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 15,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 22,
+      "moveId": "RAZOR_LEAF"
+    },
+    {
+      "level": 29,
+      "moveId": "SWEET_SCENT"
+    },
+    {
+      "level": 38,
+      "moveId": "GROWTH"
+    },
+    {
+      "level": 47,
+      "moveId": "SYNTHESIS"
+    },
+    {
+      "level": 56,
+      "moveId": "SOLARBEAM"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "VENUSAUR",
+      "param": "32"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "ivysaur",
+  "cryId": "ivysaur"
+}

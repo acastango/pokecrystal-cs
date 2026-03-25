@@ -1,0 +1,89 @@
+{
+  "id": "MANTINE",
+  "name": "MANTINE",
+  "baseHp": 65,
+  "baseAttack": 40,
+  "baseDefense": 70,
+  "baseSpeed": 70,
+  "baseSpAtk": 80,
+  "baseSpDef": 140,
+  "type1Id": "WATER",
+  "type2Id": "FLYING",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_WATER_1",
+    "EGG_WATER_1"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 25,
+  "baseExp": 168,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SNORE",
+    "BLIZZARD",
+    "ICY_WIND",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "BUBBLE"
+    },
+    {
+      "level": 10,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 18,
+      "moveId": "BUBBLEBEAM"
+    },
+    {
+      "level": 25,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 32,
+      "moveId": "AGILITY"
+    },
+    {
+      "level": 40,
+      "moveId": "WING_ATTACK"
+    },
+    {
+      "level": 49,
+      "moveId": "CONFUSE_RAY"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "TWISTER",
+    "HYDRO_PUMP",
+    "HAZE",
+    "SLAM"
+  ],
+  "spriteId": "mantine",
+  "cryId": "mantine"
+}

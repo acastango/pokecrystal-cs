@@ -1,0 +1,23 @@
+{
+  "id": "PKMNTRAINER_3",
+  "classId": "PKMNTRAINER",
+  "name": "CAL",
+  "party": [
+    {
+      "level": 50,
+      "speciesId": "MEGANIUM"
+    },
+    {
+      "level": 50,
+      "speciesId": "TYPHLOSION"
+    },
+    {
+      "level": 50,
+      "speciesId": "FERALIGATR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

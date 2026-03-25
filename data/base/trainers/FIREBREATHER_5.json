@@ -1,0 +1,19 @@
+{
+  "id": "FIREBREATHER_5",
+  "classId": "FIREBREATHER",
+  "name": "BILL",
+  "party": [
+    {
+      "level": 6,
+      "speciesId": "KOFFING"
+    },
+    {
+      "level": 6,
+      "speciesId": "KOFFING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

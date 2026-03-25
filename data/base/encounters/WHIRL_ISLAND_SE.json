@@ -1,0 +1,99 @@
+{
+  "mapId": "WHIRL_ISLAND_SE",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 22,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "SEEL"
+      },
+      {
+        "level": 24,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 25,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 24,
+        "speciesId": "SEEL"
+      },
+      {
+        "level": 24,
+        "speciesId": "SEEL"
+      }
+    ],
+    "day": [
+      {
+        "level": 22,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "SEEL"
+      },
+      {
+        "level": 24,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 25,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 24,
+        "speciesId": "SEEL"
+      },
+      {
+        "level": 24,
+        "speciesId": "SEEL"
+      }
+    ],
+    "nite": [
+      {
+        "level": 22,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 23,
+        "speciesId": "ZUBAT"
+      },
+      {
+        "level": 22,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 24,
+        "speciesId": "KRABBY"
+      },
+      {
+        "level": 25,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 24,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 24,
+        "speciesId": "GOLBAT"
+      }
+    ]
+  },
+  "water": null
+}

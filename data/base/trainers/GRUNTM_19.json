@@ -1,0 +1,19 @@
+{
+  "id": "GRUNTM_19",
+  "classId": "GRUNTM",
+  "name": "GRUNT",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "VENONAT"
+    },
+    {
+      "level": 18,
+      "speciesId": "VENONAT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

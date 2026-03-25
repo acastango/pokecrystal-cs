@@ -1,0 +1,97 @@
+{
+  "id": "ELECTABUZZ",
+  "name": "ELECTABUZZ",
+  "baseHp": 65,
+  "baseAttack": 83,
+  "baseDefense": 57,
+  "baseSpeed": 105,
+  "baseSpAtk": 95,
+  "baseSpDef": 85,
+  "type1Id": "ELECTRIC",
+  "type2Id": "ELECTRIC",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_HUMANSHAPE",
+    "EGG_HUMANSHAPE"
+  ],
+  "genderRatio": 0.25,
+  "catchRate": 45,
+  "baseExp": 156,
+  "hatchCycles": 25,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "THUNDER",
+    "RETURN",
+    "PSYCHIC_M",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "THUNDERPUNCH",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "STRENGTH",
+    "FLASH",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 1,
+      "moveId": "LEER"
+    },
+    {
+      "level": 1,
+      "moveId": "THUNDERPUNCH"
+    },
+    {
+      "level": 9,
+      "moveId": "THUNDERPUNCH"
+    },
+    {
+      "level": 17,
+      "moveId": "LIGHT_SCREEN"
+    },
+    {
+      "level": 25,
+      "moveId": "SWIFT"
+    },
+    {
+      "level": 36,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 47,
+      "moveId": "THUNDERBOLT"
+    },
+    {
+      "level": 58,
+      "moveId": "THUNDER"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "electabuzz",
+  "cryId": "electabuzz"
+}

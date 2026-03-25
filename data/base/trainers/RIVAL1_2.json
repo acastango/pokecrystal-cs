@@ -1,0 +1,15 @@
+{
+  "id": "RIVAL1_2",
+  "classId": "RIVAL1",
+  "name": "?",
+  "party": [
+    {
+      "level": 5,
+      "speciesId": "CYNDAQUIL"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

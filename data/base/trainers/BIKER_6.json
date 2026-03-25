@@ -1,0 +1,23 @@
+{
+  "id": "BIKER_6",
+  "classId": "BIKER",
+  "name": "CHARLES",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "KOFFING"
+    },
+    {
+      "level": 30,
+      "speciesId": "CHARMELEON"
+    },
+    {
+      "level": 30,
+      "speciesId": "WEEZING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

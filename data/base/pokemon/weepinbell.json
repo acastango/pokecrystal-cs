@@ -1,0 +1,103 @@
+{
+  "id": "WEEPINBELL",
+  "name": "WEEPINBELL",
+  "baseHp": 65,
+  "baseAttack": 90,
+  "baseDefense": 50,
+  "baseSpeed": 55,
+  "baseSpAtk": 85,
+  "baseSpDef": 45,
+  "type1Id": "GRASS",
+  "type2Id": "POISON",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 120,
+  "baseExp": 151,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SWEET_SCENT",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "REST",
+    "ATTRACT",
+    "CUT",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "VINE_WHIP"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWTH"
+    },
+    {
+      "level": 1,
+      "moveId": "WRAP"
+    },
+    {
+      "level": 6,
+      "moveId": "GROWTH"
+    },
+    {
+      "level": 11,
+      "moveId": "WRAP"
+    },
+    {
+      "level": 15,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 17,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 19,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 24,
+      "moveId": "ACID"
+    },
+    {
+      "level": 33,
+      "moveId": "SWEET_SCENT"
+    },
+    {
+      "level": 42,
+      "moveId": "RAZOR_LEAF"
+    },
+    {
+      "level": 54,
+      "moveId": "SLAM"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "VICTREEBEL",
+      "param": "LEAF_STONE"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "weepinbell",
+  "cryId": "weepinbell"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SCHOOLBOY_20",
+  "classId": "SCHOOLBOY",
+  "name": "JACK",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "ELECTRODE",
+      "moves": [
+        "SCREECH",
+        "SONICBOOM",
+        "ROLLOUT",
+        "LIGHT_SCREEN"
+      ]
+    },
+    {
+      "level": 35,
+      "speciesId": "GROWLITHE",
+      "moves": [
+        "SUNNY_DAY",
+        "LEER",
+        "TAKE_DOWN",
+        "FLAME_WHEEL"
+      ]
+    },
+    {
+      "level": 37,
+      "speciesId": "VILEPLUME",
+      "moves": [
+        "SOLARBEAM",
+        "SLEEP_POWDER",
+        "ACID",
+        "MOONLIGHT"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,115 @@
+{
+  "mapId": "ROUTE_34",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 10,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 11,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 12,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 10,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      }
+    ],
+    "day": [
+      {
+        "level": 10,
+        "speciesId": "SNUBBULL"
+      },
+      {
+        "level": 11,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 12,
+        "speciesId": "PIDGEY"
+      },
+      {
+        "level": 10,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      }
+    ],
+    "nite": [
+      {
+        "level": 12,
+        "speciesId": "DROWZEE"
+      },
+      {
+        "level": 11,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 12,
+        "speciesId": "HOOTHOOT"
+      },
+      {
+        "level": 10,
+        "speciesId": "ABRA"
+      },
+      {
+        "level": 12,
+        "speciesId": "JIGGLYPUFF"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      },
+      {
+        "level": 10,
+        "speciesId": "DITTO"
+      }
+    ]
+  },
+  "water": {
+    "rate": 6,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 15,
+        "speciesId": "TENTACOOL"
+      },
+      {
+        "level": 20,
+        "speciesId": "TENTACRUEL"
+      }
+    ]
+  }
+}

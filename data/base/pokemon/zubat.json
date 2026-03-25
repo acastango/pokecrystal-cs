@@ -1,0 +1,88 @@
+{
+  "id": "ZUBAT",
+  "name": "ZUBAT",
+  "baseHp": 40,
+  "baseAttack": 45,
+  "baseDefense": 35,
+  "baseSpeed": 55,
+  "baseSpAtk": 30,
+  "baseSpDef": 40,
+  "type1Id": "POISON",
+  "type2Id": "FLYING",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_FLYING",
+    "EGG_FLYING"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 255,
+  "baseExp": 54,
+  "hatchCycles": 15,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "STEEL_WING"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "LEECH_LIFE"
+    },
+    {
+      "level": 6,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 12,
+      "moveId": "BITE"
+    },
+    {
+      "level": 19,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 27,
+      "moveId": "WING_ATTACK"
+    },
+    {
+      "level": 36,
+      "moveId": "MEAN_LOOK"
+    },
+    {
+      "level": 46,
+      "moveId": "HAZE"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "GOLBAT",
+      "param": "22"
+    }
+  ],
+  "eggMoves": [
+    "QUICK_ATTACK",
+    "PURSUIT",
+    "FAINT_ATTACK",
+    "GUST",
+    "WHIRLWIND"
+  ],
+  "spriteId": "zubat",
+  "cryId": "zubat"
+}

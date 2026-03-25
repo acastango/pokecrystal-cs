@@ -1,0 +1,42 @@
+{
+  "id": "KAKUNA",
+  "name": "KAKUNA",
+  "baseHp": 45,
+  "baseAttack": 25,
+  "baseDefense": 50,
+  "baseSpeed": 35,
+  "baseSpAtk": 25,
+  "baseSpDef": 25,
+  "type1Id": "BUG",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 120,
+  "baseExp": 71,
+  "hatchCycles": 15,
+  "tmHmMoves": [],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 7,
+      "moveId": "HARDEN"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "BEEDRILL",
+      "param": "10"
+    }
+  ],
+  "eggMoves": [],
+  "spriteId": "kakuna",
+  "cryId": "kakuna"
+}

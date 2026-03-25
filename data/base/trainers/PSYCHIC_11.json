@@ -1,0 +1,23 @@
+{
+  "id": "PSYCHIC_11",
+  "classId": "PSYCHIC",
+  "name": "JARED",
+  "party": [
+    {
+      "level": 32,
+      "speciesId": "MR__MIME"
+    },
+    {
+      "level": 32,
+      "speciesId": "EXEGGCUTE"
+    },
+    {
+      "level": 35,
+      "speciesId": "EXEGGCUTE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

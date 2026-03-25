@@ -1,0 +1,116 @@
+{
+  "id": "CHARIZARD",
+  "name": "CHARIZARD",
+  "baseHp": 78,
+  "baseAttack": 84,
+  "baseDefense": 78,
+  "baseSpeed": 100,
+  "baseSpAtk": 109,
+  "baseSpDef": 85,
+  "type1Id": "FIRE",
+  "type2Id": "FLYING",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_MONSTER",
+    "EGG_DRAGON"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 209,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "HEADBUTT",
+    "CURSE",
+    "ROAR",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "DRAGONBREATH",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SANDSTORM",
+    "FIRE_BLAST",
+    "SWIFT",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "STEEL_WING",
+    "FIRE_PUNCH",
+    "FURY_CUTTER",
+    "CUT",
+    "FLY",
+    "STRENGTH",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SCRATCH"
+    },
+    {
+      "level": 1,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 1,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 1,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 7,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 13,
+      "moveId": "SMOKESCREEN"
+    },
+    {
+      "level": 20,
+      "moveId": "RAGE"
+    },
+    {
+      "level": 27,
+      "moveId": "SCARY_FACE"
+    },
+    {
+      "level": 34,
+      "moveId": "FLAMETHROWER"
+    },
+    {
+      "level": 36,
+      "moveId": "WING_ATTACK"
+    },
+    {
+      "level": 44,
+      "moveId": "SLASH"
+    },
+    {
+      "level": 54,
+      "moveId": "DRAGON_RAGE"
+    },
+    {
+      "level": 64,
+      "moveId": "FIRE_SPIN"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "charizard",
+  "cryId": "charizard"
+}

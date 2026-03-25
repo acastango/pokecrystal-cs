@@ -1,0 +1,23 @@
+{
+  "id": "LASS_6",
+  "classId": "LASS",
+  "name": "LINDA",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "BULBASAUR"
+    },
+    {
+      "level": 32,
+      "speciesId": "IVYSAUR"
+    },
+    {
+      "level": 34,
+      "speciesId": "VENUSAUR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

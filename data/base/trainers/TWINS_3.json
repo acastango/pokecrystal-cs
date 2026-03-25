@@ -1,0 +1,31 @@
+{
+  "id": "TWINS_3",
+  "classId": "TWINS",
+  "name": "ANN & ANNE",
+  "party": [
+    {
+      "level": 16,
+      "speciesId": "JIGGLYPUFF",
+      "moves": [
+        "SING",
+        "DEFENSE_CURL",
+        "POUND",
+        "DISABLE"
+      ]
+    },
+    {
+      "level": 16,
+      "speciesId": "CLEFAIRY",
+      "moves": [
+        "GROWL",
+        "ENCORE",
+        "DOUBLESLAP",
+        "METRONOME"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

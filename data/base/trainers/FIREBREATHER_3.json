@@ -1,0 +1,23 @@
+{
+  "id": "FIREBREATHER_3",
+  "classId": "FIREBREATHER",
+  "name": "NED",
+  "party": [
+    {
+      "level": 15,
+      "speciesId": "KOFFING"
+    },
+    {
+      "level": 16,
+      "speciesId": "GROWLITHE"
+    },
+    {
+      "level": 15,
+      "speciesId": "KOFFING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

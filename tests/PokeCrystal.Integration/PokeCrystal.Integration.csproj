@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <IsTestProject>true</IsTestProject>
+    <!-- Resolve data/base/ relative to the repo root, not the bin dir -->
+    <RootNamespace>PokeCrystal.Integration</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk"          Version="17.11.1" />
+    <PackageReference Include="xunit"                           Version="2.9.0" />
+    <PackageReference Include="xunit.runner.visualstudio"       Version="2.8.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\PokeCrystal.Schema\PokeCrystal.Schema.csproj" />
+    <ProjectReference Include="..\..\src\PokeCrystal.Data\PokeCrystal.Data.csproj" />
+    <ProjectReference Include="..\..\src\PokeCrystal.Engine\PokeCrystal.Engine.csproj" />
+    <ProjectReference Include="..\..\src\PokeCrystal.Scripting\PokeCrystal.Scripting.csproj" />
+    <ProjectReference Include="..\..\src\PokeCrystal.World\PokeCrystal.World.csproj" />
+  </ItemGroup>
+
+</Project>

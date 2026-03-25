@@ -1,0 +1,19 @@
+{
+  "id": "PICNICKER_14",
+  "classId": "PICNICKER",
+  "name": "EDNA",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "NIDORINA"
+    },
+    {
+      "level": 34,
+      "speciesId": "RAICHU"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

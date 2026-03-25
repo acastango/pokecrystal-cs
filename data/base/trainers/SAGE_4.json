@@ -1,0 +1,19 @@
+{
+  "id": "SAGE_4",
+  "classId": "SAGE",
+  "name": "TROY",
+  "party": [
+    {
+      "level": 7,
+      "speciesId": "BELLSPROUT"
+    },
+    {
+      "level": 7,
+      "speciesId": "HOOTHOOT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

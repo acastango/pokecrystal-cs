@@ -1,0 +1,21 @@
+{
+  "mapId": "FUCHSIA_CITY",
+  "grass": null,
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 20,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 15,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 10,
+        "speciesId": "MAGIKARP"
+      }
+    ]
+  }
+}

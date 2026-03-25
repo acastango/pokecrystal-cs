@@ -1,0 +1,97 @@
+{
+  "id": "CHINCHOU",
+  "name": "CHINCHOU",
+  "baseHp": 75,
+  "baseAttack": 38,
+  "baseDefense": 38,
+  "baseSpeed": 67,
+  "baseSpAtk": 56,
+  "baseSpDef": 56,
+  "type1Id": "WATER",
+  "type2Id": "ELECTRIC",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_WATER_2",
+    "EGG_WATER_2"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 90,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "REST",
+    "ATTRACT",
+    "SURF",
+    "FLASH",
+    "WHIRLPOOL",
+    "WATERFALL",
+    "THUNDERBOLT",
+    "ICE_BEAM"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BUBBLE"
+    },
+    {
+      "level": 1,
+      "moveId": "THUNDER_WAVE"
+    },
+    {
+      "level": 5,
+      "moveId": "SUPERSONIC"
+    },
+    {
+      "level": 13,
+      "moveId": "FLAIL"
+    },
+    {
+      "level": 17,
+      "moveId": "WATER_GUN"
+    },
+    {
+      "level": 25,
+      "moveId": "SPARK"
+    },
+    {
+      "level": 29,
+      "moveId": "CONFUSE_RAY"
+    },
+    {
+      "level": 37,
+      "moveId": "TAKE_DOWN"
+    },
+    {
+      "level": 41,
+      "moveId": "HYDRO_PUMP"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "LANTURN",
+      "param": "27"
+    }
+  ],
+  "eggMoves": [
+    "FLAIL",
+    "SUPERSONIC",
+    "SCREECH"
+  ],
+  "spriteId": "chinchou",
+  "cryId": "chinchou"
+}

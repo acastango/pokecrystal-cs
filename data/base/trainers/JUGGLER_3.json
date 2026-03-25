@@ -1,0 +1,27 @@
+{
+  "id": "JUGGLER_3",
+  "classId": "JUGGLER",
+  "name": "HORTON",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "ELECTRODE"
+    },
+    {
+      "level": 33,
+      "speciesId": "ELECTRODE"
+    },
+    {
+      "level": 33,
+      "speciesId": "ELECTRODE"
+    },
+    {
+      "level": 33,
+      "speciesId": "ELECTRODE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

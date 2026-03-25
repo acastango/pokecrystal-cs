@@ -1,0 +1,41 @@
+{
+  "id": "POKEFANM_4",
+  "classId": "POKEFANM",
+  "name": "JOSHUA",
+  "party": [
+    {
+      "level": 23,
+      "speciesId": "PIKACHU",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 23,
+      "speciesId": "PIKACHU",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 23,
+      "speciesId": "PIKACHU",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 23,
+      "speciesId": "PIKACHU",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 23,
+      "speciesId": "PIKACHU",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 23,
+      "speciesId": "PIKACHU",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

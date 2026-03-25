@@ -1,0 +1,89 @@
+{
+  "id": "SLUGMA",
+  "name": "SLUGMA",
+  "baseHp": 40,
+  "baseAttack": 40,
+  "baseDefense": 40,
+  "baseSpeed": 20,
+  "baseSpAtk": 70,
+  "baseSpDef": 40,
+  "type1Id": "FIRE",
+  "type2Id": "FIRE",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 78,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "FIRE_BLAST",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "FLAMETHROWER"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "SMOG"
+    },
+    {
+      "level": 8,
+      "moveId": "EMBER"
+    },
+    {
+      "level": 15,
+      "moveId": "ROCK_THROW"
+    },
+    {
+      "level": 22,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 29,
+      "moveId": "AMNESIA"
+    },
+    {
+      "level": 36,
+      "moveId": "FLAMETHROWER"
+    },
+    {
+      "level": 43,
+      "moveId": "ROCK_SLIDE"
+    },
+    {
+      "level": 50,
+      "moveId": "BODY_SLAM"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Level",
+      "targetSpeciesId": "MAGCARGO",
+      "param": "38"
+    }
+  ],
+  "eggMoves": [
+    "ACID_ARMOR"
+  ],
+  "spriteId": "slugma",
+  "cryId": "slugma"
+}

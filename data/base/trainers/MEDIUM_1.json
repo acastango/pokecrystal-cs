@@ -1,0 +1,23 @@
+{
+  "id": "MEDIUM_1",
+  "classId": "MEDIUM",
+  "name": "MARTHA",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "GASTLY"
+    },
+    {
+      "level": 20,
+      "speciesId": "HAUNTER"
+    },
+    {
+      "level": 20,
+      "speciesId": "GASTLY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

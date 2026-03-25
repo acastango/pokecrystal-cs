@@ -1,0 +1,15 @@
+{
+  "id": "SWIMMERF_8",
+  "classId": "SWIMMERF",
+  "name": "LISA",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "JYNX"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "MEDIUM_2",
+  "classId": "MEDIUM",
+  "name": "GRACE",
+  "party": [
+    {
+      "level": 20,
+      "speciesId": "HAUNTER"
+    },
+    {
+      "level": 20,
+      "speciesId": "HAUNTER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": "PICNICKER_26",
+  "classId": "PICNICKER",
+  "name": "TIFFANY",
+  "party": [
+    {
+      "level": 43,
+      "speciesId": "CLEFAIRY",
+      "moves": [
+        "METRONOME",
+        "ENCORE",
+        "MOONLIGHT",
+        "MINIMIZE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

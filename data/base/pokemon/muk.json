@@ -1,0 +1,97 @@
+{
+  "id": "MUK",
+  "name": "MUK",
+  "baseHp": 105,
+  "baseAttack": 105,
+  "baseDefense": 75,
+  "baseSpeed": 50,
+  "baseSpAtk": 65,
+  "baseSpDef": 100,
+  "type1Id": "POISON",
+  "type2Id": "POISON",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_INDETERMINATE",
+    "EGG_INDETERMINATE"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 75,
+  "baseExp": 157,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "DYNAMICPUNCH",
+    "CURSE",
+    "TOXIC",
+    "ZAP_CANNON",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "HYPER_BEAM",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "THUNDER",
+    "RETURN",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "ICE_PUNCH",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "FIRE_BLAST",
+    "THUNDERPUNCH",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "FIRE_PUNCH",
+    "FLAMETHROWER",
+    "THUNDERBOLT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "POISON_GAS"
+    },
+    {
+      "level": 1,
+      "moveId": "POUND"
+    },
+    {
+      "level": 1,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 33,
+      "moveId": "HARDEN"
+    },
+    {
+      "level": 37,
+      "moveId": "DISABLE"
+    },
+    {
+      "level": 45,
+      "moveId": "SLUDGE"
+    },
+    {
+      "level": 23,
+      "moveId": "MINIMIZE"
+    },
+    {
+      "level": 31,
+      "moveId": "SCREECH"
+    },
+    {
+      "level": 45,
+      "moveId": "ACID_ARMOR"
+    },
+    {
+      "level": 60,
+      "moveId": "SLUDGE_BOMB"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [],
+  "spriteId": "muk",
+  "cryId": "muk"
+}

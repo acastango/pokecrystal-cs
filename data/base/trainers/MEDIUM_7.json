@@ -1,0 +1,19 @@
+{
+  "id": "MEDIUM_7",
+  "classId": "MEDIUM",
+  "name": "DORIS",
+  "party": [
+    {
+      "level": 34,
+      "speciesId": "SLOWPOKE"
+    },
+    {
+      "level": 36,
+      "speciesId": "SLOWBRO"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

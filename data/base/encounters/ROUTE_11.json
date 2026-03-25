@@ -1,0 +1,99 @@
+{
+  "mapId": "ROUTE_11",
+  "grass": {
+    "mornRate": 10,
+    "dayRate": 10,
+    "niteRate": 10,
+    "morn": [
+      {
+        "level": 14,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 13,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 16,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 16,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 16,
+        "speciesId": "HOPPIP"
+      }
+    ],
+    "day": [
+      {
+        "level": 14,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 13,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 15,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 16,
+        "speciesId": "PIDGEOTTO"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATTATA"
+      },
+      {
+        "level": 16,
+        "speciesId": "HOPPIP"
+      },
+      {
+        "level": 16,
+        "speciesId": "HOPPIP"
+      }
+    ],
+    "nite": [
+      {
+        "level": 14,
+        "speciesId": "DROWZEE"
+      },
+      {
+        "level": 13,
+        "speciesId": "MEOWTH"
+      },
+      {
+        "level": 15,
+        "speciesId": "MAGNEMITE"
+      },
+      {
+        "level": 16,
+        "speciesId": "NOCTOWL"
+      },
+      {
+        "level": 16,
+        "speciesId": "RATICATE"
+      },
+      {
+        "level": 16,
+        "speciesId": "HYPNO"
+      },
+      {
+        "level": 16,
+        "speciesId": "HYPNO"
+      }
+    ]
+  },
+  "water": null
+}

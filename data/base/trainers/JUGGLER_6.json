@@ -1,0 +1,27 @@
+{
+  "id": "JUGGLER_6",
+  "classId": "JUGGLER",
+  "name": "IRWIN",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "VOLTORB"
+    },
+    {
+      "level": 22,
+      "speciesId": "VOLTORB"
+    },
+    {
+      "level": 26,
+      "speciesId": "VOLTORB"
+    },
+    {
+      "level": 30,
+      "speciesId": "ELECTRODE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

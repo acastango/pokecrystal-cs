@@ -1,0 +1,23 @@
+{
+  "id": "COOLTRAINERM_16",
+  "classId": "COOLTRAINERM",
+  "name": "SEAN",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "FLAREON"
+    },
+    {
+      "level": 35,
+      "speciesId": "TANGELA"
+    },
+    {
+      "level": 35,
+      "speciesId": "TAUROS"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

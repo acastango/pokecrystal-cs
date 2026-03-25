@@ -1,0 +1,41 @@
+{
+  "id": "HIKER_19",
+  "classId": "HIKER",
+  "name": "PARRY",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "PILOSWINE",
+      "moves": [
+        "EARTHQUAKE",
+        "BLIZZARD",
+        "REST",
+        "TAKE_DOWN"
+      ]
+    },
+    {
+      "level": 35,
+      "speciesId": "DUGTRIO",
+      "moves": [
+        "MAGNITUDE",
+        "DIG",
+        "MUD_SLAP",
+        "SLASH"
+      ]
+    },
+    {
+      "level": 38,
+      "speciesId": "STEELIX",
+      "moves": [
+        "DIG",
+        "IRON_TAIL",
+        "SANDSTORM",
+        "SLAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

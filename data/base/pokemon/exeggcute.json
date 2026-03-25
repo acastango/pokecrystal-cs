@@ -1,0 +1,102 @@
+{
+  "id": "EXEGGCUTE",
+  "name": "EXEGGCUTE",
+  "baseHp": 60,
+  "baseAttack": 40,
+  "baseDefense": 80,
+  "baseSpeed": 40,
+  "baseSpAtk": 60,
+  "baseSpDef": 45,
+  "type1Id": "GRASS",
+  "type2Id": "PSYCHIC_TYPE",
+  "growthRate": "Slow",
+  "eggGroups": [
+    "EGG_PLANT",
+    "EGG_PLANT"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 90,
+  "baseExp": 98,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "PSYCH_UP",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "GIGA_DRAIN",
+    "ENDURE",
+    "FRUSTRATION",
+    "SOLARBEAM",
+    "RETURN",
+    "PSYCHIC_M",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "DREAM_EATER",
+    "REST",
+    "ATTRACT",
+    "THIEF",
+    "NIGHTMARE",
+    "STRENGTH",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "BARRAGE"
+    },
+    {
+      "level": 1,
+      "moveId": "HYPNOSIS"
+    },
+    {
+      "level": 7,
+      "moveId": "REFLECT"
+    },
+    {
+      "level": 13,
+      "moveId": "LEECH_SEED"
+    },
+    {
+      "level": 19,
+      "moveId": "CONFUSION"
+    },
+    {
+      "level": 25,
+      "moveId": "STUN_SPORE"
+    },
+    {
+      "level": 31,
+      "moveId": "POISONPOWDER"
+    },
+    {
+      "level": 37,
+      "moveId": "SLEEP_POWDER"
+    },
+    {
+      "level": 43,
+      "moveId": "SOLARBEAM"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "EXEGGUTOR",
+      "param": "LEAF_STONE"
+    }
+  ],
+  "eggMoves": [
+    "SYNTHESIS",
+    "MOONLIGHT",
+    "REFLECT",
+    "MEGA_DRAIN",
+    "ANCIENTPOWER"
+  ],
+  "spriteId": "exeggcute",
+  "cryId": "exeggcute"
+}

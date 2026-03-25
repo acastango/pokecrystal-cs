@@ -1,0 +1,21 @@
+{
+  "mapId": "VIRIDIAN_CITY",
+  "grass": null,
+  "water": {
+    "rate": 2,
+    "slots": [
+      {
+        "level": 10,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 5,
+        "speciesId": "POLIWAG"
+      },
+      {
+        "level": 10,
+        "speciesId": "POLIWHIRL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "MORTY_1",
+  "classId": "MORTY",
+  "name": "MORTY",
+  "party": [
+    {
+      "level": 21,
+      "speciesId": "GASTLY",
+      "moves": [
+        "LICK",
+        "SPITE",
+        "MEAN_LOOK",
+        "CURSE"
+      ]
+    },
+    {
+      "level": 21,
+      "speciesId": "HAUNTER",
+      "moves": [
+        "HYPNOSIS",
+        "MIMIC",
+        "CURSE",
+        "NIGHT_SHADE"
+      ]
+    },
+    {
+      "level": 25,
+      "speciesId": "GENGAR",
+      "moves": [
+        "HYPNOSIS",
+        "SHADOW_BALL",
+        "MEAN_LOOK",
+        "DREAM_EATER"
+      ]
+    },
+    {
+      "level": 23,
+      "speciesId": "HAUNTER",
+      "moves": [
+        "SPITE",
+        "MEAN_LOOK",
+        "MIMIC",
+        "NIGHT_SHADE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

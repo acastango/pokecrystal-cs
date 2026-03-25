@@ -1,0 +1,23 @@
+{
+  "id": "PKMNTRAINER_2",
+  "classId": "PKMNTRAINER",
+  "name": "CAL",
+  "party": [
+    {
+      "level": 30,
+      "speciesId": "BAYLEEF"
+    },
+    {
+      "level": 30,
+      "speciesId": "QUILAVA"
+    },
+    {
+      "level": 30,
+      "speciesId": "CROCONAW"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

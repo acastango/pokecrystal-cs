@@ -1,0 +1,15 @@
+{
+  "id": "SAILOR_10",
+  "classId": "SAILOR",
+  "name": "HARRY",
+  "party": [
+    {
+      "level": 19,
+      "speciesId": "WOOPER"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

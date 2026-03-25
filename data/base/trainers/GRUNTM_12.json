@@ -1,0 +1,15 @@
+{
+  "id": "GRUNTM_12",
+  "classId": "GRUNTM",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 33,
+      "speciesId": "HOUNDOUR"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

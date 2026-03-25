@@ -1,0 +1,15 @@
+{
+  "id": "GRUNTM_22",
+  "classId": "GRUNTM",
+  "name": "EXECUTIVE",
+  "party": [
+    {
+      "level": 36,
+      "speciesId": "GOLBAT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

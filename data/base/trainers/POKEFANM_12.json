@@ -1,0 +1,26 @@
+{
+  "id": "POKEFANM_12",
+  "classId": "POKEFANM",
+  "name": "ALEX",
+  "party": [
+    {
+      "level": 29,
+      "speciesId": "NIDOKING",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 29,
+      "speciesId": "SLOWKING",
+      "heldItemId": "BERRY"
+    },
+    {
+      "level": 29,
+      "speciesId": "SEAKING",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

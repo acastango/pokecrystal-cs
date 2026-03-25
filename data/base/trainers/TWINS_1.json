@@ -1,0 +1,19 @@
+{
+  "id": "TWINS_1",
+  "classId": "TWINS",
+  "name": "AMY & MAY",
+  "party": [
+    {
+      "level": 10,
+      "speciesId": "SPINARAK"
+    },
+    {
+      "level": 10,
+      "speciesId": "LEDYBA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

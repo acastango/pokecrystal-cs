@@ -1,0 +1,16 @@
+{
+  "id": "POKEFANF_3",
+  "classId": "POKEFANF",
+  "name": "BEVERLY",
+  "party": [
+    {
+      "level": 18,
+      "speciesId": "SNUBBULL",
+      "heldItemId": "BERRY"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

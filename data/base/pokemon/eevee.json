@@ -1,0 +1,111 @@
+{
+  "id": "EEVEE",
+  "name": "EEVEE",
+  "baseHp": 55,
+  "baseAttack": 55,
+  "baseDefense": 50,
+  "baseSpeed": 55,
+  "baseSpAtk": 45,
+  "baseSpDef": 65,
+  "type1Id": "NORMAL",
+  "type2Id": "NORMAL",
+  "growthRate": "MediumFast",
+  "eggGroups": [
+    "EGG_GROUND",
+    "EGG_GROUND"
+  ],
+  "genderRatio": 0.125,
+  "catchRate": 45,
+  "baseExp": 92,
+  "hatchCycles": 35,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "TOXIC",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "RAIN_DANCE",
+    "ENDURE",
+    "FRUSTRATION",
+    "IRON_TAIL",
+    "RETURN",
+    "SHADOW_BALL",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SWIFT",
+    "DETECT",
+    "REST",
+    "ATTRACT"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "TACKLE"
+    },
+    {
+      "level": 1,
+      "moveId": "TAIL_WHIP"
+    },
+    {
+      "level": 8,
+      "moveId": "SAND_ATTACK"
+    },
+    {
+      "level": 16,
+      "moveId": "GROWL"
+    },
+    {
+      "level": 23,
+      "moveId": "QUICK_ATTACK"
+    },
+    {
+      "level": 30,
+      "moveId": "BITE"
+    },
+    {
+      "level": 36,
+      "moveId": "BATON_PASS"
+    },
+    {
+      "level": 42,
+      "moveId": "TAKE_DOWN"
+    }
+  ],
+  "evolutions": [
+    {
+      "method": "Item",
+      "targetSpeciesId": "JOLTEON",
+      "param": "THUNDERSTONE"
+    },
+    {
+      "method": "Item",
+      "targetSpeciesId": "VAPOREON",
+      "param": "WATER_STONE"
+    },
+    {
+      "method": "Item",
+      "targetSpeciesId": "FLAREON",
+      "param": "FIRE_STONE"
+    },
+    {
+      "method": "Happiness",
+      "targetSpeciesId": "ESPEON",
+      "param": "TR_MORNDAY"
+    },
+    {
+      "method": "Happiness",
+      "targetSpeciesId": "UMBREON",
+      "param": "TR_NITE"
+    }
+  ],
+  "eggMoves": [
+    "FLAIL",
+    "CHARM"
+  ],
+  "spriteId": "eevee",
+  "cryId": "eevee"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "SCHOOLBOY_2",
+  "classId": "SCHOOLBOY",
+  "name": "KIPP",
+  "party": [
+    {
+      "level": 27,
+      "speciesId": "VOLTORB"
+    },
+    {
+      "level": 27,
+      "speciesId": "MAGNEMITE"
+    },
+    {
+      "level": 31,
+      "speciesId": "VOLTORB"
+    },
+    {
+      "level": 31,
+      "speciesId": "MAGNETON"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,27 @@
+{
+  "id": "SAILOR_8",
+  "classId": "SAILOR",
+  "name": "KENNETH",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "MACHOP"
+    },
+    {
+      "level": 28,
+      "speciesId": "MACHOP"
+    },
+    {
+      "level": 28,
+      "speciesId": "POLIWRATH"
+    },
+    {
+      "level": 28,
+      "speciesId": "MACHOP"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

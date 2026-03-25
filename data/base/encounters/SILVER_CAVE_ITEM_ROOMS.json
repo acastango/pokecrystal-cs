@@ -1,0 +1,99 @@
+{
+  "mapId": "SILVER_CAVE_ITEM_ROOMS",
+  "grass": {
+    "mornRate": 6,
+    "dayRate": 6,
+    "niteRate": 6,
+    "morn": [
+      {
+        "level": 48,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 46,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 50,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 46,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 48,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 50,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 52,
+        "speciesId": "PARASECT"
+      }
+    ],
+    "day": [
+      {
+        "level": 48,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 46,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 50,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 46,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 48,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 50,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 52,
+        "speciesId": "PARASECT"
+      }
+    ],
+    "nite": [
+      {
+        "level": 45,
+        "speciesId": "MISDREAVUS"
+      },
+      {
+        "level": 48,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 50,
+        "speciesId": "GOLBAT"
+      },
+      {
+        "level": 46,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 48,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 50,
+        "speciesId": "PARASECT"
+      },
+      {
+        "level": 52,
+        "speciesId": "PARASECT"
+      }
+    ]
+  },
+  "water": null
+}

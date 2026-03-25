@@ -1,0 +1,23 @@
+{
+  "id": "FISHER_4",
+  "classId": "FISHER",
+  "name": "KYLE",
+  "party": [
+    {
+      "level": 28,
+      "speciesId": "SEAKING"
+    },
+    {
+      "level": 31,
+      "speciesId": "POLIWHIRL"
+    },
+    {
+      "level": 31,
+      "speciesId": "SEAKING"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

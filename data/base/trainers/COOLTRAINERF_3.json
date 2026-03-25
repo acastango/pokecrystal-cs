@@ -1,0 +1,15 @@
+{
+  "id": "COOLTRAINERF_3",
+  "classId": "COOLTRAINERF",
+  "name": "FRAN",
+  "party": [
+    {
+      "level": 37,
+      "speciesId": "SEADRA"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

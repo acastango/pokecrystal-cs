@@ -1,0 +1,51 @@
+{
+  "id": "MISTY_1",
+  "classId": "MISTY",
+  "name": "MISTY",
+  "party": [
+    {
+      "level": 42,
+      "speciesId": "GOLDUCK",
+      "moves": [
+        "SURF",
+        "DISABLE",
+        "PSYCH_UP",
+        "PSYCHIC_M"
+      ]
+    },
+    {
+      "level": 42,
+      "speciesId": "QUAGSIRE",
+      "moves": [
+        "SURF",
+        "AMNESIA",
+        "EARTHQUAKE",
+        "RAIN_DANCE"
+      ]
+    },
+    {
+      "level": 44,
+      "speciesId": "LAPRAS",
+      "moves": [
+        "SURF",
+        "PERISH_SONG",
+        "BLIZZARD",
+        "RAIN_DANCE"
+      ]
+    },
+    {
+      "level": 47,
+      "speciesId": "STARMIE",
+      "moves": [
+        "SURF",
+        "CONFUSE_RAY",
+        "RECOVER",
+        "ICE_BEAM"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

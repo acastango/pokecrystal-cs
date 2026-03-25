@@ -1,0 +1,23 @@
+{
+  "id": "COOLTRAINERM_14",
+  "classId": "COOLTRAINERM",
+  "name": "ANDY",
+  "party": [
+    {
+      "level": 10,
+      "speciesId": "BULBASAUR"
+    },
+    {
+      "level": 10,
+      "speciesId": "CHARMANDER"
+    },
+    {
+      "level": 10,
+      "speciesId": "SQUIRTLE"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

@@ -1,0 +1,84 @@
+{
+  "id": "SHUCKLE",
+  "name": "SHUCKLE",
+  "baseHp": 20,
+  "baseAttack": 10,
+  "baseDefense": 230,
+  "baseSpeed": 5,
+  "baseSpAtk": 10,
+  "baseSpDef": 230,
+  "type1Id": "BUG",
+  "type2Id": "ROCK",
+  "growthRate": "MediumSlow",
+  "eggGroups": [
+    "EGG_BUG",
+    "EGG_BUG"
+  ],
+  "genderRatio": 0.5,
+  "catchRate": 190,
+  "baseExp": 80,
+  "hatchCycles": 20,
+  "tmHmMoves": [
+    "HEADBUTT",
+    "CURSE",
+    "ROLLOUT",
+    "TOXIC",
+    "ROCK_SMASH",
+    "HIDDEN_POWER",
+    "SUNNY_DAY",
+    "SNORE",
+    "PROTECT",
+    "ENDURE",
+    "FRUSTRATION",
+    "EARTHQUAKE",
+    "RETURN",
+    "DIG",
+    "MUD_SLAP",
+    "DOUBLE_TEAM",
+    "SWAGGER",
+    "SLEEP_TALK",
+    "SLUDGE_BOMB",
+    "SANDSTORM",
+    "DEFENSE_CURL",
+    "REST",
+    "ATTRACT",
+    "STRENGTH",
+    "FLASH"
+  ],
+  "learnset": [
+    {
+      "level": 1,
+      "moveId": "CONSTRICT"
+    },
+    {
+      "level": 1,
+      "moveId": "WITHDRAW"
+    },
+    {
+      "level": 9,
+      "moveId": "WRAP"
+    },
+    {
+      "level": 14,
+      "moveId": "ENCORE"
+    },
+    {
+      "level": 23,
+      "moveId": "SAFEGUARD"
+    },
+    {
+      "level": 28,
+      "moveId": "BIDE"
+    },
+    {
+      "level": 37,
+      "moveId": "REST"
+    }
+  ],
+  "evolutions": [],
+  "eggMoves": [
+    "SWEET_SCENT"
+  ],
+  "spriteId": "shuckle",
+  "cryId": "shuckle"
+}

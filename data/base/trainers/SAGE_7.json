@@ -1,0 +1,23 @@
+{
+  "id": "SAGE_7",
+  "classId": "SAGE",
+  "name": "EDMOND",
+  "party": [
+    {
+      "level": 3,
+      "speciesId": "BELLSPROUT"
+    },
+    {
+      "level": 3,
+      "speciesId": "BELLSPROUT"
+    },
+    {
+      "level": 3,
+      "speciesId": "BELLSPROUT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

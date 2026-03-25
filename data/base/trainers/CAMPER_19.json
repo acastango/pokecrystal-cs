@@ -1,0 +1,23 @@
+{
+  "id": "CAMPER_19",
+  "classId": "CAMPER",
+  "name": "SPENCER",
+  "party": [
+    {
+      "level": 17,
+      "speciesId": "SANDSHREW"
+    },
+    {
+      "level": 17,
+      "speciesId": "SANDSLASH"
+    },
+    {
+      "level": 19,
+      "speciesId": "ZUBAT"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

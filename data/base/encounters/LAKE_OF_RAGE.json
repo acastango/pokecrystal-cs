@@ -1,0 +1,21 @@
+{
+  "mapId": "LAKE_OF_RAGE",
+  "grass": null,
+  "water": {
+    "rate": 6,
+    "slots": [
+      {
+        "level": 15,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 10,
+        "speciesId": "MAGIKARP"
+      },
+      {
+        "level": 15,
+        "speciesId": "GYARADOS"
+      }
+    ]
+  }
+}

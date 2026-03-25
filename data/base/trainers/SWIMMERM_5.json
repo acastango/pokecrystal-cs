@@ -1,0 +1,35 @@
+{
+  "id": "SWIMMERM_5",
+  "classId": "SWIMMERM",
+  "name": "GEORGE",
+  "party": [
+    {
+      "level": 16,
+      "speciesId": "TENTACOOL"
+    },
+    {
+      "level": 17,
+      "speciesId": "TENTACOOL"
+    },
+    {
+      "level": 16,
+      "speciesId": "TENTACOOL"
+    },
+    {
+      "level": 19,
+      "speciesId": "STARYU"
+    },
+    {
+      "level": 17,
+      "speciesId": "TENTACOOL"
+    },
+    {
+      "level": 19,
+      "speciesId": "REMORAID"
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}

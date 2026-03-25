@@ -1,0 +1,51 @@
+{
+  "id": "SCHOOLBOY_22",
+  "classId": "SCHOOLBOY",
+  "name": "ALAN",
+  "party": [
+    {
+      "level": 35,
+      "speciesId": "XATU",
+      "moves": [
+        "PECK",
+        "NIGHT_SHADE",
+        "SWIFT",
+        "FUTURE_SIGHT"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "TANGELA",
+      "moves": [
+        "POISONPOWDER",
+        "VINE_WHIP",
+        "BIND",
+        "MEGA_DRAIN"
+      ]
+    },
+    {
+      "level": 32,
+      "speciesId": "YANMA",
+      "moves": [
+        "QUICK_ATTACK",
+        "DOUBLE_TEAM",
+        "SONICBOOM",
+        "SUPERSONIC"
+      ]
+    },
+    {
+      "level": 35,
+      "speciesId": "QUAGSIRE",
+      "moves": [
+        "TAIL_WHIP",
+        "SLAM",
+        "AMNESIA",
+        "EARTHQUAKE"
+      ]
+    }
+  ],
+  "aiStrategyKey": "basic",
+  "introTextRef": "",
+  "winTextRef": "",
+  "loseTextRef": ""
+}
