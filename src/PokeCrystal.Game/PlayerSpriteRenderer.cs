@@ -97,11 +97,12 @@ public sealed class PlayerSpriteRenderer
             foreach (var c in palEl.EnumerateArray())
             {
                 if (i >= 4) break;
-                colors[i++] = new Color(
-                    c.GetProperty("r").GetInt32(),
-                    c.GetProperty("g").GetInt32(),
-                    c.GetProperty("b").GetInt32(),
-                    c.GetProperty("a").GetInt32());
+                int a = c.GetProperty("a").GetInt32();
+                colors[i++] = a == 0
+                    ? Color.Transparent   // premultiplied: must be (0,0,0,0), not (r,g,b,0)
+                    : new Color(c.GetProperty("r").GetInt32(),
+                                c.GetProperty("g").GetInt32(),
+                                c.GetProperty("b").GetInt32(), a);
             }
             return colors;
         }
