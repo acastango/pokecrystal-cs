@@ -8,15 +8,14 @@ This is a fan project. It does not include any Nintendo ROM data. Game data is e
 
 ## What works
 
-- Overworld with smooth-scroll movement (Crystal-accurate 14-frame walk)
+- Overworld started, camera isn't perfect yet.
 - Ledge hopping with arc animation and shadow sprite
-- Map connections (walking between routes)
-- Warp tiles (buildings, caves)
+- Map connections (walking between routes) - though they are static and not scrollable
 - NPC map objects and interaction scripting
-- Wild encounter system
-- Basic battle engine (damage, type effectiveness, catch, experience)
-- Map editor (Avalonia)
-- Mod loader
+- Wild encounter system - Battle system, transitions, etc, not yet implemented
+- Basic battle engine (damage, type effectiveness, catch, experience) <--- not tested, skeleton built, not fully wired
+- Designed for map editor (Avalonia)
+- Designed with a mod loader from start
 
 ## What doesn't (yet)
 
