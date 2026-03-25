@@ -1,13 +1,15 @@
 /**
- * gen_tilesets.js — Extract Crystal tileset palette data for use at runtime.
+ * gen_tilesets.js — Extract Crystal tileset and sprite palette data for use at runtime.
  *
  * Reads:
  *   pokecrystal-master/gfx/tilesets/bg_tiles.pal
  *   pokecrystal-master/gfx/tilesets/{tileset}_palette_map.asm
+ *   pokecrystal-master/gfx/overworld/npc_sprites.pal
  *
  * Writes:
- *   data/tilesets/bg_palettes.json           — day-time RGBA for each palette name
+ *   data/tilesets/bg_palettes.json            — day-time RGBA for each BG palette name
  *   data/tilesets/{tileset}_tile_palettes.bin — one byte per tile = palette index 0-7
+ *   data/sprites/npc_sprite_palettes.json     — day-time RGBA for each NPC palette name
  *
  * Usage:
  *   node tools/gen_tilesets.js
@@ -16,10 +18,12 @@
 const fs   = require('fs');
 const path = require('path');
 
-const ROOT     = path.join(__dirname, '..');
-const GFX_PAL  = path.join(ROOT, 'pokecrystal-master', 'gfx', 'tilesets', 'bg_tiles.pal');
-const PAL_MAP  = path.join(ROOT, 'pokecrystal-master', 'gfx', 'tilesets');
-const OUT_DIR  = path.join(ROOT, 'data', 'tilesets');
+const ROOT         = path.join(__dirname, '..');
+const GFX_PAL      = path.join(ROOT, 'pokecrystal-master', 'gfx', 'tilesets', 'bg_tiles.pal');
+const NPC_PAL      = path.join(ROOT, 'pokecrystal-master', 'gfx', 'overworld', 'npc_sprites.pal');
+const PAL_MAP      = path.join(ROOT, 'pokecrystal-master', 'gfx', 'tilesets');
+const OUT_DIR      = path.join(ROOT, 'data', 'tilesets');
+const SPRITES_DIR  = path.join(ROOT, 'data', 'sprites');
 
 // ── Parse bg_tiles.pal ────────────────────────────────────────────────────────
 // Format: section header ("; morn", "; day" …) then
@@ -116,6 +120,29 @@ for (const tileset of tilesets) {
 
     fs.writeFileSync(outPath, buf);
     console.log(`Wrote ${tileset}_tile_palettes.bin (${tileNames.length} entries parsed)`);
+}
+
+// ── NPC sprite palettes ───────────────────────────────────────────────────────
+// Crystal PAL_OW_* constants order (sprite_data_constants.asm):
+//   0=red, 1=blue, 2=green, 3=brown, 4=pink, 5=emote/silver, 6=tree, 7=rock
+// npc_sprites.pal lists them as: red, blue, green, brown, pink, silver, tree, rock
+
+const npcSections = parsePalFile(NPC_PAL);
+const npcDay = npcSections['day'];
+if (npcDay) {
+    // Color 0 is always transparent for sprites (GBC sprite hardware).
+    // Output with explicit transparent flag on color index 0.
+    const npcOut = {};
+    for (const [name, colors] of Object.entries(npcDay)) {
+        npcOut[name] = colors.map((c, i) => ({
+            r: c.r, g: c.g, b: c.b,
+            a: i === 0 ? 0 : 255   // color 0 = transparent
+        }));
+    }
+    fs.writeFileSync(path.join(SPRITES_DIR, 'npc_sprite_palettes.json'), JSON.stringify(npcOut, null, 2));
+    console.log('Wrote npc_sprite_palettes.json —', Object.keys(npcOut).join(', '));
+} else {
+    console.warn('WARNING: could not find ; day section in npc_sprites.pal');
 }
 
 console.log('Done.');

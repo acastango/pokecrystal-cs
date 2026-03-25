@@ -1,5 +1,6 @@
 namespace PokeCrystal.Game;
 
+using System.Text.Json;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using PokeCrystal.Schema;
@@ -42,24 +43,69 @@ public sealed class PlayerSpriteRenderer
     /// <summary>Called from CrystalGame.LoadContent once GraphicsDevice is ready.</summary>
     public void Initialize(GraphicsDevice gd)
     {
-        _sheet  = LoadColorKeyed(gd, Path.Combine(_spritesDir, "kris.png"));
-        _shadow = LoadColorKeyed(gd, Path.Combine(_spritesDir, "shadow.png"));
+        // Kris uses PAL_OW_BLUE from npc_sprites.pal — load and apply at startup.
+        var npcPalPath = Path.Combine(_spritesDir, "npc_sprite_palettes.json");
+        var krisPal    = LoadNpcPalette(npcPalPath, "blue");
+
+        _sheet  = LoadSprite(gd, Path.Combine(_spritesDir, "kris.png"),  krisPal);
+        _shadow = LoadSprite(gd, Path.Combine(_spritesDir, "shadow.png"), null);
     }
 
-    private static Texture2D? LoadColorKeyed(GraphicsDevice gd, string path)
+    /// <summary>
+    /// Load a 2-bit grayscale sprite PNG, apply the GBC palette, and color-key color 0 to transparent.
+    /// If <paramref name="palette"/> is null, only color-key (white → transparent) is applied.
+    /// </summary>
+    private static Texture2D? LoadSprite(GraphicsDevice gd, string path, Color[]? palette)
     {
         if (!File.Exists(path)) return null;
         Texture2D tex;
         using (var stream = File.OpenRead(path))
             tex = Texture2D.FromStream(gd, stream);
-        // GB color 0 (white) is the transparent color — key it out manually (no alpha channel).
+
         var pixels = new Color[tex.Width * tex.Height];
         tex.GetData(pixels);
+
         for (int i = 0; i < pixels.Length; i++)
-            if (pixels[i].R > 240 && pixels[i].G > 240 && pixels[i].B > 240)
-                pixels[i] = Color.Transparent;
+        {
+            if (palette is not null)
+            {
+                // 2-bit PNG: R=255→GBC0 (transparent), R=170→GBC1, R=85→GBC2, R=0→GBC3
+                int gbc = (255 - pixels[i].R + 42) / 85;
+                pixels[i] = palette[Math.Clamp(gbc, 0, 3)];
+            }
+            else
+            {
+                // No palette — just color-key white out (shadow sprite)
+                if (pixels[i].R > 240 && pixels[i].G > 240 && pixels[i].B > 240)
+                    pixels[i] = Color.Transparent;
+            }
+        }
+
         tex.SetData(pixels);
         return tex;
+    }
+
+    private static Color[]? LoadNpcPalette(string jsonPath, string name)
+    {
+        if (!File.Exists(jsonPath)) return null;
+        try
+        {
+            using var doc = JsonDocument.Parse(File.ReadAllText(jsonPath));
+            if (!doc.RootElement.TryGetProperty(name, out var palEl)) return null;
+            var colors = new Color[4];
+            int i = 0;
+            foreach (var c in palEl.EnumerateArray())
+            {
+                if (i >= 4) break;
+                colors[i++] = new Color(
+                    c.GetProperty("r").GetInt32(),
+                    c.GetProperty("g").GetInt32(),
+                    c.GetProperty("b").GetInt32(),
+                    c.GetProperty("a").GetInt32());
+            }
+            return colors;
+        }
+        catch { return null; }
     }
 
     /// <summary>
