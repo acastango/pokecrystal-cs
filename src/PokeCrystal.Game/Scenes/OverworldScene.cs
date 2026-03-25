@@ -20,12 +20,21 @@ using PokeCrystal.World.Systems;
 public sealed class OverworldScene : IScene
 {
     // Tile size in screen pixels (160×144 GB × 3× scale = 480×432)
-    private const int TileSize   = 48;
-    private const int ViewCols   = 10;
-    private const int ViewRows   = 9;
-    private const int ScreenW    = 480;
-    private const int ScreenH    = 432;
-    private const int StatusBarH = 28;
+    private const int   TileSize   = 48;
+    private const int   ViewCols   = 10;
+    private const int   ViewRows   = 9;
+    private const int   ScreenW    = 480;
+    private const int   ScreenH    = 432;
+    private const int   StatusBarH = 28;
+
+    // Crystal PlayerSpawn_ConvertCoords / RefreshPlayerCoords both do:
+    //   MAPOBJECT_X_COORD = wXCoord + 4
+    //   MAPOBJECT_Y_COORD = wYCoord + 4
+    // The player sprite is therefore fixed at 4 blocks from the camera origin in each axis,
+    // NOT at ViewCols/2 (5) or ViewRows/2 (4.5).  Using those instead shifts the player
+    // +16 GB px right and +8–12 GB px down compared to the original.
+    private const float CamOffsetX = 4f;
+    private const float CamOffsetY = 4f;
 
     private readonly OverworldEngine      _engine;
     private readonly WorldContext         _ctx;
@@ -165,10 +174,10 @@ public sealed class OverworldScene : IScene
         float visX = _ctx.PlayerX + _playerController.SubTileOffsetX;
         float visY = _ctx.PlayerY + _playerController.SubTileOffsetY;
 
-        // Float camera centred on the visual position, clamped to map bounds.
-        // Using the visual position means camXf changes smoothly — no per-frame jump.
-        float camXf = Math.Clamp(visX - ViewCols / 2f, 0f, Math.Max(0f, mapW - ViewCols));
-        float camYf = Math.Clamp(visY - ViewRows / 2f, 0f, Math.Max(0f, mapH - ViewRows));
+        // Camera: lock player at Crystal-accurate (CamOffsetX, CamOffsetY) from camera origin.
+        // Clamp at map edges so the camera never scrolls past the map boundary.
+        float camXf = Math.Clamp(visX - CamOffsetX, 0f, Math.Max(0f, mapW - ViewCols));
+        float camYf = Math.Clamp(visY - CamOffsetY, 0f, Math.Max(0f, mapH - ViewRows));
 
         // Split into integer tile index + sub-tile pixel remainder.
         int   camX    = (int)Math.Floor(camXf);
@@ -292,8 +301,8 @@ public sealed class OverworldScene : IScene
         int px = _ctx.PlayerX;
         int py = _ctx.PlayerY;
 
-        int camX = Math.Clamp(px - AsciiCols / 2, 0, Math.Max(0, map.Width  - AsciiCols));
-        int camY = Math.Clamp(py - AsciiRows / 2, 0, Math.Max(0, map.Height - AsciiRows));
+        int camX = Math.Clamp(px - (int)CamOffsetX, 0, Math.Max(0, map.Width  - AsciiCols));
+        int camY = Math.Clamp(py - (int)CamOffsetY, 0, Math.Max(0, map.Height - AsciiRows));
 
         int barWidth = AsciiCols * 2; // each tile = 2 chars
         yield return $"  map={_ctx.CurrentMapId} player=({px},{py}) cam=({camX},{camY}) hop={_playerController.IsHopping}";
